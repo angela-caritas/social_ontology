@@ -1,0 +1,372 @@
+{
+  "sub_topics": {
+    "Arbeit": [
+      {
+        "title": "Anerkennung von im Ausland erworbener Abschlüsse",
+        "mapping": []
+      },
+      {
+        "title": "Arbeitsaufnahme",
+        "mapping": []
+      },
+      {
+        "title": "Arbeitserlaubnis",
+        "mapping": []
+      },
+      {
+        "title": "Arbeitslosigkeit / Arbeitssuche",
+        "mapping": [
+          "Arbeitslosigkeit"
+        ]
+      },
+      {
+        "title": "Berufliche Fort-und Weiterbildung",
+        "mapping": [
+          "ausbildungsfoerderung"
+        ]
+      },
+      {
+        "title": "Probleme mit der Arbeitsstelle",
+        "mapping": []
+      },
+      {
+        "title": "Selbstständigkeit",
+        "mapping": []
+      }
+    ],
+    "Asylverfahren": [
+      {
+        "title": "Asylrecht / Asylverfahren",
+        "mapping": []
+      },
+      {
+        "title": "Dublin-Fälle",
+        "mapping": []
+      },
+      {
+        "title": "Kirchenasyl",
+        "mapping": []
+      },
+      {
+        "title": "Rücknahme und Widerrufsverfahren",
+        "mapping": []
+      },
+      {
+        "title": "Umverteilung",
+        "mapping": []
+      }
+    ],
+    "Aufenthaltsrecht": [
+      {
+        "title": "Aufenthaltsrecht / rechtl.Status",
+        "mapping": [
+          "Illegaler Aufenthalt"
+        ]
+      },
+      {
+        "title": "Duldung",
+        "mapping": []
+      },
+      {
+        "title": "Familiennachzug /-zusammenführung",
+        "mapping": []
+      },
+      {
+        "title": "Härtefallkommission",
+        "mapping": []
+      },
+      {
+        "title": "Identitätsklärung",
+        "mapping": []
+      }
+    ],
+    "Ausreise": [
+      {
+        "title": "Aus-,Weiter- und Rückwanderung",
+        "mapping": []
+      },
+      {
+        "title": "Ausreise freiwillig",
+        "mapping": [
+          "abschiebung-und-freiwillige-ausreise"
+        ]
+      },
+      {
+        "title": "Ausreise, unfreiwillig",
+        "mapping": []
+      }
+    ],
+    "Bildung": [
+      {
+        "title": "Ausbildung / Studium",
+        "mapping": []
+      },
+      {
+        "title": "Deutschkenntnisse",
+        "mapping": [
+          "fehlende Sprachkenntnisse"
+        ]
+      },
+      {
+        "title": "Kindertageseinrichtungen",
+        "mapping": [
+          "Sorge um Kinderbetreuung"
+        ]
+      },
+      {
+        "title": "Schule",
+        "mapping": []
+      }
+    ],
+    "Dokumente und Anträge": [
+      {
+        "title": "Ausfüllen von Anträgen",
+        "mapping": []
+      },
+      {
+        "title": "Beschaffung / Ausstellung von Dokumenten",
+        "mapping": []
+      }
+    ],
+    "Erwerb der dt. Staatsbürgerschaft": [
+      {
+        "title": "Dt. Staatsbürgerschaft durch Geburt",
+        "mapping": []
+      },
+      {
+        "title": "Einbürgerung (Aufgabe bisherige Staatsbürgerschaft)",
+        "mapping": []
+      },
+      {
+        "title": "Einbürgerung (Behaltung bisherige Staatsbürgerschaft)",
+        "mapping": []
+      }
+    ],
+    "Familie/Kinder/Partnerschaft": [
+      {
+        "title": "Ehe / Partnerschaft",
+        "mapping": [
+          "Probleme in der Partnerbeziehung",
+    "Drängen zum Abbruch durch Partner",
+    "Familienplanung/Empfängnisregel./Verhütung",
+    "Sexualität",
+    "Trennung / Verlassen werden",
+    "Übergang zur Elternschaft"
+        ]
+      },
+      {
+        "title": "Erziehung / Generationskonflikte",
+        "mapping": [
+          "Rolle / Selbstverständnis als Mutter / Vater",
+          "Situation als Alleinerziehende/r",
+          "Probleme in der Beziehung zu den Eltern",
+    "Drängen zum Abbruch durch die Familie",
+    "Erziehungssituation"
+        ]
+      },
+      {
+        "title": "Familienprobleme",
+        "mapping": []
+      },
+      {
+        "title": "Trennung / Unterhalt / Sorgerecht",
+        "mapping": []
+      }
+    ],
+    "Gesundheit": [
+      {
+        "title": "Behinderung",
+        "mapping": [
+          "Behindertes Kind in der Familie"
+        ]
+      },
+      {
+        "title": "Gesundheit / Gesundheitliche Probleme",
+        "mapping": [
+          "Gesundheitliche Situation"
+        ]
+      },
+      {
+        "title": "Psychische Probleme / Traumatisierung",
+        "mapping": [
+          "Physische / psychische Belastung"
+        ]
+      },
+      {
+        "title": "Schwangerschaft / Geburt",
+        "mapping": [
+          "Mehrlingsschwangerschaft",
+          "Probleme nach Schwangerschaftsabbruch",
+          "Probleme nach Fehl- und Totgeburt",
+          "Fragen zu Vorsorge/Schwangerschaft/Geburt",
+          "Im Kontext von Pränataldiagnostik",
+          "Unerfüllter Kinderwunsch"
+        ]
+      },
+      {
+        "title": "Suchtkrankheiten",
+        "mapping": []
+      }
+    ],
+    "Persönliche Lebensumstände/Krisen": [
+      {
+        "title": "Fluchtschicksal",
+        "mapping": []
+      },
+      {
+        "title": "Freizeitmöglichkeiten",
+        "mapping": []
+      },
+      {
+        "title": "Häusliche Gewalt",
+        "mapping": []
+      },
+      {
+        "title": "Isolation / Vereinsamung",
+        "mapping": []
+      },
+      {
+        "title": "Kulturelle Identität",
+        "mapping": []
+      },
+      {
+        "title": "Religiöse Fragen",
+        "mapping": [
+          "Werte-/Sinn- und religiöse Fragen"
+        ]
+      },
+      {
+        "title": "Sterbefälle",
+        "mapping": []
+      },
+      {
+        "title": "Straffälligkeit / Ordnungswidrigkeiten",
+        "mapping": []
+      }
+    ],
+    "Unbegleitete Minderjährige": [
+      {
+        "title": "Unbegleitete Minderjährige",
+        "mapping": []
+      }
+    ],
+    "Ungleichbehandlung und Ausgrenzung": [
+      {
+        "title": "Ausgrenzung",
+        "mapping": []
+      },
+      {
+        "title": "Diskriminierung (Allg. GleichbehandlungsG, Art. 18 AEUV)",
+        "mapping": []
+      },
+      {
+        "title": "Generelle Anfeindungen",
+        "mapping": []
+      },
+      {
+        "title": "Individuelle Abwertung/Bedrohung",
+        "mapping": []
+      }
+    ],
+    "Wirtschaftliche Situation": [
+      {
+        "title": "Existenzsicherung / wirtschaftliche Sit.",
+        "mapping": [
+          "Finanzielle Situation (allgemein)"
+        ]
+      },
+      {
+        "title": "Verschuldung / Überschuldung",
+        "mapping": [
+          "Überschuldung"
+        ]
+      }
+    ],
+    "Unterstützungsleistungen": [
+      {
+        "title": "ALG I",
+        "mapping": []
+      },
+      {
+        "title": "ALG II",
+        "mapping": []
+      },
+      {
+        "title": "AsylbLG",
+        "mapping": []
+      },
+      {
+        "title": "Bildungs- und Teilhabepaket",
+        "mapping": []
+      },
+      {
+        "title": "SGB IX",
+        "mapping": []
+      },
+      {
+        "title": "SGB XII",
+        "mapping": []
+      },
+      {
+        "title": "SGBXI",
+        "mapping": []
+      },
+      {
+        "title": "Soziale Unterstützungsleistungen",
+        "mapping": [
+          "Fragen zu sozialrechtlichen Ansprüchen usw."
+        ]
+      }
+    ],
+    "Verbraucherfragen": [
+      {
+        "title": "Rundfunkgebühren",
+        "mapping": []
+      },
+      {
+        "title": "Sonstige Verbraucherfragen",
+        "mapping": []
+      }
+    ],
+    "Versicherungen": [
+      {
+        "title": "Kranken- / Pflegeversicherung",
+        "mapping": [
+          "Fehlende Krankenversicherung"
+        ]
+      },
+      {
+        "title": "Private Versicherungen",
+        "mapping": []
+      },
+      {
+        "title": "Rentenangelegenheiten",
+        "mapping": []
+      }
+    ],
+    "Wohnen": [
+      {
+        "title": "Barrierefreiheit",
+        "mapping": []
+      },
+      {
+        "title": "Finanzierung",
+        "mapping": []
+      },
+      {
+        "title": "Mietschulden",
+        "mapping": []
+      },
+      {
+        "title": "Wohnungmängel",
+        "mapping": []
+      },
+      {
+        "title": "Wohnungssuche",
+        "mapping": [
+          "Wohnungssuche"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,3386 @@
+[
+  {
+    "Title": "Rechtliche Betreuung",
+    "Link": "http://www.caritas.de/glossare/rechtliche-betreuung",
+    "Guid": "01d3e596-04c3-4965-b77b-48eb5556962b",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Care Management",
+    "Link": "http://www.caritas.de/glossare/care-management",
+    "Guid": "3c38c9e0-3a34-47ba-a7be-433e3f100b05",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Pflegedokumentation",
+    "Link": "http://www.caritas.de/glossare/pflegedokumentation",
+    "Guid": "058872f3-6476-486c-b669-e394b9d02bf5",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Qualitätsmanagement",
+    "Link": "http://www.caritas.de/glossare/qualitaetsmanagement",
+    "Guid": "8778fae3-ca8a-4fc2-b515-60fab66e9ca4",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Selbsttötung (Beihilfe)",
+    "Link": "http://www.caritas.de/glossare/selbsttoetung-beihilfe",
+    "Guid": "a40bea4e-0ab0-454c-820c-9e9b783cde22",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Pflegeversicherung",
+    "Link": "http://www.caritas.de/glossare/pflegeversicherung",
+    "Guid": "5ee7f95f-badf-4379-b63c-f3e86afea180",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Passive Sterbehilfe",
+    "Link": "http://www.caritas.de/glossare/passive-sterbehilfe",
+    "Guid": "bf213f05-fd82-41d8-bdde-8b593d614e18",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Vorsorgevollmacht",
+    "Link": "http://www.caritas.de/glossare/vorsorgevollmacht",
+    "Guid": "8042e8c2-ef2a-430c-ba57-dd0e0ff41177",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Betreutes Wohnen (Alte Menschen)",
+    "Link": "http://www.caritas.de/glossare/betreutes-wohnen-alte-menschen",
+    "Guid": "c59d495e-472b-4378-9ddd-28d92129aadd",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Aktivierende Pflege",
+    "Link": "http://www.caritas.de/glossare/aktivierende-pflege",
+    "Guid": "c3c68031-8edf-451d-8e3b-e04cda8eb9f0",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Pflegeunterstützungsgeld",
+    "Link": "http://www.caritas.de/glossare/pflegeunterstuetzungsgeld",
+    "Guid": "ca506dbd-fff9-4165-bfec-b4ba4403bb83",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Sozialstation / Ambulanter Pflegedienst",
+    "Link": "http://www.caritas.de/glossare/sozialstation-ambulanter-pflegedienst",
+    "Guid": "db22b673-add9-411f-bd86-39b820fd2fde",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Heimgesetz",
+    "Link": "http://www.caritas.de/glossare/heimgesetz",
+    "Guid": "7d2c4df5-cf65-4eb5-b608-2e6167eb6fdb",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Rundum gut versorgt",
+    "Link": "http://www.caritas.de/beitraege/rundum-gut-versorgt/163944/",
+    "Guid": "d3a41f39-76d7-4204-b2e7-36c36e65df61",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Pflegegrade",
+    "Link": "http://www.caritas.de/glossare/pflegegrade",
+    "Guid": "d1b7c0cb-382c-44cc-a45f-d4a4f84483fc",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Kurzzeitige Arbeitsverhinderung",
+    "Link": "http://www.caritas.de/glossare/kurzzeitige-arbeitsverhinderung",
+    "Guid": "86b2e9d8-39ad-432a-b19a-adb5a4c50c04",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Heimaufsicht",
+    "Link": "http://www.caritas.de/glossare/heimaufsicht",
+    "Guid": "42103ece-770e-40b9-a33d-36ade95f8cd5",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Pflegeberatung",
+    "Link": "http://www.caritas.de/glossare/pflegeberatung",
+    "Guid": "0a104dcf-c4ce-495e-8eac-4fe6d4cc628f",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Heimbeirat",
+    "Link": "http://www.caritas.de/glossare/heimbeirat",
+    "Guid": "47177ef4-0ca3-47c0-b904-7b9a663eac98",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Teilstationäre Pflege",
+    "Link": "http://www.caritas.de/glossare/teilstationaere-pflege",
+    "Guid": "3ea360fe-a996-44dc-9699-e82cefcdaf35",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Verhinderungspflege",
+    "Link": "http://www.caritas.de/glossare/verhinderungspflege",
+    "Guid": "205a3c6e-7793-43a7-8498-013cf0afe125",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Pflegezeit",
+    "Link": "http://www.caritas.de/glossare/pflegezeit",
+    "Guid": "405842d0-a879-4025-b38d-89f5d408572f",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Wohngemeinschaft",
+    "Link": "http://www.caritas.de/glossare/wohngemeinschaft",
+    "Guid": "7365b3a1-3f6b-425e-9af1-54750ef0098a",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "SGB V",
+    "Link": "http://www.caritas.de/glossare/sgb-v",
+    "Guid": "00c35549-e4ed-432d-91b9-2d9c377b3f0f",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Patientenverfügung",
+    "Link": "http://www.caritas.de/glossare/patientenverfuegung",
+    "Guid": "3c7feb02-4801-4075-b14e-8ef23c17d5d2",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Geldleistung",
+    "Link": "http://www.caritas.de/glossare/geldleistung",
+    "Guid": "917ba5c8-05d1-408d-97c5-8ef0126ab6ab",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Direkte oder aktive Sterbehilfe",
+    "Link": "http://www.caritas.de/glossare/direkte-oder-aktive-sterbehilfe",
+    "Guid": "78b6b76a-a051-44e1-a188-25da4c28cafb",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Vollstationäre Pflege",
+    "Link": "http://www.caritas.de/glossare/vollstationaere-pflege",
+    "Guid": "ec4b32ab-f6ab-42fb-885b-e7dedb8a8774",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Pflegekassen",
+    "Link": "http://www.caritas.de/glossare/pflegekassen",
+    "Guid": "08bd95ef-db6a-4b3e-bacd-a62df2aacbad",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Familienpflegezeit",
+    "Link": "http://www.caritas.de/glossare/familienpflegezeit",
+    "Guid": "d88cd8c4-e4af-4c29-ad81-7d312ab8c4ff",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Qualitätssicherung",
+    "Link": "http://www.caritas.de/glossare/qualitaetssicherung",
+    "Guid": "9fb99d86-899b-41d7-8261-7e13b2051ae0",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Charta der Rechte hilfe- und pflegebedürftiger Menschen",
+    "Link": "http://www.caritas.de/glossare/charta-der-rechte-hilfe-und-pflegebeduer",
+    "Guid": "1346c378-3720-440e-ac33-83b27cfe4c6d",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Beratungsbesuch",
+    "Link": "http://www.caritas.de/glossare/beratungsbesuch",
+    "Guid": "8b7298af-03f9-4129-9311-e0e4bb6ced0c",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Leistungskomplexe",
+    "Link": "http://www.caritas.de/glossare/leistungskomplexe",
+    "Guid": "1f9cb227-c988-4ed5-b57a-1d2cc0f1261e",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Wohnumfeld verbessernde Maßnahmen",
+    "Link": "http://www.caritas.de/glossare/wohnumfeld-verbessernde-massnahmen",
+    "Guid": "b3eeeade-589e-4f9d-87f8-76bc6084c5be",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Entlastungsbetrag",
+    "Link": "http://www.caritas.de/glossare/entlastungsbetrag",
+    "Guid": "d7f926a6-6bf2-4e66-8d99-254ae933ddc7",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Hilfsmittel",
+    "Link": "http://www.caritas.de/glossare/hilfsmittel",
+    "Guid": "870e5901-6494-4e00-95ec-2c0a4e11880a",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Pflegebedürftigkeit",
+    "Link": "http://www.caritas.de/glossare/pflegebeduerftigkeit",
+    "Guid": "82d671a6-8c9d-4284-82ec-7e51ffb39ac6",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Case Management",
+    "Link": "http://www.caritas.de/glossare/case-management",
+    "Guid": "14e368f1-7c38-41a3-a9f3-f4cc46d464f3",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Ambulante Pflege",
+    "Link": "http://www.caritas.de/glossare/ambulante-pflege",
+    "Guid": "a4cf0c92-fba6-46f2-9caf-af911f638843",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Pflegegeld",
+    "Link": "http://www.caritas.de/glossare/pflegegeld",
+    "Guid": "2c543e87-42e6-410a-866c-d1d2d00c7fc9",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Pflegestufen",
+    "Link": "http://www.caritas.de/glossare/pflegestufen",
+    "Guid": "1e7549b8-4032-4388-bc39-c1f7dd7d31b9",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Pflegevertrag",
+    "Link": "http://www.caritas.de/glossare/pflegevertrag",
+    "Guid": "6f311e51-b073-419d-90e5-c40eb0960359",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Pflegesachleistung",
+    "Link": "http://www.caritas.de/glossare/pflegesachleistung",
+    "Guid": "5fb817e3-34a3-401b-bc8f-c39a67bc2d64",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Technische Unterstützung",
+    "Link": "http://www.caritas.de/glossare/technische-unterstuetzung",
+    "Guid": "ba6faf61-e7b1-44af-b8fb-0303d696a557",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Indirekte Sterbehilfe",
+    "Link": "http://www.caritas.de/glossare/indirekte-sterbehilfe",
+    "Guid": "74bc340e-66b3-4a27-91d1-c32ec4fcd744",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Hausnotruf",
+    "Link": "http://www.caritas.de/glossare/hausnotruf",
+    "Guid": "1ffac2c9-7f00-449d-899a-1e1260132647",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Pflegestützpunkt",
+    "Link": "http://www.caritas.de/glossare/pflegestuetzpunkt",
+    "Guid": "a3ce74dd-9d9a-4383-9c8c-6193074f7850",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Wohnberatung",
+    "Link": "http://www.caritas.de/glossare/wohnberatung",
+    "Guid": "11f126da-22dd-443b-b025-5066332ce353",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Dekubitus",
+    "Link": "http://www.caritas.de/glossare/dekubitus",
+    "Guid": "ecc8f384-dc07-420d-b29e-adb0288af43b",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Entlassungsmanagement",
+    "Link": "http://www.caritas.de/glossare/entlassungsmanagement",
+    "Guid": "ede5aa61-2541-4eb8-adf1-c6dd25998865",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Übergangspflege",
+    "Link": "http://www.caritas.de/glossare/uebergangspflege",
+    "Guid": "32e39c70-41e8-4054-b951-a12ddfa9c74c",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Qualitätsstandards",
+    "Link": "http://www.caritas.de/glossare/qualitaetsstandards",
+    "Guid": "426ca242-0232-43e8-aa25-d013426a186e",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Pflegekurse",
+    "Link": "http://www.caritas.de/glossare/pflegekurse",
+    "Guid": "aea870e1-efe1-4484-9ea1-300dfa8d6fab",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Kurzzeitpflege",
+    "Link": "http://www.caritas.de/glossare/kurzzeitpflege",
+    "Guid": "241be4ea-9eb3-455a-a7ce-a0127092df56",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Medizinischer Dienst der Krankenversicherung (MDK)",
+    "Link": "http://www.caritas.de/glossare/medizinischer-dienst-der-krankenversiche",
+    "Guid": "30ef7285-7d8b-40b2-ba41-859c3867d26f",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Wohn- und Betreuungsvertragsgesetz (WBVG)",
+    "Link": "http://www.caritas.de/glossare/wohn-und-betreuungsvertragsgesetz-wbvg",
+    "Guid": "4afa7448-83c9-437a-a729-f1c1216e6fcc",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Qualitätsprüfung",
+    "Link": "http://www.caritas.de/glossare/qualitaetspruefung",
+    "Guid": "4d2648d8-f6cd-4b19-be0e-066824605b9e",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Depression im Alter",
+    "Link": "http://www.caritas.de/glossare/depression-im-alter",
+    "Guid": "bf379a65-8405-44d6-99bc-560adf70a28a",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Pflegevisite",
+    "Link": "http://www.caritas.de/glossare/pflegevisite",
+    "Guid": "be84af7d-beab-43a5-a006-1f93dd66c0e6",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Parkinsonsche Krankheit",
+    "Link": "http://www.caritas.de/glossare/parkinsonsche-krankheit",
+    "Guid": "c784fcb4-8510-4bb2-99b9-e84e8b4f88ad",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Demenz",
+    "Link": "http://www.caritas.de/glossare/demenz",
+    "Guid": "6428234c-9af4-4c96-a525-aa3025b2dfa7",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Hospiz",
+    "Link": "http://www.caritas.de/glossare/hospiz",
+    "Guid": "51a68ef0-268c-479b-ac0b-ab0f367d8bd3",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Betreuungsrecht",
+    "Link": "http://www.caritas.de/glossare/betreuungsrecht",
+    "Guid": "e9be39be-f68c-4bd8-869d-063a6d902fa4",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Neues Begutachtungsassessment (Pflegebegutachtung)",
+    "Link": "http://www.caritas.de/glossare/neues-begutachtungsassessment-pflegebegu",
+    "Guid": "72b0cb7f-1ab0-405f-8e58-919dbd8056dc",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "SGB XI",
+    "Link": "http://www.caritas.de/glossare/sgb-xi",
+    "Guid": "4914cb9a-e0d8-4d3f-b78c-e9a2a31ef527",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Pflegende Angehörige",
+    "Link": "http://www.caritas.de/glossare/pflegende-angehoerige",
+    "Guid": "30a4f1fe-0177-4491-9ee4-aa981c5acd7f",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Palliative Care",
+    "Link": "http://www.caritas.de/glossare/palliative-care",
+    "Guid": "4b57bf0c-565e-43f8-9b15-146122899550",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Betreuungsverfügung",
+    "Link": "http://www.caritas.de/glossare/betreuungsverfuegung",
+    "Guid": "40415d8e-2646-4415-a080-c8a3af8f9d86",
+    "GlossaryGuid": "1afb4601-befb-405c-9d25-d2264ec9c244"
+  },
+  {
+    "Title": "Ergotherapie",
+    "Link": "http://www.caritas.de/glossare/ergotherapie",
+    "Guid": "ef65a71a-88df-4e31-bfac-28b68a09a109",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Hilfsmittel",
+    "Link": "http://www.caritas.de/glossare/hilfsmittel",
+    "Guid": "870e5901-6494-4e00-95ec-2c0a4e11880a",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Berufliche Bildung",
+    "Link": "http://www.caritas.de/glossare/berufliche-bildung",
+    "Guid": "361924f7-aa6d-4f72-af59-a7969c0a8925",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Down-Syndrom (Trisomie)",
+    "Link": "http://www.caritas.de/glossare/down-syndrom-trisomie",
+    "Guid": "aea4d572-c9e5-41bc-a538-b3f8fc3f097a",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Unterstützte Kommunikation",
+    "Link": "http://www.caritas.de/glossare/unterstuetzte-kommunikation",
+    "Guid": "c29fd3ba-c3fd-40c5-bf16-4fa14d2828e4",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Integrationsbetrieb",
+    "Link": "http://www.caritas.de/glossare/integrationsbetrieb",
+    "Guid": "31a0e3cd-38d4-45b2-bd59-194377798665",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Psychiatrie",
+    "Link": "http://www.caritas.de/glossare/psychiatrie",
+    "Guid": "55cee129-5624-4310-be8a-451f6a117af1",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Grad der Behinderung (GdB)",
+    "Link": "http://www.caritas.de/glossare/grad-der-behinderung-gdb",
+    "Guid": "51923f04-5f0d-473b-8dcc-7308ed343e80",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Legasthenie (Lese- und Rechtschreibstörung)",
+    "Link": "http://www.caritas.de/glossare/legasthenie-lese-und-rechtschreibstoerun",
+    "Guid": "9be76427-9b5c-40d5-a9ff-9d5248cb8835",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Pränataldiagnostik",
+    "Link": "http://www.caritas.de/glossare/praenataldiagnostik",
+    "Guid": "9f01121f-7463-4756-80da-74c308b54a5f",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Früherkennung",
+    "Link": "http://www.caritas.de/glossare/frueherkennung",
+    "Guid": "9c8b9ce2-729e-4210-9eb2-e5760199d505",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Therapie",
+    "Link": "http://www.caritas.de/glossare/therapie",
+    "Guid": "04244aff-22d6-4fb1-9c37-d6177f68c9fa",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Autismus",
+    "Link": "http://www.caritas.de/glossare/autismus",
+    "Guid": "545cf5af-c7ad-4b8c-bc02-9f530bd53155",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Berufsbildungswerk",
+    "Link": "http://www.caritas.de/glossare/berufsbildungswerk",
+    "Guid": "23787496-f7c5-4c94-81e2-5caefbc000bf",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Eingliederungshilfe",
+    "Link": "http://www.caritas.de/glossare/eingliederungshilfe",
+    "Guid": "89566660-05b2-4839-bcab-8b16a70d4979",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Behindertensport",
+    "Link": "http://www.caritas.de/glossare/behindertensport",
+    "Guid": "2cbcde29-bf38-4612-a93a-b046806a0aa5",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "ADHS",
+    "Link": "http://www.caritas.de/glossare/adhs",
+    "Guid": "9843e47f-9ad7-49b0-bff4-991cd49a0a64",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Wohnberatungsstellen",
+    "Link": "http://www.caritas.de/glossare/wohnberatungsstellen",
+    "Guid": "4a61e1c3-0191-49e4-a6bb-3128a28f201f",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Kinder und Jugendliche mit Behinderung",
+    "Link": "http://www.caritas.de/glossare/kinder-und-jugendliche-mit-behinderung",
+    "Guid": "d1d7121f-74de-44b8-90df-407de7b7508e",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Kündigungsschutz für schwerbehinderte Menschen",
+    "Link": "http://www.caritas.de/glossare/kuendigungsschutz-fuer-schwerbehinderte-",
+    "Guid": "a6804b48-5098-4be2-8993-ecabf053186f",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Barrierefreiheit",
+    "Link": "http://www.caritas.de/glossare/barrierefreiheit",
+    "Guid": "820b46f7-d04b-45cd-be14-2f4e49ff61df",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Assistenz",
+    "Link": "http://www.caritas.de/glossare/assistenz",
+    "Guid": "6c5cdc74-b610-4517-8f68-1d1185b536d1",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Nachteilsausgleich",
+    "Link": "http://www.caritas.de/glossare/nachteilsausgleich",
+    "Guid": "c3626e61-a94f-480a-8085-8593faee8b9d",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Integrationsfachdienst",
+    "Link": "http://www.caritas.de/glossare/integrationsfachdienst",
+    "Guid": "e6ce2ac2-9a77-4d21-b3ec-0ef1d8ba1c6a",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Kinder- und Jugendpsychiatrie",
+    "Link": "http://www.caritas.de/glossare/kinder-und-jugendpsychiatrie",
+    "Guid": "c5537bc5-d906-42c0-b948-d56cf90c1a9e",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "UN-Behindertenrechtskonvention",
+    "Link": "http://www.caritas.de/glossare/un-behindertenrechtskonvention",
+    "Guid": "d0a389f7-88b0-4c6f-8dd7-b5c3dd947194",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Rehabilitation (Behinderung)",
+    "Link": "http://www.caritas.de/glossare/rehabilitation-behinderung",
+    "Guid": "c2f3c94f-446d-4237-abf0-013d8a146001",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Förderschule",
+    "Link": "http://www.caritas.de/glossare/foerderschule",
+    "Guid": "c09ef3d5-16db-42ed-8a23-80568d9a9ccb",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Inklusion",
+    "Link": "http://www.caritas.de/glossare/inklusion",
+    "Guid": "39a171be-5474-45b5-b140-7290b85e806f",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Ess-Störungen",
+    "Link": "http://www.caritas.de/glossare/ess-stoerungen",
+    "Guid": "dd15bf63-0ae4-4a28-92ce-f19c842b85ec",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Querschnittslähmung",
+    "Link": "http://www.caritas.de/glossare/querschnittslaehmung",
+    "Guid": "a79e203d-d10f-4a52-a9af-259b7a4ef535",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Betreuungsrecht",
+    "Link": "http://www.caritas.de/glossare/betreuungsrecht",
+    "Guid": "e9be39be-f68c-4bd8-869d-063a6d902fa4",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Stärkenperspektive",
+    "Link": "http://www.caritas.de/glossare/staerkenperspektive",
+    "Guid": "4b77cac7-48f2-4eae-8cee-25e7386df0ae",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Wohn- und Betreuungsvertragsgesetz (WBVG)",
+    "Link": "http://www.caritas.de/glossare/wohn-und-betreuungsvertragsgesetz-wbvg",
+    "Guid": "4afa7448-83c9-437a-a729-f1c1216e6fcc",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Lese-Rechtschreibschwäche (LRS) ",
+    "Link": "http://www.caritas.de/glossare/lese-rechtschreibschwaeche-lrs",
+    "Guid": "7f41a7e3-9eba-45e7-b585-ed3796ba20c0",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Burnout",
+    "Link": "http://www.caritas.de/glossare/burnout",
+    "Guid": "e128cf88-5436-46fb-9c28-4bb05be22406",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Reisen",
+    "Link": "http://www.caritas.de/glossare/reisen",
+    "Guid": "6bfddd1f-b338-41f2-a01c-f3e35bc7774c",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Depression",
+    "Link": "http://www.caritas.de/glossare/depression",
+    "Guid": "bebfdd93-54c7-43a9-bce2-3c5255500d53",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Psychose",
+    "Link": "http://www.caritas.de/glossare/psychose",
+    "Guid": "8a6754d1-e4f4-4f85-bc5e-7bd1389c9c26",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Werkstatt für behinderte Menschen",
+    "Link": "http://www.caritas.de/glossare/werkstatt-fuer-behinderte-menschen",
+    "Guid": "040ce81d-d918-4829-a71c-da5ee5eab977",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Selbstbestimmung",
+    "Link": "http://www.caritas.de/glossare/selbstbestimmung",
+    "Guid": "8ca5f7fa-fbf5-424a-a096-bf243b6b5d6f",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Betreuungsverfügung",
+    "Link": "http://www.caritas.de/glossare/betreuungsverfuegung",
+    "Guid": "40415d8e-2646-4415-a080-c8a3af8f9d86",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Grundsicherung",
+    "Link": "http://www.caritas.de/glossare/grundsicherung",
+    "Guid": "daa0e8b8-7201-4a5d-92bd-5c69c9905252",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Leistungskomplexe",
+    "Link": "http://www.caritas.de/glossare/leistungskomplexe",
+    "Guid": "1f9cb227-c988-4ed5-b57a-1d2cc0f1261e",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Persönliches Budget",
+    "Link": "http://www.caritas.de/glossare/persoenliches-budget",
+    "Guid": "552da53c-aaef-4f0a-afab-24f95c912b54",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Teilhabe",
+    "Link": "http://www.caritas.de/glossare/teilhabe",
+    "Guid": "a5e1a4b0-9bbd-477c-a535-0de00a554675",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Ausbildung",
+    "Link": "http://www.caritas.de/glossare/ausbildung",
+    "Guid": "be62755d-e1dc-4c93-87fc-90f87e122cf6",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Integrationsamt",
+    "Link": "http://www.caritas.de/glossare/integrationsamt",
+    "Guid": "62f7b308-2910-4ede-9bac-3f36656b5e89",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Schädel-Hirn-Trauma",
+    "Link": "http://www.caritas.de/glossare/schaedel-hirn-trauma",
+    "Guid": "de1ddac3-f990-448f-a435-8bcc3e9bcf89",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Rechtliche Betreuung bei Behinderung",
+    "Link": "http://www.caritas.de/glossare/rechtliche-betreuung-bei-behinderung",
+    "Guid": "6bf6851c-9fc0-40db-9d96-935539ec539a",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Logopädie",
+    "Link": "http://www.caritas.de/glossare/logopaedie",
+    "Guid": "6242371a-1906-416f-9451-95f62749bd48",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Epilepsie",
+    "Link": "http://www.caritas.de/glossare/epilepsie",
+    "Guid": "a6074ddc-bcf9-4330-96a3-693c46a2a4aa",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Erwerbsminderung",
+    "Link": "http://www.caritas.de/glossare/erwerbsminderung",
+    "Guid": "850b1fd9-2dac-449d-a6f0-6415de6f80f8",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "psychische Behinderung",
+    "Link": "http://www.caritas.de/glossare/psychische-behinderung",
+    "Guid": "70bf7aff-4880-42b5-9180-d5ab0c725c30",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Schwerbehindertenausweis",
+    "Link": "http://www.caritas.de/glossare/schwerbehindertenausweis",
+    "Guid": "b54ae91e-04a1-4a60-88c3-219240eb584f",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Frühförderung",
+    "Link": "http://www.caritas.de/glossare/fruehfoerderung",
+    "Guid": "c621143b-c1e5-45c2-a04a-e0f9fdb6e770",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Borderline-Persönlichkeitsstörung",
+    "Link": "http://www.caritas.de/glossare/borderline-persoenlichkeitsstoerung",
+    "Guid": "a31bd422-aa85-4179-893b-de4daf8f3be9",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Betreutes Wohnen (Behinderte Menschen)",
+    "Link": "http://www.caritas.de/glossare/betreutes-wohnen-behinderte-menschen",
+    "Guid": "29834af7-3a57-47a2-9443-916453ed733d",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Assistenz, Finanzierung",
+    "Link": "http://www.caritas.de/glossare/assistenz-finanzierung",
+    "Guid": "90cb9aa6-440d-4984-8338-3327b506dc89",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Tagesförderung",
+    "Link": "http://www.caritas.de/glossare/tagesfoerderung",
+    "Guid": "61c015e4-3611-46d6-9262-3f1a8ff8adfd",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Assistenz, persönliche",
+    "Link": "http://www.caritas.de/glossare/assistenz-persoenliche",
+    "Guid": "835688b5-ece0-41d2-a357-b5a153c058cf",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Wohnformen",
+    "Link": "http://www.caritas.de/glossare/wohnformen",
+    "Guid": "e7127fc0-4818-4238-8333-a7b65fd8e481",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Persönlichkeitsstörungen",
+    "Link": "http://www.caritas.de/glossare/persoenlichkeitsstoerungen",
+    "Guid": "f53b5823-7c24-49d9-8811-51108b66df7a",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Familienunterstützender (FuD), familienentlastender Dienst (FeD)",
+    "Link": "http://www.caritas.de/glossare/familienunterstuetzender-fud-familienent",
+    "Guid": "2b40a871-e580-42da-ad6f-0531b2e9c99d",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Dyskalkulie / Rechenschwäche",
+    "Link": "http://www.caritas.de/glossare/dyskalkulie-rechenschwaeche",
+    "Guid": "ae08a92b-2bd6-463e-810a-c30f4567aa62",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Schizophrenie",
+    "Link": "http://www.caritas.de/glossare/schizophrenie",
+    "Guid": "1469909a-16c6-4ebc-868e-c356766f3d20",
+    "GlossaryGuid": "11f73d49-73c8-4173-ae95-10597c73c152"
+  },
+  {
+    "Title": "Caritaskongress",
+    "Link": "http://www.caritas.de/glossare/caritaskongress",
+    "Guid": "60b381ee-7a1e-4258-bbf5-89f338e4fb1e",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Diözesancaritasverbände (DiCV)",
+    "Link": "http://www.caritas.de/glossare/dioezesancaritasverbaende-dicv",
+    "Guid": "5e6b9e93-5d91-4681-94ec-0d50a9af6bc6",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Kinderhilfe Bethlehem",
+    "Link": "http://www.caritas.de/glossare/kinderhilfe-bethlehem",
+    "Guid": "a4138ed4-a85e-4989-bfa8-3248ce58ef01",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Vereinigungen",
+    "Link": "http://www.caritas.de/glossare/vereinigungen",
+    "Guid": "fdb153ea-3198-4de3-babe-dc6312cc6ab8",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Stromspar-Check",
+    "Link": "http://www.caritas.de/glossare/stromspar-check",
+    "Guid": "786cfc5c-85e6-4882-b2b4-e22ea555a071",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Tarifpolitische Leitlinien",
+    "Link": "http://www.caritas.de/glossare/tarifpolitische-leitlinien",
+    "Guid": "e9a2cf51-1692-49b1-942e-dd9cd157ca4b",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Gender Mainstreaming (Caritas)",
+    "Link": "http://www.caritas.de/glossare/gender-mainstreaming-caritas",
+    "Guid": "e8426a35-9f59-4ced-b124-2ee3523cef3a",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Innovatio",
+    "Link": "http://www.caritas.de/glossare/innovatio",
+    "Guid": "f51e0ee7-3adb-4e92-9984-f2834fbfa664",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Mitarbeitervertretung (MAV)",
+    "Link": "http://www.caritas.de/glossare/mitarbeitervertretung-mav",
+    "Guid": "e850152f-a9d8-4153-9701-13c19f67176d",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Teilhabeinitiative",
+    "Link": "http://www.caritas.de/glossare/teilhabeinitiative",
+    "Guid": "4ad36fae-2dab-4611-8a65-cf4fbf27f4dd",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Vorstand des Deutschen Caritasverbandes",
+    "Link": "http://www.caritas.de/glossare/vorstand-des-deutschen-caritasverbandes",
+    "Guid": "f488b406-17d4-4916-b37a-b2faab99e955",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Transparenz",
+    "Link": "http://www.caritas.de/glossare/transparenz",
+    "Guid": "a8f61442-b36d-4fc0-86c2-672f34a9c2d2",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Fachverbände",
+    "Link": "http://www.caritas.de/glossare/fachverbaende",
+    "Guid": "1ac35b72-ee51-4abe-99fb-db0ca6085752",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Mitglieder des Deutschen Caritasverbandes",
+    "Link": "http://www.caritas.de/glossare/mitglieder-des-deutschen-caritasverbande",
+    "Guid": "9341a7cf-a4f3-4129-a343-a17c26247170",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Grundordnung des kirchlichen Dienstes",
+    "Link": "http://www.caritas.de/glossare/grundordnung-des-kirchlichen-dienstes",
+    "Guid": "3b5c026f-858e-4e1c-95d3-0d148ac2f58b",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Satzung des Deutschen Caritasverbandes e. V.",
+    "Link": "http://www.caritas.de/glossare/satzung-des-deutschen-caritasverbandes-e",
+    "Guid": "4a94ed4d-6e86-4767-87e9-614200c79c4f",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Gertrud-Luckner-Preis",
+    "Link": "http://www.caritas.de/glossare/gertrud-luckner-preis",
+    "Guid": "f415145d-58cc-48f5-859b-bd13fef2f422",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Wissenschaftspreise",
+    "Link": "http://www.caritas.de/glossare/wissenschaftspreise",
+    "Guid": "a36877e5-097b-4707-abe6-3a0b45c21462",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Logo der Caritas (Flammenkreuz)",
+    "Link": "http://www.caritas.de/glossare/logo-der-caritas-flammenkreuz",
+    "Guid": "5a36951f-cca2-4590-88b8-c55a959cf3d4",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Unternehmenstagung",
+    "Link": "http://www.caritas.de/glossare/unternehmenstagung",
+    "Guid": "fa385ab2-247a-4e03-acfd-114e5faf980e",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Caritasrat",
+    "Link": "http://www.caritas.de/glossare/caritasrat",
+    "Guid": "547bd27c-d411-4270-b39a-a64eaf89ecb6",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Publikationen",
+    "Link": "http://www.caritas.de/glossare/publikationen",
+    "Guid": "7bdc35b4-402b-43a4-83bf-6de904c5b99a",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "AVR – Tarifrecht der Caritas",
+    "Link": "http://www.caritas.de/glossare/avr--tarifrecht-der-caritas",
+    "Guid": "fd7f5a40-3b7b-498e-9bba-08a0835505d8",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Bundesforum Katholische Beratung",
+    "Link": "http://www.caritas.de/glossare/bundesforum-katholische-beratung",
+    "Guid": "ae393631-5e93-416a-bd64-09150bfc172e",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Ethikräte",
+    "Link": "http://www.caritas.de/glossare/ethikraete",
+    "Guid": "079ca584-cf86-47d3-8729-a5c3769ec0a9",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Verbandsorgane",
+    "Link": "http://www.caritas.de/glossare/verbandsorgane",
+    "Guid": "2405b3e4-bba4-4dbd-be40-b63ead8b8da5",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Caritassonntag",
+    "Link": "http://www.caritas.de/glossare/caritassonntag",
+    "Guid": "a4ddd18a-8655-4850-bd15-6434bf207437",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Online-Beratung",
+    "Link": "http://www.caritas.de/glossare/online-beratung",
+    "Guid": "4f974509-f4c0-4a37-bb02-966a9d3905bb",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Arbeitsrechtliche Kommission",
+    "Link": "http://www.caritas.de/glossare/arbeitsrechtliche-kommission",
+    "Guid": "b9a71e22-697e-4f6f-a1b6-ff1669618afa",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Delegiertenversammlung",
+    "Link": "http://www.caritas.de/glossare/delegiertenversammlung",
+    "Guid": "01f0b097-c147-486f-8dfa-71ee1f1a207a",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Kommissionen und Ausschüsse",
+    "Link": "http://www.caritas.de/glossare/kommissionen-und-ausschuesse",
+    "Guid": "a8f3c4bf-b90e-4d91-b378-fb8547787316",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Solidaritätsinitiative",
+    "Link": "http://www.caritas.de/glossare/solidaritaetsinitiative",
+    "Guid": "47b0daa4-bfd0-4fac-9f51-806ca1023ade",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Lorenz Werthmann",
+    "Link": "http://www.caritas.de/glossare/lorenz-werthmann",
+    "Guid": "5e0bfb19-8ceb-4afd-a8d9-3e9826e4dbd5",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "youngcaritas",
+    "Link": "http://www.caritas.de/glossare/youngcaritas",
+    "Guid": "884d603b-a735-40bf-b4ac-f523d0d4c4d7",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Präsident",
+    "Link": "http://www.caritas.de/glossare/praesident",
+    "Guid": "863a8f67-2dde-4fbe-a69b-f1733b7dbbf4",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Energieaudit",
+    "Link": "http://www.caritas.de/glossare/energieaudit",
+    "Guid": "42fa961b-9df5-4c42-a3ea-7e0e45767d9c",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Caritas-Sammlung",
+    "Link": "http://www.caritas.de/glossare/caritas-sammlung",
+    "Guid": "df8fa8be-9eed-4928-9cc1-b20e25856edd",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Verbandszentrale",
+    "Link": "http://www.caritas.de/glossare/verbandszentrale",
+    "Guid": "47f711f9-ebd5-4d5f-88eb-e46216d7a7e5",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Generalsekretär",
+    "Link": "http://www.caritas.de/glossare/generalsekretaer",
+    "Guid": "6dedb7a8-b692-4a0e-a6d9-3ad8e15f4f5f",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Leitbild des Deutschen Caritasverbandes",
+    "Link": "http://www.caritas.de/glossare/leitbild-des-deutschen-caritasverbandes",
+    "Guid": "ab5b2d22-c405-4861-a661-b3010c3942a9",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Kirchliches Arbeitsrecht",
+    "Link": "http://www.caritas.de/glossare/kirchliches-arbeitsrecht",
+    "Guid": "cb5576fc-d24e-45cc-8b61-800f2c5937fe",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Ordensgemeinschaften",
+    "Link": "http://www.caritas.de/glossare/ordensgemeinschaften",
+    "Guid": "557e7dc7-a815-4f90-aac5-23bf4e43ff23",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Verbandsordnung",
+    "Link": "http://www.caritas.de/glossare/verbandsordnung",
+    "Guid": "ac3e84c4-1094-4141-8b3b-1d47473693ff",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Initiative im Deutschen Caritasverband e. V. ",
+    "Link": "http://www.caritas.de/glossare/initiative-im-deutschen-caritasverband-e",
+    "Guid": "c8500563-3656-4071-9ffc-aef644578984",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Befähigungsinitiative",
+    "Link": "http://www.caritas.de/glossare/befaehigungsinitiative",
+    "Guid": "da734328-1b17-48f6-af75-98ac6d661980",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Bibliothek des Deutschen Caritasverbandes",
+    "Link": "http://www.caritas.de/glossare/bibliothek-des-deutschen-caritasverbande",
+    "Guid": "ce5e8f3f-c072-42bb-9173-afe462517e9e",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Geschäftsbericht",
+    "Link": "http://www.caritas.de/glossare/geschaeftsbericht",
+    "Guid": "75027e57-cf23-4092-8f10-d195a4d8c3d2",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Einrichtungen und Dienste",
+    "Link": "http://www.caritas.de/glossare/einrichtungen-und-dienste",
+    "Guid": "08918128-e5ac-4f2a-8673-8eb29b073ca2",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Deutscher Sozialpreis",
+    "Link": "http://www.caritas.de/glossare/deutscher-sozialpreis",
+    "Guid": "a7f4a814-646b-4569-a737-aca079c8fa2f",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Lorenz-Werthmann-Preis",
+    "Link": "http://www.caritas.de/glossare/lorenz-werthmann-preis",
+    "Guid": "d04db4cc-2e6a-4feb-ac04-27a79a8b1fcb",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Dienstgemeinschaft",
+    "Link": "http://www.caritas.de/glossare/dienstgemeinschaft",
+    "Guid": "e13fadee-45b3-4978-ba94-9692d3348404",
+    "GlossaryGuid": "a8065303-892c-41d6-81f7-7ae17bd79e90"
+  },
+  {
+    "Title": "Einsatzfelder",
+    "Link": "http://www.caritas.de/glossare/einsatzfelder",
+    "Guid": "43784cf5-6851-4fdb-83d2-8a30a468f33a",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Christliches Menschenbild",
+    "Link": "http://www.caritas.de/glossare/christliches-menschenbild",
+    "Guid": "900f085e-b280-4fb3-95da-cc38bf509ee8",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Bestätigung",
+    "Link": "http://www.caritas.de/glossare/bestaetigung",
+    "Guid": "e51bdc95-943f-40ac-ab96-c7ca44e07129",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Corporate Volunteering ",
+    "Link": "http://www.caritas.de/glossare/corporate-volunteering",
+    "Guid": "1a18d247-fb1b-45ec-8a5f-14b2d42dce42",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "European Volunteer Center",
+    "Link": "http://www.caritas.de/glossare/european-volunteer-center",
+    "Guid": "f28ab31a-d7d5-4d7a-bd64-6565e541b336",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Konfession",
+    "Link": "http://www.caritas.de/glossare/konfession",
+    "Guid": "eb6a9321-c81f-4192-9764-ea8d50e58def",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Führungszeugnis",
+    "Link": "http://www.caritas.de/glossare/fuehrungszeugnis",
+    "Guid": "23fe880e-eef3-4539-862c-02249fd431e0",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Fahrtkosten",
+    "Link": "http://www.caritas.de/glossare/fahrtkosten",
+    "Guid": "e7a772aa-3964-4dc6-8341-b4c24c62f4e4",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Herkunft",
+    "Link": "http://www.caritas.de/glossare/herkunft",
+    "Guid": "ed8db8de-92a3-4a7c-83c9-00426f49517a",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Freiwilligen-Agenturen ",
+    "Link": "http://www.caritas.de/glossare/freiwilligen-agenturen",
+    "Guid": "1da39a45-7d38-4561-ba6e-741049b3e871",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Freiwilliges Engagement",
+    "Link": "http://www.caritas.de/glossare/freiwilliges-engagement",
+    "Guid": "b6442781-3c3a-49cb-9567-5021819f8460",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Freiwilligen-Zentrum",
+    "Link": "http://www.caritas.de/glossare/freiwilligen-zentrum",
+    "Guid": "fc8f88ce-6329-4e04-bc86-5ea617e254c3",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Ehrenamt",
+    "Link": "http://www.caritas.de/glossare/ehrenamt",
+    "Guid": "f996cb5e-aa8d-4be0-bbc4-aa604a8ca779",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Freiwilligendienste",
+    "Link": "http://www.caritas.de/glossare/freiwilligendienste",
+    "Guid": "5df13ef5-f4fa-49d3-ada2-30971dc7ccf0",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Bürgergesellschaft ",
+    "Link": "http://www.caritas.de/glossare/buergergesellschaft",
+    "Guid": "205048da-1b77-45bd-8f7a-11a5be956cce",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Deutscher Caritasverband (DCV)",
+    "Link": "http://www.caritas.de/glossare/deutscher-caritasverband-dcv",
+    "Guid": "e8e8a6e4-2644-41f2-bc3d-20784f9ed576",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Hospizbewegung",
+    "Link": "http://www.caritas.de/glossare/hospizbewegung",
+    "Guid": "ce4a7bdc-126c-460d-a3e9-1579c0ca203c",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Fort- und Weiterbildung ",
+    "Link": "http://www.caritas.de/glossare/fort-und-weiterbildung",
+    "Guid": "2375fbe7-f2e7-415a-81c9-546e7ddaa703",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Corporate Citizenship (CC)",
+    "Link": "http://www.caritas.de/glossare/corporate-citizenship-cc",
+    "Guid": "a88f965c-0808-4fb0-9b5c-7d1ea9d37b2f",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Fachverbände",
+    "Link": "http://www.caritas.de/glossare/fachverbaende",
+    "Guid": "1ac35b72-ee51-4abe-99fb-db0ca6085752",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Arbeitslosigkeit",
+    "Link": "http://www.caritas.de/glossare/arbeitslosigkeit",
+    "Guid": "5fdb632d-47e7-4233-ab9f-bc2d715b5327",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Anerkennung",
+    "Link": "http://www.caritas.de/glossare/anerkennung",
+    "Guid": "cb8a7959-352c-4d5b-8483-5ecec8b2ec25",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Sozialkompetenzen / soziale Kompetenz",
+    "Link": "http://www.caritas.de/glossare/sozialkompetenzen-soziale-kompetenz",
+    "Guid": "ca049697-dab6-4178-8535-74eff45fc0b0",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Gemeindecaritas",
+    "Link": "http://www.caritas.de/glossare/gemeindecaritas",
+    "Guid": "8b0c806a-03ea-4965-85da-d89ed61e7c87",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Besuchsdienst",
+    "Link": "http://www.caritas.de/glossare/besuchsdienst",
+    "Guid": "3f2744a4-721c-47b9-bb33-6b3c23d4f515",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Bundesnetzwerk Bürgerschaftliches Engagement (BBE)",
+    "Link": "http://www.caritas.de/glossare/bundesnetzwerk-buergerschaftliches-engag",
+    "Guid": "0dc3367c-ca11-467d-b73e-7ed6d62750a0",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Selbsthilfe-Gruppen",
+    "Link": "http://www.caritas.de/glossare/selbsthilfe-gruppen",
+    "Guid": "96a77426-1a8a-4d4a-a3d8-81c66c16da54",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "youngcaritas",
+    "Link": "http://www.caritas.de/glossare/youngcaritas",
+    "Guid": "884d603b-a735-40bf-b4ac-f523d0d4c4d7",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Beratung",
+    "Link": "http://www.caritas.de/glossare/beratung",
+    "Guid": "244f6a2b-dda0-4c96-a5cc-26d65146d02c",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Seitenwechsel-Projekte",
+    "Link": "http://www.caritas.de/glossare/seitenwechsel-projekte",
+    "Guid": "51e1d417-457d-476e-9118-d821b933359b",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Einsatzprofil",
+    "Link": "http://www.caritas.de/glossare/einsatzprofil",
+    "Guid": "a421b0f0-9d17-4c41-be8c-11ae00e565f9",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Qualifizierung",
+    "Link": "http://www.caritas.de/glossare/qualifizierung",
+    "Guid": "b33ed071-4a48-452c-a29d-6c6ad3bebb14",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Wohlfahrtsverband",
+    "Link": "http://www.caritas.de/glossare/wohlfahrtsverband",
+    "Guid": "96fb8dc3-20a8-47aa-a279-0278a8c1e1ca",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Caritas-Konferenzen Deutschlands (CKD) ",
+    "Link": "http://www.caritas.de/glossare/caritas-konferenzen-deutschlands-ckd",
+    "Guid": "5f7f1e4b-1dad-40ed-b226-9f348e8859ab",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Versicherung",
+    "Link": "http://www.caritas.de/glossare/versicherung",
+    "Guid": "28a0e1f2-c9e0-4f1f-bf9f-06654661560e",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Bürgerschaftliches Engagement (BE) ",
+    "Link": "http://www.caritas.de/glossare/buergerschaftliches-engagement-be",
+    "Guid": "b04bedca-854b-469a-bb51-460a7c234687",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Deutscher Engagementpreis",
+    "Link": "http://www.caritas.de/glossare/deutscher-engagementpreis",
+    "Guid": "d96935a8-551f-42b9-bcef-e09ef90f2f89",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Patenschaften",
+    "Link": "http://www.caritas.de/glossare/patenschaften",
+    "Guid": "5ae15831-d5e6-4bfe-8fc9-94642d4f1e5b",
+    "GlossaryGuid": "31b5a8d4-9e81-4c59-ad20-2b6f448bee8b"
+  },
+  {
+    "Title": "Schwangerschaftsberatung",
+    "Link": "http://www.caritas.de/glossare/schwangerschaftsberatung",
+    "Guid": "12ebb21f-4041-4b15-a40f-fd6713f3f109",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Müttergenesung / Kuren für Mütter und Väter",
+    "Link": "http://www.caritas.de/glossare/muettergenesung-kuren-fuer-muetter-und-v",
+    "Guid": "165b47ec-2150-4791-932e-85513c58f454",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Schwangerschaftskonfliktberatung",
+    "Link": "http://www.caritas.de/glossare/schwangerschaftskonfliktberatung",
+    "Guid": "3dc63b62-2fc1-49fb-b54c-be86f681138b",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Vertrauliche Geburt (Babyfenster, Babyklappe)",
+    "Link": "http://www.caritas.de/glossare/vertrauliche-geburt-babyfenster-babyklap",
+    "Guid": "205c78dd-ba8a-4578-a50d-d47509cae451",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Kinderkuren",
+    "Link": "http://www.caritas.de/glossare/kinderkuren",
+    "Guid": "6a3a833f-5b52-4a38-88d6-6ce71efc93fd",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Familienrecht",
+    "Link": "http://www.caritas.de/glossare/familienrecht",
+    "Guid": "73bb8c2d-3e7a-4772-bfdd-c9c1a7968f8d",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Pränataldiagnostik",
+    "Link": "http://www.caritas.de/glossare/praenataldiagnostik",
+    "Guid": "9f01121f-7463-4756-80da-74c308b54a5f",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Familienzentrum",
+    "Link": "http://www.caritas.de/glossare/familienzentrum",
+    "Guid": "486045c1-6af0-4ab6-b4c0-39f02142f288",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "HOT (HaushaltsOrganisationsTraining)",
+    "Link": "http://www.caritas.de/glossare/hot-haushaltsorganisationstraining",
+    "Guid": "0a54e872-aeee-4261-816e-2d28e7bd9836",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Mutterschutz",
+    "Link": "http://www.caritas.de/glossare/mutterschutz",
+    "Guid": "bcf9423a-7087-4432-9f53-250645e507d6",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Familiengericht",
+    "Link": "http://www.caritas.de/glossare/familiengericht",
+    "Guid": "593ee1f1-4571-46cb-8338-c878f7c96de2",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Mehrgenerationenhaus",
+    "Link": "http://www.caritas.de/glossare/mehrgenerationenhaus",
+    "Guid": "16db8a94-d1ae-4f36-a710-54842a2458db",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Unterhaltsvorschuss",
+    "Link": "http://www.caritas.de/glossare/unterhaltsvorschuss",
+    "Guid": "0b987564-3ef3-4ba6-85ad-7e010ac163c0",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Case Management",
+    "Link": "http://www.caritas.de/glossare/case-management",
+    "Guid": "14e368f1-7c38-41a3-a9f3-f4cc46d464f3",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Elternrecht",
+    "Link": "http://www.caritas.de/glossare/elternrecht",
+    "Guid": "ba214794-9252-4a4d-a7e3-635413988c4f",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Erziehungsbeistand",
+    "Link": "http://www.caritas.de/glossare/erziehungsbeistand",
+    "Guid": "6c5a7bde-62bc-44be-b362-3dfed06c6aeb",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Familienpflege",
+    "Link": "http://www.caritas.de/glossare/familienpflege",
+    "Guid": "50022ccd-131d-493d-ad3e-0c5df6a1a8e0",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Ambulante Erziehungshilfe (AEH)",
+    "Link": "http://www.caritas.de/glossare/ambulante-erziehungshilfe-aeh",
+    "Guid": "18fba737-ea71-44cf-8b00-45781b04de35",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Quartiersmanagement",
+    "Link": "http://www.caritas.de/glossare/quartiersmanagement",
+    "Guid": "88630acc-28a9-41f6-a81f-3bd8c2119d4e",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Mutterpass",
+    "Link": "http://www.caritas.de/glossare/mutterpass",
+    "Guid": "0957227b-210d-46e3-84dd-59088bb2b1dc",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Resilienz",
+    "Link": "http://www.caritas.de/glossare/resilienz",
+    "Guid": "6d0ea9dd-a375-433a-ad6a-be700c464372",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Elterngeld",
+    "Link": "http://www.caritas.de/glossare/elterngeld",
+    "Guid": "d84199b4-164d-49ea-be37-a43e216502d5",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Allgemeiner sozialer Dienst (ASD)",
+    "Link": "http://www.caritas.de/glossare/allgemeiner-sozialer-dienst-asd",
+    "Guid": "a42694bb-26be-4815-85cb-f7f5009d2bfb",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Ergänzungspflegschaft",
+    "Link": "http://www.caritas.de/glossare/ergaenzungspflegschaft",
+    "Guid": "c8122621-c9e1-4000-be63-1543dadd2bd3",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Sozialpädiatrisches Zentrum",
+    "Link": "http://www.caritas.de/glossare/sozialpaediatrisches-zentrum",
+    "Guid": "c01ab153-f885-49da-89d4-ea62a49399f9",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Unterhalt",
+    "Link": "http://www.caritas.de/glossare/unterhalt",
+    "Guid": "2d546f43-8b0c-4a35-a549-fcc7ea1f6a59",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Beistandschaft",
+    "Link": "http://www.caritas.de/glossare/beistandschaft",
+    "Guid": "845b68e1-7603-48b9-a4d6-8e8c8d704c05",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Elternbildung",
+    "Link": "http://www.caritas.de/glossare/elternbildung",
+    "Guid": "533d47da-8d17-4669-91c8-5a4a5089fa0f",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Elternzeit",
+    "Link": "http://www.caritas.de/glossare/elternzeit",
+    "Guid": "eac060d0-c01e-4993-b1d4-d82be9f02cc1",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Begleiteter Umgang",
+    "Link": "http://www.caritas.de/glossare/begleiteter-umgang",
+    "Guid": "501a4624-e3be-4509-8c9c-bede965de1f5",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Beteiligung (= Partizipation)",
+    "Link": "http://www.caritas.de/glossare/beteiligung--partizipation",
+    "Guid": "bd921450-ca2d-4193-a1d1-125dca8784cc",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Mutterschaftsgeld",
+    "Link": "http://www.caritas.de/glossare/mutterschaftsgeld",
+    "Guid": "a66a775a-a45a-40bc-b5b9-3b3e3948515c",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Familienunterstützende Dienste",
+    "Link": "http://www.caritas.de/glossare/familienunterstuetzende-dienste",
+    "Guid": "bb1026ae-5685-43d9-8689-1d635dac85ae",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Frühe Hilfen",
+    "Link": "http://www.caritas.de/glossare/fruehe-hilfen",
+    "Guid": "81ed6b5b-9605-4f35-87da-bf33a57b1be0",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Erziehungsberatung, Erziehungsberatungsstellen",
+    "Link": "http://www.caritas.de/glossare/erziehungsberatung-erziehungsberatungsst",
+    "Guid": "6faade5d-123b-43dd-be33-43401e9eac10",
+    "GlossaryGuid": "b4ee934f-d298-47c5-94e4-977d374ba6d6"
+  },
+  {
+    "Title": "Testamentsstiftung",
+    "Link": "http://www.caritas.de/glossare/testamentsstiftung",
+    "Guid": "768c9e08-dc15-40a8-906c-dd8de372608f",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Caritasverbände",
+    "Link": "http://www.caritas.de/glossare/caritasverbaende",
+    "Guid": "2e3fa6db-c6b3-4916-86cf-3574bedfd9be",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Caritas-Stiftungen",
+    "Link": "http://www.caritas.de/glossare/caritas-stiftungen",
+    "Guid": "2a796bfb-c3e6-44d6-b449-505e24be1049",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Stiftung ",
+    "Link": "http://www.caritas.de/glossare/stiftung",
+    "Guid": "2afbd594-24ed-4b61-9ed2-dcac350132b7",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Schenkungsteuer",
+    "Link": "http://www.caritas.de/glossare/schenkungsteuer",
+    "Guid": "e13fecc6-44e0-4ed6-99c8-34065a20528c",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Stiftungsgeschäft",
+    "Link": "http://www.caritas.de/glossare/stiftungsgeschaeft",
+    "Guid": "7c46386e-ed25-436a-8c64-eea623f22991",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Stiftungstreuhänder(in)",
+    "Link": "http://www.caritas.de/glossare/stiftungstreuhaenderin",
+    "Guid": "b67dc33b-97c0-4719-b840-d3583334a991",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Spendenbescheinigung",
+    "Link": "http://www.caritas.de/glossare/spendenbescheinigung",
+    "Guid": "ac36c785-332d-4386-8ffb-23b2ccb479eb",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Förderstiftung ",
+    "Link": "http://www.caritas.de/glossare/foerderstiftung",
+    "Guid": "04e5de0e-76d0-4fb5-b746-08895847b320",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Nichtrechtsfähige Stiftung ",
+    "Link": "http://www.caritas.de/glossare/nichtrechtsfaehige-stiftung",
+    "Guid": "2af1b939-6894-4687-9bac-1074229b7917",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Spendenabzugsberechtigung ",
+    "Link": "http://www.caritas.de/glossare/spendenabzugsberechtigung",
+    "Guid": "788c51b8-1f35-4e0d-a96a-9d87fb6272bf",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Vermögensanfall ",
+    "Link": "http://www.caritas.de/glossare/vermoegensanfall",
+    "Guid": "07f96134-4918-41d9-9e48-1fea5b0b9eca",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Stiftersteuervorteile",
+    "Link": "http://www.caritas.de/glossare/stiftersteuervorteile",
+    "Guid": "62a995d9-16cf-4195-8fa9-7c9e1cce23d7",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Stiftungsvermögen",
+    "Link": "http://www.caritas.de/glossare/stiftungsvermoegen",
+    "Guid": "7395e074-f49c-4fd3-b9b6-c6643a2557e6",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Testamentszustiftung ",
+    "Link": "http://www.caritas.de/glossare/testamentszustiftung",
+    "Guid": "879b6d2f-28dd-4e29-84ed-4b0d5a9e44ee",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Satzung einer Stiftung",
+    "Link": "http://www.caritas.de/glossare/satzung-einer-stiftung",
+    "Guid": "4f78ce4f-d09e-4659-86c0-c2f43b7796fa",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Spende ",
+    "Link": "http://www.caritas.de/glossare/spende",
+    "Guid": "a133f4f7-d7a9-46ed-ab41-c68a442e8427",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Erbschaft",
+    "Link": "http://www.caritas.de/glossare/erbschaft",
+    "Guid": "6b510af2-0401-4944-9b9e-fe5d173a642e",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Fachverbände",
+    "Link": "http://www.caritas.de/glossare/fachverbaende",
+    "Guid": "1ac35b72-ee51-4abe-99fb-db0ca6085752",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Stifter(in)",
+    "Link": "http://www.caritas.de/glossare/stifterin",
+    "Guid": "03e0e76c-7b1e-477d-a6e1-fd16e31733f8",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Spendersteuervorteile ",
+    "Link": "http://www.caritas.de/glossare/spendersteuervorteile",
+    "Guid": "e2e0335c-47f2-421d-ae0d-389c7d15b60c",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Testament ",
+    "Link": "http://www.caritas.de/glossare/testament",
+    "Guid": "0d18568d-ddc2-4b83-8f85-3115a1a5291f",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Kuratorium ",
+    "Link": "http://www.caritas.de/glossare/kuratorium",
+    "Guid": "8b1fc085-d3b4-4075-924f-804903c7778f",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Stiftungsaufsicht",
+    "Link": "http://www.caritas.de/glossare/stiftungsaufsicht",
+    "Guid": "56bbc0f3-73e0-423e-a062-8f7a2d1f88d7",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Zuwendungsbestätigung",
+    "Link": "http://www.caritas.de/glossare/zuwendungsbestaetigung",
+    "Guid": "31a58665-62ca-40ef-affe-f9ecda566eb8",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Gemeinschaftsstiftung",
+    "Link": "http://www.caritas.de/glossare/gemeinschaftsstiftung",
+    "Guid": "9318fb76-8852-47bb-811a-f827c226255a",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Zeitnahe Mittelverwendung ",
+    "Link": "http://www.caritas.de/glossare/zeitnahe-mittelverwendung",
+    "Guid": "65aaa990-b3f8-41bb-a416-dc8d027a4269",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Beirat einer Stiftung",
+    "Link": "http://www.caritas.de/glossare/beirat-einer-stiftung",
+    "Guid": "d04bdbc0-ebeb-46dc-8ce8-97376fe22571",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Dauer der Stiftung ",
+    "Link": "http://www.caritas.de/glossare/dauer-der-stiftung",
+    "Guid": "07f25fec-9671-4b38-9419-9f0de3f66c22",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Einrichtungsstiftung",
+    "Link": "http://www.caritas.de/glossare/einrichtungsstiftung",
+    "Guid": "83ce01c4-bb71-4dbf-948f-033dc2175be9",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Rechtsfähigkeit",
+    "Link": "http://www.caritas.de/glossare/rechtsfaehigkeit",
+    "Guid": "f0635f8d-e299-4a7b-987c-365e42f17633",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Vorstand einer Stiftung",
+    "Link": "http://www.caritas.de/glossare/vorstand-einer-stiftung",
+    "Guid": "82223d96-6513-4f00-bbd6-875f869ded3a",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Dachstiftung ",
+    "Link": "http://www.caritas.de/glossare/dachstiftung",
+    "Guid": "31ced0c9-88bf-4c4c-bcaa-a1dd36dcafa1",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Vermächtnis",
+    "Link": "http://www.caritas.de/glossare/vermaechtnis",
+    "Guid": "4aabaccc-39ad-41aa-83d2-82a3d81a312a",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Zweckbestimmung",
+    "Link": "http://www.caritas.de/glossare/zweckbestimmung",
+    "Guid": "ca3be0c6-6a58-49d7-9113-5251470c65de",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Stiftungsorgane",
+    "Link": "http://www.caritas.de/glossare/stiftungsorgane",
+    "Guid": "5c9b2490-9c21-44d7-98cf-184a4b8f93c1",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Grunderwerbssteuer ",
+    "Link": "http://www.caritas.de/glossare/grunderwerbssteuer",
+    "Guid": "4e817aef-7a7c-4688-a526-4cbe21ce678b",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Rechtsfähige Stiftung",
+    "Link": "http://www.caritas.de/glossare/rechtsfaehige-stiftung",
+    "Guid": "2045fe68-1198-46d5-b7ea-4ad5ddaffe71",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Zustiftung ",
+    "Link": "http://www.caritas.de/glossare/zustiftung",
+    "Guid": "fae34d54-c93a-43ca-b1ae-61cfaabd71f2",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Erbschaftsteuer",
+    "Link": "http://www.caritas.de/glossare/erbschaftsteuer",
+    "Guid": "c3db4e03-7bd5-4f10-91e9-a4a5fa6902da",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Stiftungszweck ",
+    "Link": "http://www.caritas.de/glossare/stiftungszweck",
+    "Guid": "aa63daca-67f6-41a6-9f72-ed14941c8c48",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Unselbständige Stiftung ",
+    "Link": "http://www.caritas.de/glossare/unselbstaendige-stiftung",
+    "Guid": "ea5ef22e-cee7-41e9-88fc-3dda73500411",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Selbständige Stiftung",
+    "Link": "http://www.caritas.de/glossare/selbstaendige-stiftung",
+    "Guid": "419cc80e-1fa9-4f00-bad8-3be5bf35c7e6",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Gemeinnützigkeit",
+    "Link": "http://www.caritas.de/glossare/gemeinnuetzigkeit",
+    "Guid": "aee0d358-8d7b-4d93-b88f-0af67e23bff0",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Destinatäre",
+    "Link": "http://www.caritas.de/glossare/destinataere",
+    "Guid": "7cf72d0c-f4a6-47a3-b8ac-b3ca7d153754",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Freistellungsbescheid ",
+    "Link": "http://www.caritas.de/glossare/freistellungsbescheid",
+    "Guid": "e1f610da-7c28-47c4-b5aa-1327d2c6f09e",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Juristische Person",
+    "Link": "http://www.caritas.de/glossare/juristische-person",
+    "Guid": "417deb3d-274b-4dd2-9079-a3c8391084df",
+    "GlossaryGuid": "7dbf4ab7-9405-48be-bf02-bff189ae0777"
+  },
+  {
+    "Title": "Pflichtverteidigung",
+    "Link": "http://www.caritas.de/glossare/pflichtverteidigung",
+    "Guid": "f94a0998-e576-4ff5-94e5-7f3638409ea9",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Untersuchungshaft",
+    "Link": "http://www.caritas.de/glossare/untersuchungshaft",
+    "Guid": "5479e3a8-9047-4e84-b2d0-cfb7414ab555",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Erziehungsmaßregeln",
+    "Link": "http://www.caritas.de/glossare/erziehungsmassregeln",
+    "Guid": "921ec845-0e6e-4d16-a0ba-ce252abfc90f",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Beratungshilfe",
+    "Link": "http://www.caritas.de/glossare/beratungshilfe",
+    "Guid": "61366007-3459-4e6e-b983-9a627b16fdd2",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Besuchsdienst (Haft)",
+    "Link": "http://www.caritas.de/glossare/besuchsdienst-haft",
+    "Guid": "c8c4f2d7-2c94-41c5-9eec-1c5971d3988d",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Vollzugsplan",
+    "Link": "http://www.caritas.de/glossare/vollzugsplan",
+    "Guid": "a940a091-3ed7-43fc-8745-e5d325e1a773",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Gefängnisseelsorger",
+    "Link": "http://www.caritas.de/glossare/gefaengnisseelsorger",
+    "Guid": "49ccc058-10d2-4f38-a326-da570d3028ce",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Elektronische Fußfessel",
+    "Link": "http://www.caritas.de/glossare/elektronische-fussfessel",
+    "Guid": "d81008eb-8080-47b9-995a-6da66272e034",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Lebenslänglich",
+    "Link": "http://www.caritas.de/glossare/lebenslaenglich",
+    "Guid": "561af83e-6876-4f68-a8d2-bc7bab709d64",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Disziplinarmaßnahmen",
+    "Link": "http://www.caritas.de/glossare/disziplinarmassnahmen",
+    "Guid": "95417c63-fca5-4008-9936-06e45d340e58",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Ersatzfreiheitsstrafe",
+    "Link": "http://www.caritas.de/glossare/ersatzfreiheitsstrafe",
+    "Guid": "72f48a39-6c64-4686-b6d3-4b68b3f74180",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Vollzug – offen oder geschlossen",
+    "Link": "http://www.caritas.de/glossare/vollzug--offen-oder-geschlossen",
+    "Guid": "c7c31f18-4593-4801-9e36-7069f0af5ac9",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Hafturlaub",
+    "Link": "http://www.caritas.de/glossare/hafturlaub",
+    "Guid": "f46a0a3c-9113-4391-baa8-7a1faf4f71a3",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Arbeitsentgelt in Haft",
+    "Link": "http://www.caritas.de/glossare/arbeitsentgelt-in-haft",
+    "Guid": "958e5350-47be-4b28-b8c0-e518a5a87266",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Taschengeld in U-Haft",
+    "Link": "http://www.caritas.de/glossare/taschengeld-in-u-haft",
+    "Guid": "564c5817-56f2-42d7-9ff6-53babdb4bab2",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Geldverwaltung statt Vollstreckung von Ersatzfreiheitsstrafe",
+    "Link": "http://www.caritas.de/glossare/geldverwaltung-statt-vollstreckung-von-e",
+    "Guid": "4860fa65-9ebc-48ef-b671-976c5ea8621b",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Haftkostenbeitrag",
+    "Link": "http://www.caritas.de/glossare/haftkostenbeitrag",
+    "Guid": "766c050a-bb64-4732-9552-43bcfb8233f6",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Umschluss",
+    "Link": "http://www.caritas.de/glossare/umschluss",
+    "Guid": "25180703-b96f-49c3-a318-95d517b234e9",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Bewährungsauflagen",
+    "Link": "http://www.caritas.de/glossare/bewaehrungsauflagen",
+    "Guid": "fe5faea3-b9a9-4104-bfe2-456d3db2a19d",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Arrest (Dauer/Freizeit)",
+    "Link": "http://www.caritas.de/glossare/arrest-dauer-freizeit",
+    "Guid": "73844ec2-c76d-47ac-8ee3-0759b23638aa",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Entlassungsvorbereitung",
+    "Link": "http://www.caritas.de/glossare/entlassungsvorbereitung",
+    "Guid": "cbf18589-6358-41f3-9592-d8710bfdbdd3",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Bewährungshilfe",
+    "Link": "http://www.caritas.de/glossare/bewaehrungshilfe",
+    "Guid": "17796fdc-096a-4bd4-aab9-4672c4eeccb2",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Sicherungsverwahrung",
+    "Link": "http://www.caritas.de/glossare/sicherungsverwahrung",
+    "Guid": "1a88a0e3-2002-48ac-ba02-5207c06c51f3",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Maßregelvollzug",
+    "Link": "http://www.caritas.de/glossare/massregelvollzug",
+    "Guid": "0c5ee874-fb6a-43bf-84ea-23867211427b",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Vormelder",
+    "Link": "http://www.caritas.de/glossare/vormelder",
+    "Guid": "2fc32463-99e9-47e7-bba3-913f97bfff7d",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Gefangenentransport von einer JVA in eine andere (\"Verschuben\")",
+    "Link": "http://www.caritas.de/glossare/gefangenentransport-von-einer-jva-in-ein",
+    "Guid": "72a5f1b0-52a8-455d-b925-6274f0f3d57a",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Überbrückungsgeld",
+    "Link": "http://www.caritas.de/glossare/ueberbrueckungsgeld",
+    "Guid": "d55b48bd-5a82-4014-93d4-03c83b8c37e0",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Hausgeld",
+    "Link": "http://www.caritas.de/glossare/hausgeld",
+    "Guid": "06fb4a14-5052-4fe4-ba81-ac3de729349b",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Freigang",
+    "Link": "http://www.caritas.de/glossare/freigang",
+    "Guid": "0ac2f36b-819b-4e18-b5eb-dbb0a1fa9b34",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Bewährung",
+    "Link": "http://www.caritas.de/glossare/bewaehrung",
+    "Guid": "167e4295-e93d-48bf-9fd4-29cf44f28ab0",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "gemeinnützige Arbeit statt Strafe",
+    "Link": "http://www.caritas.de/glossare/gemeinnuetzige-arbeit-statt-strafe",
+    "Guid": "d94bd646-d02c-4d26-af75-196153324473",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Besuchserlaubnis",
+    "Link": "http://www.caritas.de/glossare/besuchserlaubnis",
+    "Guid": "cc669ad7-70a4-4a3f-b4de-9e3235ad2b37",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Sozialtherapeutische Anstalt",
+    "Link": "http://www.caritas.de/glossare/sozialtherapeutische-anstalt",
+    "Guid": "92f62172-dba5-4827-a538-fb1d43d6733c",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Berufung",
+    "Link": "http://www.caritas.de/glossare/berufung",
+    "Guid": "ebd06315-cf63-4e50-839b-8ea2cfbd2de8",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Freizeitarrest",
+    "Link": "http://www.caritas.de/glossare/freizeitarrest",
+    "Guid": "0d78c5ef-2f3e-466a-acf0-76131be335e0",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Zuchtmittel",
+    "Link": "http://www.caritas.de/glossare/zuchtmittel",
+    "Guid": "ecb8d5b0-e69e-4c61-93de-6980fb2fdc05",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Betreuungsweisung",
+    "Link": "http://www.caritas.de/glossare/betreuungsweisung",
+    "Guid": "f7d0d670-fe4d-4b2d-9673-324d7e3a8ffe",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Prozesskostenhilfe",
+    "Link": "http://www.caritas.de/glossare/prozesskostenhilfe",
+    "Guid": "ccc92b86-653a-4ba0-b39a-68dcd3dad442",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Therapie statt Strafe",
+    "Link": "http://www.caritas.de/glossare/therapie-statt-strafe",
+    "Guid": "a11ba9ee-28b8-4485-ae90-fa281db3c47c",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Besuchsregelung",
+    "Link": "http://www.caritas.de/glossare/besuchsregelung",
+    "Guid": "d4395e0b-8c8c-4ec2-8b1f-9867417f00ab",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "vorzeitige Entlassung",
+    "Link": "http://www.caritas.de/glossare/vorzeitige-entlassung",
+    "Guid": "8f84faa5-0e2d-4a39-9857-fa7fe06fdd0e",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Revision",
+    "Link": "http://www.caritas.de/glossare/revision",
+    "Guid": "353b3d0f-73e5-4b01-8ecf-c3ce7dcfa93b",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Bewährungsauflagen",
+    "Link": "http://www.caritas.de/glossare/bewaehrungsauflagen",
+    "Guid": "1aa67e2c-0fbf-4291-b9e7-5aa7c26fef3e",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Ausgang",
+    "Link": "http://www.caritas.de/glossare/ausgang",
+    "Guid": "bf74d5d0-1071-47d8-87e1-b7f38024bf65",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Führungsaufsicht",
+    "Link": "http://www.caritas.de/glossare/fuehrungsaufsicht",
+    "Guid": "469db008-c6c7-4c5f-9dda-6ba329c75f7f",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Lockerungen",
+    "Link": "http://www.caritas.de/glossare/lockerungen",
+    "Guid": "da4e941f-c02e-45bd-b425-9b126ea95471",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Resozialisierungsfonds",
+    "Link": "http://www.caritas.de/glossare/resozialisierungsfonds",
+    "Guid": "1114d849-93ab-42b2-baee-7cddcdf39632",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Straftat",
+    "Link": "http://www.caritas.de/glossare/straftat",
+    "Guid": "152634cb-7cf3-448f-9435-b55da6da4692",
+    "GlossaryGuid": "0ec8ba8f-9b9c-45c9-8331-7b7c8145a8b9"
+  },
+  {
+    "Title": "Sozialpädagogische Familienhilfe",
+    "Link": "http://www.caritas.de/glossare/sozialpaedagogische-familienhilfe",
+    "Guid": "344cb085-2828-4eee-ae46-091e51376581",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Trennungs- und Scheidungsberatung",
+    "Link": "http://www.caritas.de/glossare/trennungs-und-scheidungsberatung",
+    "Guid": "04b7ff08-26a0-4bcc-9fb9-40ce245708e0",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Kinder und Jugendliche mit Migrationshintergrund",
+    "Link": "http://www.caritas.de/glossare/kinder-und-jugendliche-mit-migrationshin",
+    "Guid": "5ffe621b-0ac6-41e2-9a06-568d6d347c96",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Sozialraumorientierung",
+    "Link": "http://www.caritas.de/glossare/sozialraumorientierung",
+    "Guid": "6e9c0a56-5d77-4aeb-9e3d-38c23eef95bb",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Jugendschutz",
+    "Link": "http://www.caritas.de/glossare/jugendschutz",
+    "Guid": "d069a724-06d5-456e-bf28-68eb7f2d1274",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Jugendamt",
+    "Link": "http://www.caritas.de/glossare/jugendamt",
+    "Guid": "89eb4611-df0a-4975-b40c-0f14a33ce7b7",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Kinder- und Jugendschutz",
+    "Link": "http://www.caritas.de/glossare/kinder-und-jugendschutz",
+    "Guid": "c7c24f55-2f0c-4452-87c6-f862124f7f5b",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Inobhutnahme",
+    "Link": "http://www.caritas.de/glossare/inobhutnahme",
+    "Guid": "3363a981-7771-4849-8ede-4cd4fd221ea0",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Elternbildung",
+    "Link": "http://www.caritas.de/glossare/elternbildung",
+    "Guid": "533d47da-8d17-4669-91c8-5a4a5089fa0f",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Pflegefamilien",
+    "Link": "http://www.caritas.de/glossare/pflegefamilien",
+    "Guid": "b21fb7b4-5ea9-4fcc-b710-c29aad5ac943",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Hilfen zur Erziehung",
+    "Link": "http://www.caritas.de/glossare/hilfen-zur-erziehung",
+    "Guid": "fc0df7fe-a611-4526-acaf-0d48a727bffd",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Vormund",
+    "Link": "http://www.caritas.de/glossare/vormund",
+    "Guid": "16b3808d-9d9e-4575-88e9-0b39f22d8397",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Heimerziehung",
+    "Link": "http://www.caritas.de/glossare/heimerziehung",
+    "Guid": "c139e94c-3a75-4eac-bd73-d492715c674a",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Medienkompetenz",
+    "Link": "http://www.caritas.de/glossare/medienkompetenz",
+    "Guid": "7afe44fe-55e3-47a6-94b8-4ce43a08c048",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Heranziehung zu Kosten",
+    "Link": "http://www.caritas.de/glossare/heranziehung-zu-kosten",
+    "Guid": "a0d668a9-484f-4068-a33f-52899a0dc913",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Schwangerschaftsberatung",
+    "Link": "http://www.caritas.de/glossare/schwangerschaftsberatung",
+    "Guid": "12ebb21f-4041-4b15-a40f-fd6713f3f109",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Quartiersmanagement",
+    "Link": "http://www.caritas.de/glossare/quartiersmanagement",
+    "Guid": "88630acc-28a9-41f6-a81f-3bd8c2119d4e",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Jugendhilfeausschuss",
+    "Link": "http://www.caritas.de/glossare/jugendhilfeausschuss",
+    "Guid": "c215e6cc-7fd4-43a0-95ff-61ae853339f7",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Erlebnispädagogik",
+    "Link": "http://www.caritas.de/glossare/erlebnispaedagogik",
+    "Guid": "cd2238f7-b38f-471f-888a-1bad05a27a84",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Jugendberufshilfe",
+    "Link": "http://www.caritas.de/glossare/jugendberufshilfe",
+    "Guid": "2d012676-6e8a-4f93-a41b-9121e2c46372",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Inklusion",
+    "Link": "http://www.caritas.de/glossare/inklusion",
+    "Guid": "39a171be-5474-45b5-b140-7290b85e806f",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Seelische Behinderung",
+    "Link": "http://www.caritas.de/glossare/seelische-behinderung",
+    "Guid": "21d07416-f386-46b2-9fe6-1bc76f218248",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Gender Mainstreaming (Kinder- und Jugendhilfe)",
+    "Link": "http://www.caritas.de/glossare/gender-mainstreaming-kinder-und-jugendhi",
+    "Guid": "b0d05e4b-a6ab-44ab-bcc1-fb09404fca70",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Kindertagespflege",
+    "Link": "http://www.caritas.de/glossare/kindertagespflege",
+    "Guid": "fb8b58b2-f79c-4e4d-8e88-f2c86448baa4",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Jugendarbeit",
+    "Link": "http://www.caritas.de/glossare/jugendarbeit",
+    "Guid": "a1522819-f9d5-4564-94e9-5bde99a64b2c",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Jugendhilfeplanung",
+    "Link": "http://www.caritas.de/glossare/jugendhilfeplanung",
+    "Guid": "d631d2a1-e5fa-49cd-a11c-683648ad5bf0",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Junge Volljährige",
+    "Link": "http://www.caritas.de/glossare/junge-volljaehrige",
+    "Guid": "b898c04e-a262-4c2f-8425-5a0623f4f8e4",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Kindeswohl",
+    "Link": "http://www.caritas.de/glossare/kindeswohl",
+    "Guid": "3d1b2107-efae-4a73-9b83-797e590190d8",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Kindertageseinrichtungen",
+    "Link": "http://www.caritas.de/glossare/kindertageseinrichtungen",
+    "Guid": "0b5a29db-1499-4ae3-bf93-84798187c2fb",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Betriebserlaubnis/Heimaufsicht",
+    "Link": "http://www.caritas.de/glossare/betriebserlaubnis-heimaufsicht",
+    "Guid": "d0fecca3-3705-4c61-bd49-ec9cba8b522a",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Schulsozialarbeit",
+    "Link": "http://www.caritas.de/glossare/schulsozialarbeit",
+    "Guid": "a0638066-00e6-4023-ab0c-adff63d89584",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Mediation",
+    "Link": "http://www.caritas.de/glossare/mediation",
+    "Guid": "06b3fc82-1ddd-449c-89b1-411c4e5363a5",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "UN-Kinderrechtskonvention",
+    "Link": "http://www.caritas.de/glossare/un-kinderrechtskonvention",
+    "Guid": "b19d833f-4cc5-45bb-a7d6-ac32f01a52fe",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "SGB VIII",
+    "Link": "http://www.caritas.de/glossare/sgb-viii",
+    "Guid": "a534e8f0-d01a-4e16-9dd7-54989867e6d1",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Geschlechtsspezifische Arbeit",
+    "Link": "http://www.caritas.de/glossare/geschlechtsspezifische-arbeit",
+    "Guid": "f90ea0f6-7a74-4e34-9f22-de9baca07bdd",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "ADHS",
+    "Link": "http://www.caritas.de/glossare/adhs",
+    "Guid": "9843e47f-9ad7-49b0-bff4-991cd49a0a64",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Kindeswohlgefährdung",
+    "Link": "http://www.caritas.de/glossare/kindeswohlgefaehrdung",
+    "Guid": "aec57a83-8824-4b71-93b9-e34090c395ad",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Missbrauch, sexueller",
+    "Link": "http://www.caritas.de/glossare/missbrauch-sexueller",
+    "Guid": "bba59f22-f9d5-4a88-ae00-09b4fa248e56",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Hilfeplanung",
+    "Link": "http://www.caritas.de/glossare/hilfeplanung",
+    "Guid": "521187c9-4ce4-4631-8793-81553893314f",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Intensivpädagogische Maßnahmen im In- und Ausland",
+    "Link": "http://www.caritas.de/glossare/intensivpaedagogische-massnahmen-im-in-u",
+    "Guid": "6715fdf6-99ad-439a-afa8-52d29328b34e",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Jugendmigrationsdienst",
+    "Link": "http://www.caritas.de/glossare/jugendmigrationsdienst",
+    "Guid": "df15f4c3-8ba8-4489-8811-942edc46621e",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Soziale Gruppenarbeit",
+    "Link": "http://www.caritas.de/glossare/soziale-gruppenarbeit",
+    "Guid": "72a5247f-84b7-4519-ac37-19e6934ac96c",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Hilfen für junge Volljährige",
+    "Link": "http://www.caritas.de/glossare/hilfen-fuer-junge-volljaehrige",
+    "Guid": "e4765a41-6bb0-41da-adec-a9a7d8b37438",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Kinder und Jugendliche mit Behinderung",
+    "Link": "http://www.caritas.de/glossare/kinder-und-jugendliche-mit-behinderung",
+    "Guid": "d1d7121f-74de-44b8-90df-407de7b7508e",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Jugendsozialarbeit",
+    "Link": "http://www.caritas.de/glossare/jugendsozialarbeit",
+    "Guid": "1f8bb217-572e-49af-8998-b4157c6bbc10",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Kinderschutz",
+    "Link": "http://www.caritas.de/glossare/kinderschutz",
+    "Guid": "fc5d35db-03a7-4283-bd77-32bf806138a2",
+    "GlossaryGuid": "87c4f952-9e4e-46a5-b5e8-b9de56e92164"
+  },
+  {
+    "Title": "Abschiebehaft",
+    "Link": "http://www.caritas.de/glossare/abschiebehaft",
+    "Guid": "4b3ed1d9-154c-4cd0-89fd-248abd1e97ab",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Migration",
+    "Link": "http://www.caritas.de/glossare/migration",
+    "Guid": "ad9c105f-d74e-494b-bb96-5a70d3bf3379",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "AnkER-Zentren",
+    "Link": "http://www.caritas.de/glossare/anker-zentren",
+    "Guid": "fcf09fd6-6819-4e90-92be-168f8139dbc9",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Private Sponsorship Programme",
+    "Link": "http://www.caritas.de/glossare/private-sponsorship-programme",
+    "Guid": "70e916e3-b5fd-47c6-b6ef-cdfccc639c27",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Familiennachzug",
+    "Link": "http://www.caritas.de/glossare/familiennachzug",
+    "Guid": "95c784ab-f506-40b8-944d-82affc731820",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Altersbestimmung",
+    "Link": "http://www.caritas.de/glossare/altersbestimmung",
+    "Guid": "9ef86373-4fff-4441-9f47-5d403dbb6cb8",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Niederlassungserlaubnis",
+    "Link": "http://www.caritas.de/glossare/niederlassungserlaubnis",
+    "Guid": "f485b939-2bb5-4fc7-ba88-70eb468a3f35",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Aufenthaltsgestattung",
+    "Link": "http://www.caritas.de/glossare/aufenthaltsgestattung",
+    "Guid": "1853cd10-e617-45d1-9f2b-44781761815e",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Integrationskurs",
+    "Link": "http://www.caritas.de/glossare/integrationskurs",
+    "Guid": "0898a443-fc61-4f1d-843b-80c2594972e9",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Menschenhandel",
+    "Link": "http://www.caritas.de/glossare/menschenhandel",
+    "Guid": "f6ca2018-f8c8-4b24-a849-44ab53b07762",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Sichere Herkunftsstaaten",
+    "Link": "http://www.caritas.de/glossare/sichere-herkunftsstaaten",
+    "Guid": "8ad70e04-9081-4cbc-a962-93eb06a383db",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Flüchtling",
+    "Link": "http://www.caritas.de/glossare/fluechtling",
+    "Guid": "038899e7-a3e9-4b7e-8553-3dfe8b73602e",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Ausbildungsduldung",
+    "Link": "http://www.caritas.de/glossare/ausbildungsduldung",
+    "Guid": "308deea8-4701-4bf2-84e0-5b6988e898b6",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Menschen mit Migrationshintergrund",
+    "Link": "http://www.caritas.de/glossare/menschen-mit-migrationshintergrund",
+    "Guid": "053d84fe-ab8e-4c34-a679-1bc91ea18b5e",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Asylbewerberleistungsgesetz",
+    "Link": "http://www.caritas.de/glossare/asylbewerberleistungsgesetz",
+    "Guid": "6e99112e-cee4-497a-9bd8-d14da31fc285",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Duldung",
+    "Link": "http://www.caritas.de/glossare/duldung",
+    "Guid": "5c56db86-c018-4b1d-8a7e-6d216ac921ec",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Genfer Flüchtlingskonvention",
+    "Link": "http://www.caritas.de/glossare/genfer-fluechtlingskonvention",
+    "Guid": "cedd0e97-eb27-4718-bf53-0fb7629509a1",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Migrationsberatung für erwachsene Zuwanderer (MBE)",
+    "Link": "http://www.caritas.de/glossare/migrationsberatung-fuer-erwachsene-zuwan",
+    "Guid": "0e46ce81-0593-43e8-955f-d99f34e62c33",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Aufenthaltsrechtliche Illegalität",
+    "Link": "http://www.caritas.de/glossare/aufenthaltsrechtliche-illegalitaet",
+    "Guid": "412f10ae-6160-45bd-a7c5-fb426d18752c",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Flüchtlinge (unbegleitet, minderjährig)",
+    "Link": "http://www.caritas.de/glossare/fluechtlinge-unbegleitet-minderjaehrig",
+    "Guid": "6e4fdd78-4545-4d43-8519-ef2e0cebc4e8",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Rechtsberaternetz der Caritas",
+    "Link": "http://www.caritas.de/glossare/rechtsberaternetz-der-caritas",
+    "Guid": "aaeec952-cc40-4482-8016-0d7799352b85",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Fiktionsbescheinigung",
+    "Link": "http://www.caritas.de/glossare/fiktionsbescheinigung",
+    "Guid": "00be6e31-025e-4760-8d9b-676ff4c86544",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Abschiebebeobachtung",
+    "Link": "http://www.caritas.de/glossare/abschiebebeobachtung",
+    "Guid": "a97a64e2-e569-44a4-964a-b3da9e616f8f",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Jugendmigrationsdienst",
+    "Link": "http://www.caritas.de/glossare/jugendmigrationsdienst",
+    "Guid": "df15f4c3-8ba8-4489-8811-942edc46621e",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Interkulturelle Öffnung",
+    "Link": "http://www.caritas.de/glossare/interkulturelle-oeffnung",
+    "Guid": "d8e14eec-b2b4-402e-bc0b-06263da351e5",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Abschiebung und Abschiebungshaft",
+    "Link": "http://www.caritas.de/fuerprofis/fachthemen/migration/abschiebung-und-abschiebungshaft",
+    "Guid": "eef72ba9-9b98-4ca9-9cf4-e6cd25f35290",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Aufenthaltskarte",
+    "Link": "http://www.caritas.de/glossare/aufenthaltskarte",
+    "Guid": "14fe766b-519e-4593-9705-2e346dc434c1",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Abschiebung",
+    "Link": "http://www.caritas.de/glossare/abschiebung",
+    "Guid": "aa95f3cb-bcb0-4b70-9195-43de1fd9c7bc",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Abschiebung und Abschiebungshaft",
+    "Link": "http://www.caritas.de/fuerprofis/fachthemen/migration/abschiebung-und-abschiebungshaft",
+    "Guid": "eef72ba9-9b98-4ca9-9cf4-e6cd25f35290",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Aufenthaltsgesetz",
+    "Link": "http://www.caritas.de/glossare/aufenthaltsgesetz",
+    "Guid": "bf7a0d62-3d99-49b3-8bd4-f9a3b2c8d598",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Nationales Visum",
+    "Link": "http://www.caritas.de/glossare/nationales-visum",
+    "Guid": "c632161f-e1ea-4e4e-96b0-70a7c6a7019b",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Kontingentflüchtlinge",
+    "Link": "http://www.caritas.de/glossare/kontingentfluechtlinge",
+    "Guid": "056a620f-c471-492e-ac96-264a78f2e140",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Visum",
+    "Link": "http://www.caritas.de/glossare/visum",
+    "Guid": "60bbe13d-d415-4ec2-abfc-e5842afb563a",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Asylbewerber",
+    "Link": "http://www.caritas.de/glossare/asylbewerber",
+    "Guid": "6132d8eb-7e7c-40e1-bce8-7641dfc4ed4b",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Optionsmodell",
+    "Link": "http://www.caritas.de/glossare/optionsmodell",
+    "Guid": "c69737fb-538e-49aa-b5da-e5af382264ea",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Bundesamt für Migration und Flüchtlinge",
+    "Link": "http://www.caritas.de/glossare/bundesamt-fuer-migration-und-fluechtling",
+    "Guid": "21d3ee65-aabb-4b62-89a8-b661110eed8a",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Asyl",
+    "Link": "http://www.caritas.de/glossare/asyl",
+    "Guid": "3a7c9771-9074-44c7-90e7-9b2985bd6aad",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Anerkennung ausländischer Qualifikationen",
+    "Link": "http://www.caritas.de/glossare/anerkennung-auslaendischer-qualifikation",
+    "Guid": "4b772ce6-eb9a-4852-99e9-394cb9063401",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Staatsangehörigkeit (Optionsmodell)",
+    "Link": "http://www.caritas.de/glossare/staatsangehoerigkeit-optionsmodell",
+    "Guid": "256fcf8b-f197-4b72-b35c-680641080640",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Anerkennungsgesetz",
+    "Link": "http://www.caritas.de/glossare/anerkennungsgesetz",
+    "Guid": "3508f3c0-56c7-4138-b0c9-f7a842d38a37",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Zwangsverheiratung",
+    "Link": "http://www.caritas.de/glossare/zwangsverheiratung",
+    "Guid": "6789a6e5-e689-4bd0-8453-061e68d1946d",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Aufenthaltserlaubnis",
+    "Link": "http://www.caritas.de/glossare/aufenthaltserlaubnis",
+    "Guid": "4a93903e-3020-448b-8c01-a0f780028f0d",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Einreise und Aufenthalt",
+    "Link": "http://www.caritas.de/glossare/einreise-und-aufenthalt",
+    "Guid": "a3933b81-0371-4f28-ab77-b9607db7db29",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Asylverfahren",
+    "Link": "http://www.caritas.de/glossare/asylverfahren",
+    "Guid": "fb00bb60-036c-4ee0-be44-399e7e99a625",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Freizügigkeit für EU-Bürger",
+    "Link": "http://www.caritas.de/glossare/freizuegigkeit-fuer-eu-buerger",
+    "Guid": "47f4ffac-47c3-48d9-9064-3f17157e8838",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Ausländerrecht",
+    "Link": "http://www.caritas.de/glossare/auslaenderrecht",
+    "Guid": "32bd22d3-d4d2-4b3a-a3e9-f26529997246",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Subsidiärer Schutz",
+    "Link": "http://www.caritas.de/glossare/subsidiaerer-schutz",
+    "Guid": "999e47e6-4f08-4cdc-92c2-f72d2738b0c5",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Integration",
+    "Link": "http://www.caritas.de/glossare/integration",
+    "Guid": "32611fe1-f529-46dc-b7e2-10610f61920a",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Schengenvisum",
+    "Link": "http://www.caritas.de/glossare/schengenvisum",
+    "Guid": "aace93e5-c868-47d2-a570-7a4e79e83700",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Clearingverfahren",
+    "Link": "http://www.caritas.de/glossare/clearingverfahren",
+    "Guid": "c7051742-1070-40ad-8c42-1adfef1d1d0e",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Resettlement",
+    "Link": "http://www.caritas.de/glossare/resettlement",
+    "Guid": "c686c92d-4ccc-4c72-9e2a-c216e40df112",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Berufsbezogene Deutschsprachförderung",
+    "Link": "http://www.caritas.de/glossare/berufsbezogene-deutschsprachfoerderung",
+    "Guid": "3e85c054-0192-41e3-bdc7-462d1ebda141",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Vormundschaft",
+    "Link": "http://www.caritas.de/glossare/vormundschaft",
+    "Guid": "bb235f80-cce5-4cdc-8fc2-467b1c758117",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Freizügigkeitsrecht",
+    "Link": "http://www.caritas.de/glossare/freizuegigkeitsrecht",
+    "Guid": "1070eee7-28d6-4783-b62f-b4779b3e8851",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Humanitäre Aufnahmeprogramme",
+    "Link": "http://www.caritas.de/glossare/humanitaere-aufnahmeprogramme",
+    "Guid": "714154d3-8297-4350-9e69-caee11aba69d",
+    "GlossaryGuid": "0883becc-6b1e-4ffa-89d9-8f2c49c7a16f"
+  },
+  {
+    "Title": "Ratenkauf",
+    "Link": "http://www.caritas.de/glossare/ratenkauf",
+    "Guid": "08d8426c-d4dd-46ca-aa01-face7b5a4f68",
+    "GlossaryGuid": "f9887b69-ea48-4f3f-b411-fcd3bd613f76"
+  },
+  {
+    "Title": "Dauerschuldverhältnis",
+    "Link": "http://www.caritas.de/glossare/dauerschuldverhaeltnis",
+    "Guid": "1b11f4b1-fe5c-40c9-a988-a0cb3bff75df",
+    "GlossaryGuid": "f9887b69-ea48-4f3f-b411-fcd3bd613f76"
+  },
+  {
+    "Title": "Dispo",
+    "Link": "http://www.caritas.de/glossare/dispo",
+    "Guid": "1f709a11-3efd-4920-b438-437cbdb95d50",
+    "GlossaryGuid": "f9887b69-ea48-4f3f-b411-fcd3bd613f76"
+  },
+  {
+    "Title": "Schuldnerberatung",
+    "Link": "http://www.caritas.de/glossare/schuldnerberatung",
+    "Guid": "bb9a78ea-6c77-48b1-af50-a8d24cf304a0",
+    "GlossaryGuid": "f9887b69-ea48-4f3f-b411-fcd3bd613f76"
+  },
+  {
+    "Title": "Pfändungsgrenze",
+    "Link": "http://www.caritas.de/glossare/pfaendungsgrenze",
+    "Guid": "4c885160-cce8-4439-8134-979440e09b94",
+    "GlossaryGuid": "f9887b69-ea48-4f3f-b411-fcd3bd613f76"
+  },
+  {
+    "Title": "Mahnbescheid",
+    "Link": "http://www.caritas.de/glossare/mahnbescheid",
+    "Guid": "6affdde9-7d48-4dd1-86f0-32455eb6f04c",
+    "GlossaryGuid": "f9887b69-ea48-4f3f-b411-fcd3bd613f76"
+  },
+  {
+    "Title": "Vermögensauskunft",
+    "Link": "http://www.caritas.de/glossare/vermoegensauskunft",
+    "Guid": "1bc8692a-797f-4c60-b154-fe4a92e50bc7",
+    "GlossaryGuid": "f9887b69-ea48-4f3f-b411-fcd3bd613f76"
+  },
+  {
+    "Title": "Zwangsvollstreckung",
+    "Link": "http://www.caritas.de/glossare/zwangsvollstreckung",
+    "Guid": "127e63c0-abf5-4855-bc27-4c5d854617ab",
+    "GlossaryGuid": "f9887b69-ea48-4f3f-b411-fcd3bd613f76"
+  },
+  {
+    "Title": "Basiskonto",
+    "Link": "http://www.caritas.de/glossare/basiskonto",
+    "Guid": "72469dec-8836-4b27-85e7-950ab1c6ecc2",
+    "GlossaryGuid": "f9887b69-ea48-4f3f-b411-fcd3bd613f76"
+  },
+  {
+    "Title": "Überschuldung",
+    "Link": "http://www.caritas.de/glossare/ueberschuldung",
+    "Guid": "3e5fea19-61bc-40d2-9c94-71df4a6de690",
+    "GlossaryGuid": "f9887b69-ea48-4f3f-b411-fcd3bd613f76"
+  },
+  {
+    "Title": "Inkasso",
+    "Link": "http://www.caritas.de/glossare/inkasso",
+    "Guid": "be06118d-f704-467d-8d95-e74fd69d6471",
+    "GlossaryGuid": "f9887b69-ea48-4f3f-b411-fcd3bd613f76"
+  },
+  {
+    "Title": "Kontopfändung",
+    "Link": "http://www.caritas.de/glossare/kontopfaendung",
+    "Guid": "943b315e-6e32-4d32-8c98-9ec8e69dcb57",
+    "GlossaryGuid": "f9887b69-ea48-4f3f-b411-fcd3bd613f76"
+  },
+  {
+    "Title": "Prepaid-Tarif",
+    "Link": "http://www.caritas.de/glossare/prepaid-tarif",
+    "Guid": "4896643e-dca7-4977-afd8-c5faee617db1",
+    "GlossaryGuid": "f9887b69-ea48-4f3f-b411-fcd3bd613f76"
+  },
+  {
+    "Title": "Außergerichtlicher Vergleich",
+    "Link": "http://www.caritas.de/glossare/aussergerichtlicher-vergleich",
+    "Guid": "541a3e01-0c75-492e-a9b0-3d682a98760e",
+    "GlossaryGuid": "f9887b69-ea48-4f3f-b411-fcd3bd613f76"
+  },
+  {
+    "Title": "Budgetberatung",
+    "Link": "http://www.caritas.de/glossare/budgetberatung",
+    "Guid": "99657592-85b7-4478-9b57-663567e029f4",
+    "GlossaryGuid": "f9887b69-ea48-4f3f-b411-fcd3bd613f76"
+  },
+  {
+    "Title": "Umschuldung",
+    "Link": "http://www.caritas.de/glossare/umschuldung",
+    "Guid": "380b4030-3148-4b72-a55b-2ef491a048c2",
+    "GlossaryGuid": "f9887b69-ea48-4f3f-b411-fcd3bd613f76"
+  },
+  {
+    "Title": "Pfändungsschutz-Konto",
+    "Link": "http://www.caritas.de/glossare/pfaendungsschutz-konto",
+    "Guid": "b82680b9-e05c-4818-8b78-3a401716ea26",
+    "GlossaryGuid": "f9887b69-ea48-4f3f-b411-fcd3bd613f76"
+  },
+  {
+    "Title": "Lohnpfändung",
+    "Link": "http://www.caritas.de/glossare/lohnpfaendung",
+    "Guid": "481d3516-f6aa-4cd9-b154-ba5889e48cfd",
+    "GlossaryGuid": "f9887b69-ea48-4f3f-b411-fcd3bd613f76"
+  },
+  {
+    "Title": "Gläubiger",
+    "Link": "http://www.caritas.de/glossare/glaeubiger",
+    "Guid": "b9fa49bc-2580-4d9b-b787-39cbca87c671",
+    "GlossaryGuid": "f9887b69-ea48-4f3f-b411-fcd3bd613f76"
+  },
+  {
+    "Title": "Gerichtsvollzieher",
+    "Link": "http://www.caritas.de/glossare/gerichtsvollzieher",
+    "Guid": "3973d4a2-fd25-47d1-9307-25965bc9bce8",
+    "GlossaryGuid": "f9887b69-ea48-4f3f-b411-fcd3bd613f76"
+  },
+  {
+    "Title": "Privatinsolvenz / Verbraucherinsolvenz",
+    "Link": "http://www.caritas.de/glossare/privatinsolvenz-verbraucherinsolvenz",
+    "Guid": "77c17e15-7065-4af9-ac29-1214f1b54779",
+    "GlossaryGuid": "f9887b69-ea48-4f3f-b411-fcd3bd613f76"
+  },
+  {
+    "Title": "Pfändungsschutzkonto (P-Konto)",
+    "Link": "http://www.caritas.de/glossare/pfaendungsschutzkonto-p-konto",
+    "Guid": "f4456731-01e4-4328-a42c-644d71d9d6a4",
+    "GlossaryGuid": "f9887b69-ea48-4f3f-b411-fcd3bd613f76"
+  },
+  {
+    "Title": "Regelbedarf",
+    "Link": "http://www.caritas.de/glossare/regelbedarf",
+    "Guid": "782783bb-26d0-432f-ae6c-d35bb3a91204",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Widerspruch",
+    "Link": "http://www.caritas.de/glossare/widerspruch",
+    "Guid": "3135a78b-a8f6-4bd3-acdb-3368973e9d46",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Agentur für Arbeit",
+    "Link": "http://www.caritas.de/glossare/agentur-fuer-arbeit",
+    "Guid": "b551a274-c3ba-4d0c-822c-0e82a1b5687f",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Hilfe zum Lebensunterhalt (SGB XII)",
+    "Link": "http://www.caritas.de/glossare/hilfe-zum-lebensunterhalt-sgb-xii",
+    "Guid": "26de62d8-42c5-4283-a5aa-8af10f8aea04",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Arbeitslosengeld II (ALG II, \"Hartz IV\")",
+    "Link": "http://www.caritas.de/glossare/arbeitslosengeld-ii-alg-ii-hartz-iv",
+    "Guid": "b7920626-1539-48cd-b522-a894f164142b",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Verdeckte Armut",
+    "Link": "http://www.caritas.de/glossare/verdeckte-armut",
+    "Guid": "75850e5b-b2d3-4409-a390-df23182ef9ac",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Hilfebedürftigkeit",
+    "Link": "http://www.caritas.de/glossare/hilfebeduerftigkeit",
+    "Guid": "5f5f2e57-4c5d-4466-b86b-58301b94f4e7",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Pflegegeld",
+    "Link": "http://www.caritas.de/glossare/pflegegeld",
+    "Guid": "2c543e87-42e6-410a-866c-d1d2d00c7fc9",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Rundfunkbeitrag, Befreiung/Ermäßigung",
+    "Link": "http://www.caritas.de/glossare/rundfunkbeitrag-befreiung-ermaessigung",
+    "Guid": "c05a4637-792f-47a9-8f78-f0e79b25bb7d",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Aufsichtspflicht",
+    "Link": "http://www.caritas.de/glossare/aufsichtspflicht",
+    "Guid": "6b9a1d36-763f-4498-963e-25c64a3a6e52",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Kündigungsschutz für schwerbehinderte Menschen",
+    "Link": "http://www.caritas.de/glossare/kuendigungsschutz-fuer-schwerbehinderte-",
+    "Guid": "a6804b48-5098-4be2-8993-ecabf053186f",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Ruhen des Leistungsanspruchs in der KV bei Beitragsschulden",
+    "Link": "http://www.caritas.de/glossare/ruhen-des-leistungsanspruchs-in-der-kv-b",
+    "Guid": "6f93fd52-40d3-4bdf-89c2-8dc14afeacbb",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Kindergartenplatz, Rechtsanspruch auf",
+    "Link": "http://www.caritas.de/glossare/kindergartenplatz-rechtsanspruch-auf",
+    "Guid": "ec368323-9910-4531-9ff5-e6d25d8dfcec",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Freibeträge",
+    "Link": "http://www.caritas.de/glossare/freibetraege",
+    "Guid": "1b9735c1-7066-4fc1-82be-7b41761a360e",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Ein-Euro-Job",
+    "Link": "http://www.caritas.de/glossare/ein-euro-job",
+    "Guid": "fc658ef5-3b3a-41a5-bf18-2691da273ff3",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "UN-Behindertenrechtskonvention",
+    "Link": "http://www.caritas.de/glossare/un-behindertenrechtskonvention",
+    "Guid": "d0a389f7-88b0-4c6f-8dd7-b5c3dd947194",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Armutsrisiko",
+    "Link": "http://www.caritas.de/glossare/armutsrisiko",
+    "Guid": "aa5b3ce2-12e6-474f-b895-1da92a8d95dd",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Wohngeld",
+    "Link": "http://www.caritas.de/glossare/wohngeld",
+    "Guid": "0c2199e5-f2ad-46df-8ade-638f06d0c822",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Asylbewerber",
+    "Link": "http://www.caritas.de/glossare/asylbewerber",
+    "Guid": "6132d8eb-7e7c-40e1-bce8-7641dfc4ed4b",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Beurteilungsspielraum",
+    "Link": "http://www.caritas.de/glossare/beurteilungsspielraum",
+    "Guid": "c7489a9c-f22d-4390-9075-8815d9122a81",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Asylbewerberleistungsgesetz",
+    "Link": "http://www.caritas.de/glossare/asylbewerberleistungsgesetz",
+    "Guid": "6e99112e-cee4-497a-9bd8-d14da31fc285",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Sozialgeld",
+    "Link": "http://www.caritas.de/glossare/sozialgeld",
+    "Guid": "54536170-07a3-4e8b-bccc-0c2387ce53c8",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Erwerbsfähigkeit",
+    "Link": "http://www.caritas.de/glossare/erwerbsfaehigkeit",
+    "Guid": "3d9cdf2c-afc8-44da-939f-e916af49900f",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Sozialrechtliches Dreiecksverhältnis",
+    "Link": "http://www.caritas.de/glossare/sozialrechtliches-dreiecksverhaeltnis",
+    "Guid": "1d7a8510-b062-44e7-9515-751274ea7a81",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Sanktionen",
+    "Link": "http://www.caritas.de/glossare/sanktionen",
+    "Guid": "db0bb532-2d6d-4103-a72b-e82346944620",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Klage (vor dem Sozialgericht)",
+    "Link": "http://www.caritas.de/glossare/klage-vor-dem-sozialgericht",
+    "Guid": "ff4eebd1-07ba-4a26-b70d-c72e62424813",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Jobcenter",
+    "Link": "http://www.caritas.de/glossare/jobcenter",
+    "Guid": "08ea5f5a-9660-43bc-a504-b9b918d9cf82",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Minijob (450-Euro-Job)",
+    "Link": "http://www.caritas.de/glossare/minijob-450-euro-job",
+    "Guid": "4b5f3080-bb3b-44fa-8299-3f04c6aca9c9",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Niedriglohn",
+    "Link": "http://www.caritas.de/glossare/niedriglohn",
+    "Guid": "7a616bdb-b306-4b7a-a85c-ae16a963d445",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Härtefallregelung (Sozialrecht)",
+    "Link": "http://www.caritas.de/glossare/haertefallregelung-sozialrecht",
+    "Guid": "071bf7d8-0f61-4f19-ab1d-2e40362a4811",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Arbeitslosengeld (ALG I)",
+    "Link": "http://www.caritas.de/glossare/arbeitslosengeld-alg-i",
+    "Guid": "29e80d99-144d-46f2-8d89-a20f84a6032a",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Sozialgericht",
+    "Link": "http://www.caritas.de/glossare/sozialgericht",
+    "Guid": "beb497f6-2e53-4488-8300-ecd4fefb8c05",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Kommunale Träger",
+    "Link": "http://www.caritas.de/glossare/kommunale-traeger",
+    "Guid": "bcbc738b-6328-4bd9-8a9b-63e5e2a736dc",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Mitwirkungspflichten",
+    "Link": "http://www.caritas.de/glossare/mitwirkungspflichten",
+    "Guid": "215ac970-9e63-4e88-83c0-9a3f5be0a23e",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Arbeitslosenversicherung",
+    "Link": "http://www.caritas.de/glossare/arbeitslosenversicherung",
+    "Guid": "bf139190-8182-4342-b37e-36dc10069af0",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Ermessen",
+    "Link": "http://www.caritas.de/glossare/ermessen",
+    "Guid": "e5193bec-f0be-49f2-8604-f840d643ced8",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Kinderzuschlag",
+    "Link": "http://www.caritas.de/glossare/kinderzuschlag",
+    "Guid": "56c95184-1e99-4677-8b42-cbdad4512c5e",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Bewilligungszeitraum",
+    "Link": "http://www.caritas.de/glossare/bewilligungszeitraum",
+    "Guid": "130d1d0d-0887-4f54-96a9-be3d1b126b2b",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Mehrbedarf",
+    "Link": "http://www.caritas.de/glossare/mehrbedarf",
+    "Guid": "b2182e2f-01e8-403f-a4c8-8e98105d34d5",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "SGB II (Grundsicherung für Arbeitsuchende, \"Hartz IV\")",
+    "Link": "http://www.caritas.de/glossare/sgb-ii-grundsicherung-fuer-arbeitsuchend",
+    "Guid": "162d6d23-7331-4689-8197-7ad5ea10e913",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Transferleistung",
+    "Link": "http://www.caritas.de/glossare/transferleistung",
+    "Guid": "8b9fd312-c0d6-4522-aae0-968ffc7e6d26",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Zuzahlungen in der gesetzlichen Krankenversicherung",
+    "Link": "http://www.caritas.de/glossare/zuzahlungen-in-der-gesetzlichen-krankenv",
+    "Guid": "527d9b64-cdaf-491b-a86f-a9606814f21f",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Ergänzendes Arbeitslosengeld II (Aufstockendes Arbeitslosengeld II)",
+    "Link": "http://www.caritas.de/glossare/ergaenzendes-arbeitslosengeld-ii-aufstoc",
+    "Guid": "42820a79-5c0c-4456-be97-28391861cb37",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Krankengeld",
+    "Link": "http://www.caritas.de/glossare/krankengeld",
+    "Guid": "455970a6-ecee-46b5-b089-9aab26048e95",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Darlehen (Arbeitslosengeld II)",
+    "Link": "http://www.caritas.de/glossare/darlehen-arbeitslosengeld-ii",
+    "Guid": "3c446f60-9bdb-4cb5-8304-35e5a3ff4779",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Bildungs- und Teilhabepaket",
+    "Link": "http://www.caritas.de/glossare/bildungs-und-teilhabepaket",
+    "Guid": "3507c9e9-339c-4a55-ac02-7b254afcaf29",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Einmalige Leistungen",
+    "Link": "http://www.caritas.de/glossare/einmalige-leistungen",
+    "Guid": "26845386-7d52-4928-90e1-649b8254d630",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "SGB XII (Sozialhilfe, Grundsicherung im Alter und bei Erwerbsminderung)",
+    "Link": "http://www.caritas.de/glossare/sgb-xii-sozialhilfe-grundsicherung-im-al",
+    "Guid": "61098585-7c57-40fb-b088-18f28b620a4b",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Missbrauch, sexueller",
+    "Link": "http://www.caritas.de/glossare/missbrauch-sexueller",
+    "Guid": "bba59f22-f9d5-4a88-ae00-09b4fa248e56",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Wohn- und Betreuungsvertragsgesetz (WBVG)",
+    "Link": "http://www.caritas.de/glossare/wohn-und-betreuungsvertragsgesetz-wbvg",
+    "Guid": "4afa7448-83c9-437a-a729-f1c1216e6fcc",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Kosten der Unterkunft und Heizung",
+    "Link": "http://www.caritas.de/glossare/kosten-der-unterkunft-und-heizung",
+    "Guid": "63f5ef6a-9aab-47bc-a2d7-74310a26ea7b",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Zuverdienst",
+    "Link": "http://www.caritas.de/glossare/zuverdienst",
+    "Guid": "60a19885-a1d3-48cc-ac2c-32efaf3f3e61",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Eingliederungsleistung, Eingliederungsvereinbarung",
+    "Link": "http://www.caritas.de/glossare/eingliederungsleistung-eingliederungsver",
+    "Guid": "bc72f89e-2ad5-417a-bc46-52e552667a50",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Bedarfsgemeinschaft",
+    "Link": "http://www.caritas.de/glossare/bedarfsgemeinschaft",
+    "Guid": "6fde8956-af32-4a26-be11-c697292743cc",
+    "GlossaryGuid": "dc51462e-236f-4b41-aa21-b6aa433598a8"
+  },
+  {
+    "Title": "Abhängigkeit",
+    "Link": "http://www.caritas.de/glossare/abhaengigkeit",
+    "Guid": "a1bd10b1-9ad0-4bff-adfb-5e9f8e17a896",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Fachklinik / Rehaklinik",
+    "Link": "http://www.caritas.de/glossare/fachklinik-rehaklinik",
+    "Guid": "6c3df03f-b2e9-4b31-a129-9b1af6e8911b",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Rehabilitation (Sucht)",
+    "Link": "http://www.caritas.de/glossare/rehabilitation-sucht",
+    "Guid": "b07ff69f-6e87-4c6c-a892-e5c371b0c7fe",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Harm Reduction – niedrigschwellige Hilfen",
+    "Link": "http://www.caritas.de/glossare/harm-reduction--niedrigschwellige-hilfen",
+    "Guid": "824659da-4c37-4115-bb5a-09f39e46a7c3",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "MPU (Medizinisch-psychologische Untersuchung)",
+    "Link": "http://www.caritas.de/glossare/mpu-medizinisch-psychologische-untersuch",
+    "Guid": "c88882ed-60fb-4392-9e56-13e06a58f33a",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Verhaltensbezogene Abhängigkeit",
+    "Link": "http://www.caritas.de/glossare/verhaltensbezogene-abhaengigkeit",
+    "Guid": "741a13ca-4a17-460e-a765-cd835000a3ee",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Suchtmittel",
+    "Link": "http://www.caritas.de/glossare/suchtmittel",
+    "Guid": "74b99fcf-0ca3-4fac-b0bf-440edc7eb60c",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Fixerstube / Konsumraum",
+    "Link": "http://www.caritas.de/glossare/fixerstube-konsumraum",
+    "Guid": "7dca749c-f015-4682-a63a-d223d9cb7513",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Substanzbezogene Abhängigkeit",
+    "Link": "http://www.caritas.de/glossare/substanzbezogene-abhaengigkeit",
+    "Guid": "ab0b6591-8451-4307-8251-9089ff1f3b42",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Sucht-Selbsthilfe",
+    "Link": "http://www.caritas.de/glossare/sucht-selbsthilfe",
+    "Guid": "14f88d81-5a60-4430-bc85-00fc6f6899eb",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Nachsorge",
+    "Link": "http://www.caritas.de/glossare/nachsorge",
+    "Guid": "ca7435d9-0351-4ff2-a0e0-27c879bb45ea",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Entwöhnungsbehandlung",
+    "Link": "http://www.caritas.de/glossare/entwoehnungsbehandlung",
+    "Guid": "a5697330-21d8-499b-819a-c70ecde82550",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Punktabstinenz",
+    "Link": "http://www.caritas.de/glossare/punktabstinenz",
+    "Guid": "28d095fc-c0cd-430a-9b3e-c89a192d9ec4",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Co-Abhängigkeit",
+    "Link": "http://www.caritas.de/glossare/co-abhaengigkeit",
+    "Guid": "a5295dd7-fee1-4f83-846b-6005f1e58681",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Safer Use",
+    "Link": "http://www.caritas.de/glossare/safer-use",
+    "Guid": "477869e3-634d-405b-bb34-84bb594bf805",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Kontrollverlust",
+    "Link": "http://www.caritas.de/glossare/kontrollverlust",
+    "Guid": "5434b32c-91aa-4d1b-8c5d-6ce197ebce26",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Kosten/-Leistungsträger",
+    "Link": "http://www.caritas.de/glossare/kosten-leistungstraeger",
+    "Guid": "bc9dd165-0d5c-4c72-8dba-28b05590a963",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Sucht (Definition)",
+    "Link": "http://www.caritas.de/glossare/sucht-definition",
+    "Guid": "eda37dd9-d9dd-44d3-b054-c65a94564b0f",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Entgiftung",
+    "Link": "http://www.caritas.de/glossare/entgiftung",
+    "Guid": "09a3ea2d-9938-4a78-8b36-05007b0fcf25",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Komorbidität",
+    "Link": "http://www.caritas.de/glossare/komorbiditaet",
+    "Guid": "44b4fb8f-ca7e-49a2-a2c3-894d1862f5de",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Schweigepflicht",
+    "Link": "http://www.caritas.de/glossare/schweigepflicht",
+    "Guid": "a04ef31b-0d28-4372-92a7-2b9ec7a822f7",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Suchtberatung",
+    "Link": "http://www.caritas.de/glossare/suchtberatung",
+    "Guid": "1edb819a-0208-4cca-8f10-eadd5ed3aeb1",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Dosissteigerung",
+    "Link": "http://www.caritas.de/glossare/dosissteigerung",
+    "Guid": "743b644b-b738-44f2-aa04-f55c9aa7d906",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Notschlafstelle",
+    "Link": "http://www.caritas.de/glossare/notschlafstelle",
+    "Guid": "985db94c-209f-4696-aead-cf9901962af0",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "BTMG – Betäubungsmittelgesetz",
+    "Link": "http://www.caritas.de/glossare/btmg--betaeubungsmittelgesetz",
+    "Guid": "d86a2c72-27f1-4f64-a2e5-5ab20ec4d99b",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Nicht substanzbezogene Störungen",
+    "Link": "http://www.caritas.de/glossare/nicht-substanzbezogene-stoerungen",
+    "Guid": "5559e02f-f72a-405b-a524-c0d69c47357b",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Betreutes Wohnen (Sucht)",
+    "Link": "http://www.caritas.de/glossare/betreutes-wohnen-sucht",
+    "Guid": "a6b96346-38b2-46d1-838c-03eda3b0fd71",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Drogen",
+    "Link": "http://www.caritas.de/glossare/drogen",
+    "Guid": "39037037-01d5-4566-b0cf-e1ef1ea46fce",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Alkohol-Embryopathie",
+    "Link": "http://www.caritas.de/glossare/alkohol-embryopathie",
+    "Guid": "c5eb9f53-810a-4587-bcdc-318eb083709b",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Adaption",
+    "Link": "http://www.caritas.de/glossare/adaption",
+    "Guid": "bada5da9-4ff6-44f6-90d3-821d6175d8d1",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Substitution",
+    "Link": "http://www.caritas.de/glossare/substitution",
+    "Guid": "5358ab53-c2c5-48e2-988e-57be3c394f9f",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Mehrfachabhängigkeit",
+    "Link": "http://www.caritas.de/glossare/mehrfachabhaengigkeit",
+    "Guid": "273eb71c-4d4e-4b71-a799-9e6bb8019e41",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  },
+  {
+    "Title": "Führerscheinverlust",
+    "Link": "http://www.caritas.de/glossare/fuehrerscheinverlust",
+    "Guid": "f48d6f4b-06f3-4044-93ba-e396ad8db8f5",
+    "GlossaryGuid": "803bf73a-0aba-4f5d-ab57-a2bb10cbd7f8"
+  }
+]

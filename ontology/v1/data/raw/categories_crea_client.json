@@ -1,0 +1,237 @@
+{
+  "main_topics": {
+    "Fachbereiche Flüchtlingssozialarbeit, Migration und Integration": [
+      "Ohne Eintragung",
+      "Arbeit",
+      "Asylverfahren",
+      "Aufenthaltsrecht",
+      "Ausreise",
+      "Bildung",
+      "Dokumente und Anträge",
+      "Erwerb der dt. Staatsbürgerschaft",
+      "Familie/Kinder/Partnerschaft",
+      "Gesundheit",
+      "Persönliche Lebensumstände/Krisen",
+      "Unbegleitete Minderjährige",
+      "Ungleichbehandlung und Ausgrenzung",
+      "Unterstützungsleistungen",
+      "Verbraucherfragen",
+      "Versicherungen",
+      "Wirtschaftliche Situation",
+      "Wohnen"
+    ],
+    "Fachbereiche ASB / SLB": [
+      "Ohne Eintragung",
+      "Arbeit",
+      "Bildung",
+      "Dokumente und Anträge",
+      "Familie/Kinder/Partnerschaft",
+      "Gesundheit",
+      "Persönliche Lebensumstände/Krisen",
+      "Unterstützungsleistungen",
+      "Verbraucherfragen",
+      "Versicherungen",
+      "Wirtschaftliche Situation",
+      "Wohnen"
+    ],
+    "Fachbereich Sozialdienst": [
+      "Ohne Eintragung",
+      "(drohende) Wohnungslosigkeit",
+      "Altenhilfeberatung",
+      "Arbeitslosigkeit",
+      "Behinderung",
+      "Erstkontakt und Clearing",
+      "Existenzsicherungsberatung",
+      "Familiäre Angelegenheiten",
+      "Gesundheitsprobleme",
+      "Gewalt",
+      "Information",
+      "Kurberatung",
+      "Migrationsspezifische Probleme",
+      "Psychische Belastung",
+      "Rente",
+      "Sonstiges",
+      "Trennung und Scheidung",
+      "Weitervermittlung"
+    ],
+    "Fachbereich Psychosoziale Beratung": [
+      "Ohne Eintragung",
+      "Ämter-Angelegenheiten",
+      "Angehörigenproblematik",
+      "Arbeit / Ausbildung",
+      "Aufenthaltsstatus/-situation",
+      "Drohender Wohnungsverlust",
+      "Ehe- und Partnerschaftskonflikte",
+      "Erziehung",
+      "Familiäre Probleme",
+      "Familienzusammenführung",
+      "Finanzprobleme/soziale Notlagen/Schulden",
+      "Fluchtgeschichte",
+      "Folter",
+      "Freizeitmöglichkeiten",
+      "Häusliche Gewalt",
+      "Isolation / Vereinsamung",
+      "Kulturelle Identität",
+      "Migrationsprobleme",
+      "Pflege/Krankheit/Behinderung",
+      "Probleme am Arbeitsplatz",
+      "Religiöse Fragen",
+      "Schwangerschaft",
+      "Sexualisierte Gewalt",
+      "Sonstige",
+      "Sterbefälle",
+      "Straffälligkeit / begangene Ordnungswidrigkeit",
+      "Suizidalität",
+      "Symptomatik / Psychische Probleme",
+      "Traumatisierung",
+      "Trennung und Scheidung",
+      "Vorgeschichte",
+      "Wohnsituation / Wohnungssuche"
+    ],
+    "Fachbereich Integrationsmanager": [
+      "Ohne Eintragung",
+      "Anderes Thema",
+      "Arbeitsmarkt",
+      "Ausbildung/Studium",
+      "Gesellschaftliche Teilhabe",
+      "Gesundheit",
+      "Kinder",
+      "Schulbildung",
+      "Sprache",
+      "Weiterqualifizierung",
+      "Wohnung"
+    ],
+    "Fachbereich Häusliche Gewalt": [
+      "Ohne Eintragung",
+      "Beratung von Angehörigen",
+      "Beratungshilfe/Prozesskostenhilfe",
+      "Flucht aus anderem Landkreis – Neuorientierung",
+      "Gewalt aus früheren Beziehungen",
+      "Gewalt bei Umgangsrecht",
+      "Info Schutzmaßnahmen",
+      "Klärung Aufenthalt",
+      "Polizeieinsatz",
+      "Polizeieinsatz mit Einverständniserklärung",
+      "Sachbeschädigung",
+      "Sozialberatung/Existenzsicherung",
+      "Stalking",
+      "Traumafachberatung",
+      "Trennung / Scheidung",
+      "Vermittlung in andere Fachdienste",
+      "Wohnungsverweis",
+      "Anonyme Fachberatung",
+      "Begleitung",
+      "Existenzsicherungsberatung",
+      "Sexualisierte Gewalt"
+    ],
+    "FIB": [
+      "Ohne Eintragung",
+      "Unterstützungsleistungen"
+    ]
+  },
+  "sub_topics": {
+    "Arbeit": [
+      "Anerkennung von im Ausland erworbener Abschlüsse",
+      "Arbeitsaufnahme",
+      "Arbeitserlaubnis",
+      "Arbeitslosigkeit / Arbeitssuche",
+      "Berufliche Fort-und Weiterbildung",
+      "Probleme mit der Arbeitsstelle",
+      "Selbstständigkeit"
+    ],
+    "Asylverfahren": [
+      "Asylrecht / Asylverfahren",
+      "Dublin-Fälle",
+      "Kirchenasyl",
+      "Rücknahme und Widerrufsverfahren",
+      "Umverteilung"
+    ],
+    "Aufenthaltsrecht": [
+      "Aufenthaltsrecht / rechtl.Status",
+      "Duldung",
+      "Familiennachzug /-zusammenführung",
+      "Härtefallkommission",
+      "Identitätsklärung"
+    ],
+    "Ausreise": [
+      "Aus-,Weiter- und Rückwanderung",
+      "Ausreise freiwillig",
+      "Ausreise, unfreiwillig"
+    ],
+    "Bildung": [
+      "Ausbildung / Studium",
+      "Deutschkenntnisse",
+      "Kindertageseinrichtungen",
+      "Schule"
+    ],
+    "Dokumente und Anträge": [
+      "Ausfüllen von Anträgen",
+      "Beschaffung / Ausstellung von Dokumenten"
+    ],
+    "Erwerb der dt. Staatsbürgerschaft": [
+      "Dt. Staatsbürgerschaft durch Geburt",
+      "Einbürgerung (Aufgabe bisherige Staatsbürgerschaft)",
+      "Einbürgerung (Behaltung bisherige Staatsbürgerschaft)"
+    ],
+    "Familie/Kinder/Partnerschaft": [
+      "Ehe / Partnerschaft",
+      "Erziehung / Generationskonflikte",
+      "Familienprobleme",
+      "Trennung / Unterhalt / Sorgerecht"
+    ],
+    "Gesundheit": [
+      "Behinderung",
+      "Gesundheit / Gesundheitliche Probleme",
+      "Psychische Probleme / Traumatisierung",
+      "Schwangerschaft / Geburt",
+      "Suchtkrankheiten"
+    ],
+    "Persönliche Lebensumstände/Krisen": [
+      "Fluchtschicksal",
+      "Freizeitmöglichkeiten",
+      "Häusliche Gewalt",
+      "Isolation / Vereinsamung",
+      "Kulturelle Identität",
+      "Religiöse Fragen",
+      "Sterbefälle",
+      "Straffälligkeit / Ordnungswidrigkeiten"
+    ],
+    "Unbegleitete Minderjährige": [],
+    "Ungleichbehandlung und Ausgrenzung": [
+      "Ausgrenzung",
+      "Diskriminierung (Allg. GleichbehandlungsG, Art. 18 AEUV)",
+      "Generelle Anfeindungen",
+      "Individuelle Abwertung/Bedrohung"
+    ],
+    "Unterstützungsleistungen": [
+      "ALG I",
+      "ALG II",
+      "AsylbLG",
+      "Bildungs- und Teilhabepaket",
+      "SGB IX",
+      "SGB XII",
+      "SGBXI",
+      "Soziale Unterstützungsleistungen"
+    ],
+    "Verbraucherfragen": [
+      "Rundfunkgebühren",
+      "Sonstige Verbraucherfragen"
+    ],
+    "Versicherungen": [
+      "Kranken- / Pflegeversicherung",
+      "Private Versicherungen",
+      "Rentenangelegenheiten"
+    ],
+    "Wirtschaftliche Situation": [
+      "Existenzsicherung / wirtschaftliche Sit.",
+      "Verschuldung / Überschuldung"
+    ],
+    "Wohnen": [
+      "Barrierefreiheit",
+      "Finanzierung",
+      "Mietschulden",
+      "Wohnungmängel",
+      "Wohnungssuche"
+    ]
+  }
+}

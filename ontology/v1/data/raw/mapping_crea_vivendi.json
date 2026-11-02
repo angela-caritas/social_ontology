@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {"title": "Ämter / Behörden", "mapping": ["Dokumente und Anträge"]},
+    {"title": "Alter", "mapping": ["Familie/Kinder/Partnerschaft", "Gesundheit", "Persönliche Lebensumstände/Krisen"]},
+    {"title": "Ambulante Hilfen", "mapping": ["Gesundheit"]},
+    {"title": "Arbeit, Arbeitslosigkeit", "mapping": ["Arbeit"]},
+    {"title": "Ausbildung", "mapping": ["Bildung"]},
+    {"title": "Ausländerrecht / Statusfragen", "mapping": ["Asylverfahren", "Aufenthaltsrecht", "Erwerb der dt. Staatsbürgerschaft"]},
+    {"title": "Beendigung des Aufenthalts/Abschiebung", "mapping": ["Ausreise"]},
+    {"title": "Behinderung", "mapping": ["Behinderung"]},
+    {"title": "Beruf", "mapping": ["Arbeit"]},
+    {"title": "Diskriminierung / Gewalt", "mapping": ["Ungleichbehandlung und Ausgrenzung", "Häusliche Gewalt"]},
+    {"title": "Existenzsicherung, Schulden", "mapping": ["Wirtschaftliche Situation"]},
+    {"title": "Kindergarten", "mapping": ["Kindertageseinrichtungen"]},
+    {"title": "Kontaktschwierigkeiten / Isolation", "mapping": ["Isolation / Vereinsamung"]},
+    {"title": "Krankheit / Gesundheit / Schwangerschaft", "mapping": ["Gesundheit"]},
+    {"title": "Partnerschaft, Familie, Kinder, Erziehung", "mapping": ["Familie/Kinder/Partnerschaft"]},
+    {"title": "psychische / seelische Erkrankung", "mapping": ["Psychische Probleme / Traumatisierung"]},
+    {"title": "Qualifizierungsmaßnahmen", "mapping": ["Berufliche Fort-und Weiterbildung"]},
+    {"title": "Rechtsfragen", "mapping": ["Arbeit", "Straffälligkeit / Ordnungswidrigkeiten", "Probleme mit der Arbeitsstelle"]},
+    {"title": "Schule", "mapping": ["Schule"]},
+    {"title": "Soziale Leistungen", "mapping": ["Unterstützungsleistungen"]},
+    {"title": "Sucht", "mapping": ["Suchtkrankheiten"]},
+    {"title": "Traumatisierung", "mapping": ["Psychische Probleme / Traumatisierung"]},
+    {"title": "Wohnungslosigkeit, Verm. von Obdachlosigkeit", "mapping": ["Wohnen"]},
+    {"title": "Wohnungssuche", "mapping": ["Wohnen"]}
+  ]
+}

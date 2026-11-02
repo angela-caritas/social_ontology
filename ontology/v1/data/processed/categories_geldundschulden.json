@@ -1,0 +1,1259 @@
+[
+  {
+    "uri": "geldundschulden-7",
+    "pref_label": "Abtretung",
+    "link": "https://geldundschulden.de/article?id=7",
+    "guid": null,
+    "glossary_id": "7",
+    "description": null,
+    "related": [
+      "Forderung",
+      "Inkassobüro",
+      "Lohnabtretung",
+      "Kreditsicherheiten"
+    ]
+  },
+  {
+    "uri": "geldundschulden-8",
+    "pref_label": "Anerkenntnis",
+    "link": "https://geldundschulden.de/article?id=8",
+    "guid": null,
+    "glossary_id": "8",
+    "description": null,
+    "related": [
+      "Verjährung",
+      "Willenserklärung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-9",
+    "pref_label": "Anfechtung",
+    "link": "https://geldundschulden.de/article?id=9",
+    "guid": null,
+    "glossary_id": "9",
+    "description": null,
+    "related": [
+      "Vertrag",
+      "Widerrufsrecht",
+      "Willenserklärung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-10",
+    "pref_label": "Annuitätendarlehen",
+    "link": "https://geldundschulden.de/article?id=10",
+    "guid": null,
+    "glossary_id": "10",
+    "description": null,
+    "related": [
+      "Darlehen",
+      "Dauerschuldverhältnis",
+      "Laufzeitzinsdarlehen (LAUDA)",
+      "Lohnabtretung",
+      "Tilgung",
+      "Zins",
+      "Kündigung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-11",
+    "pref_label": "Aufrechnung",
+    "link": "https://geldundschulden.de/article?id=11",
+    "guid": null,
+    "glossary_id": "11",
+    "description": null,
+    "related": [
+      "Dispo",
+      "P-Konto  (=Pfändungsschutzkonto)",
+      "Verrechnung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-12",
+    "pref_label": "Außergerichtlicher Einigungsversuch (AEV)",
+    "link": "https://geldundschulden.de/article?id=12",
+    "guid": null,
+    "glossary_id": "12",
+    "description": null,
+    "related": [
+      "Gerichtlicher Schuldenbereinigungsplan",
+      "Insolvenzgericht",
+      "Insolvenzphase",
+      "Insolvenzverfahren",
+      "Vergleich"
+    ]
+  },
+  {
+    "uri": "geldundschulden-92",
+    "pref_label": "Autofinanzierung",
+    "link": "https://geldundschulden.de/article?id=92",
+    "guid": null,
+    "glossary_id": "92",
+    "description": null,
+    "related": [
+      "Darlehen",
+      "Laufzeitzinsdarlehen (LAUDA)",
+      "Kreditsicherheiten",
+      "Sicherungsübereignung",
+      "Autoleasing",
+      "Kündigung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-93",
+    "pref_label": "Autoleasing",
+    "link": "https://geldundschulden.de/article?id=93",
+    "guid": null,
+    "glossary_id": "93",
+    "description": null,
+    "related": [
+      "Autofinanzierung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-13",
+    "pref_label": "Basiskonto",
+    "link": "https://geldundschulden.de/article?id=13",
+    "guid": null,
+    "glossary_id": "13",
+    "description": null,
+    "related": [
+      "Dauerauftrag",
+      "Dispo",
+      "girocard",
+      "Girokonto"
+    ]
+  },
+  {
+    "uri": "geldundschulden-14",
+    "pref_label": "Basiszins",
+    "link": "https://geldundschulden.de/article?id=14",
+    "guid": null,
+    "glossary_id": "14",
+    "description": null,
+    "related": [
+      "Verzug"
+    ]
+  },
+  {
+    "uri": "geldundschulden-15",
+    "pref_label": "Beschluss Vollstreckungsgericht bei P-Konten",
+    "link": "https://geldundschulden.de/article?id=15",
+    "guid": null,
+    "glossary_id": "15",
+    "description": null,
+    "related": [
+      "Kontopfändung",
+      "P-Konto     - Tipps zum Umgang",
+      "P-Konto  (=Pfändungsschutzkonto)",
+      "Pfändungstabelle",
+      "P-Konto-Bescheinigung",
+      "Vollstreckungsgericht"
+    ]
+  },
+  {
+    "uri": "geldundschulden-16",
+    "pref_label": "Bonität",
+    "link": "https://geldundschulden.de/article?id=16",
+    "guid": null,
+    "glossary_id": "16",
+    "description": null,
+    "related": [
+      "Forderung",
+      "Schufa",
+      "Schuldnerverzeichnis"
+    ]
+  },
+  {
+    "uri": "geldundschulden-89",
+    "pref_label": "Bürgschaft",
+    "link": "https://geldundschulden.de/article?id=89",
+    "guid": null,
+    "glossary_id": "89",
+    "description": null,
+    "related": [
+      "Kreditsicherheiten"
+    ]
+  },
+  {
+    "uri": "geldundschulden-17",
+    "pref_label": "Darlehen",
+    "link": "https://geldundschulden.de/article?id=17",
+    "guid": null,
+    "glossary_id": "17",
+    "description": null,
+    "related": [
+      "Annuitätendarlehen",
+      "Dauerschuldverhältnis",
+      "Kontokorrentkredit",
+      "Kredit",
+      "Kündigung",
+      "Laufzeitzinsdarlehen (LAUDA)",
+      "Lohnabtretung",
+      "Tilgung",
+      "Zins",
+      "Kreditsicherheiten",
+      "Restschuldversicherungen"
+    ]
+  },
+  {
+    "uri": "geldundschulden-18",
+    "pref_label": "Dauerauftrag",
+    "link": "https://geldundschulden.de/article?id=18",
+    "guid": null,
+    "glossary_id": "18",
+    "description": null,
+    "related": [
+      "Basiskonto",
+      "Girokonto",
+      "Überweisung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-19",
+    "pref_label": "Dauerschuldverhältnis",
+    "link": "https://geldundschulden.de/article?id=19",
+    "guid": null,
+    "glossary_id": "19",
+    "description": null,
+    "related": [
+      "Annuitätendarlehen",
+      "Darlehen",
+      "Kündigung",
+      "Lastschrift",
+      "Vertrag",
+      "Widerrufsrecht"
+    ]
+  },
+  {
+    "uri": "geldundschulden-20",
+    "pref_label": "Dispo",
+    "link": "https://geldundschulden.de/article?id=20",
+    "guid": null,
+    "glossary_id": "20",
+    "description": null,
+    "related": [
+      "Aufrechnung",
+      "Basiskonto",
+      "Girokonto",
+      "Kontopfändung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-21",
+    "pref_label": "Drittschuldner",
+    "link": "https://geldundschulden.de/article?id=21",
+    "guid": null,
+    "glossary_id": "21",
+    "description": null,
+    "related": [
+      "Lohnpfändung",
+      "Vorpfändung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-22",
+    "pref_label": "EC-Karte",
+    "link": "https://geldundschulden.de/article?id=22",
+    "guid": null,
+    "glossary_id": "22",
+    "description": null,
+    "related": [
+      "girocard"
+    ]
+  },
+  {
+    "uri": "geldundschulden-23",
+    "pref_label": "Einspruch gegen Vollstreckungsbescheid",
+    "link": "https://geldundschulden.de/article?id=23",
+    "guid": null,
+    "glossary_id": "23",
+    "description": null,
+    "related": [
+      "Vollstreckungsbescheid",
+      "Widerspruch gegen Mahnbescheid"
+    ]
+  },
+  {
+    "uri": "geldundschulden-24",
+    "pref_label": "Forderung",
+    "link": "https://geldundschulden.de/article?id=24",
+    "guid": null,
+    "glossary_id": "24",
+    "description": null,
+    "related": [
+      "Abtretung",
+      "Bonität",
+      "Forderungsprüfung",
+      "Gesamtschuldner",
+      "Gläubiger",
+      "Hauptforderung",
+      "Mahnung",
+      "Nebenforderung",
+      "Pfändung",
+      "Pfändungs- und Überweisungsbeschluss (=PfÜB)",
+      "Vergleich",
+      "Verjährung",
+      "Vertrag",
+      "Verzug"
+    ]
+  },
+  {
+    "uri": "geldundschulden-25",
+    "pref_label": "Forderungsprüfung",
+    "link": "https://geldundschulden.de/article?id=25",
+    "guid": null,
+    "glossary_id": "25",
+    "description": null,
+    "related": [
+      "Forderung",
+      "Inkassobüro",
+      "Mahnbescheid",
+      "Mahnung",
+      "Nebenforderung",
+      "Pfändungs- und Überweisungsbeschluss (=PfÜB)",
+      "Verjährung",
+      "Widerspruch gegen Mahnbescheid"
+    ]
+  },
+  {
+    "uri": "geldundschulden-26",
+    "pref_label": "Gerichtlicher Schuldenbereinigungsplan",
+    "link": "https://geldundschulden.de/article?id=26",
+    "guid": null,
+    "glossary_id": "26",
+    "description": null,
+    "related": [
+      "Außergerichtlicher Einigungsversuch (AEV)",
+      "Insolvenzgericht",
+      "Insolvenzphase",
+      "Insolvenzverfahren"
+    ]
+  },
+  {
+    "uri": "geldundschulden-27",
+    "pref_label": "Gerichtsvollzieher",
+    "link": "https://geldundschulden.de/article?id=27",
+    "guid": null,
+    "glossary_id": "27",
+    "description": null,
+    "related": [
+      "Sachpfändung",
+      "Taschenpfändung",
+      "Vermögensauskunft",
+      "Vollstreckungsgericht",
+      "Zwangsvollstreckung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-28",
+    "pref_label": "Gesamtschuldner",
+    "link": "https://geldundschulden.de/article?id=28",
+    "guid": null,
+    "glossary_id": "28",
+    "description": null,
+    "related": [
+      "Forderung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-29",
+    "pref_label": "girocard",
+    "link": "https://geldundschulden.de/article?id=29",
+    "guid": null,
+    "glossary_id": "29",
+    "description": null,
+    "related": [
+      "Basiskonto",
+      "EC-Karte",
+      "Girokonto",
+      "Kreditkarte",
+      "Lastschrift"
+    ]
+  },
+  {
+    "uri": "geldundschulden-30",
+    "pref_label": "Girokonto",
+    "link": "https://geldundschulden.de/article?id=30",
+    "guid": null,
+    "glossary_id": "30",
+    "description": null,
+    "related": [
+      "Basiskonto",
+      "Dauerauftrag",
+      "Dispo",
+      "girocard",
+      "Überweisung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-31",
+    "pref_label": "Gläubiger",
+    "link": "https://geldundschulden.de/article?id=31",
+    "guid": null,
+    "glossary_id": "31",
+    "description": null,
+    "related": [
+      "Forderung",
+      "Vergleich"
+    ]
+  },
+  {
+    "uri": "geldundschulden-32",
+    "pref_label": "Hauptforderung",
+    "link": "https://geldundschulden.de/article?id=32",
+    "guid": null,
+    "glossary_id": "32",
+    "description": null,
+    "related": [
+      "Forderung",
+      "Mahnbescheid",
+      "Nebenforderung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-33",
+    "pref_label": "Inkassobüro",
+    "link": "https://geldundschulden.de/article?id=33",
+    "guid": null,
+    "glossary_id": "33",
+    "description": null,
+    "related": [
+      "Abtretung",
+      "Forderungsprüfung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-34",
+    "pref_label": "Insolvenzgericht",
+    "link": "https://geldundschulden.de/article?id=34",
+    "guid": null,
+    "glossary_id": "34",
+    "description": null,
+    "related": [
+      "Außergerichtlicher Einigungsversuch (AEV)",
+      "Gerichtlicher Schuldenbereinigungsplan",
+      "Insolvenzphase",
+      "Insolvenzverfahren",
+      "Insolvenzverwalter",
+      "Restschuldbefreiung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-35",
+    "pref_label": "Insolvenzphase",
+    "link": "https://geldundschulden.de/article?id=35",
+    "guid": null,
+    "glossary_id": "35",
+    "description": null,
+    "related": [
+      "Außergerichtlicher Einigungsversuch (AEV)",
+      "Gerichtlicher Schuldenbereinigungsplan",
+      "Insolvenzgericht",
+      "Insolvenzverfahren",
+      "Insolvenzverwalter",
+      "Regelinsolvenzverfahren",
+      "Verbraucherinsolvenzverfahren",
+      "Wohlverhaltensphase"
+    ]
+  },
+  {
+    "uri": "geldundschulden-36",
+    "pref_label": "Insolvenzverfahren",
+    "link": "https://geldundschulden.de/article?id=36",
+    "guid": null,
+    "glossary_id": "36",
+    "description": null,
+    "related": [
+      "Außergerichtlicher Einigungsversuch (AEV)",
+      "Gerichtlicher Schuldenbereinigungsplan",
+      "Insolvenzgericht",
+      "Insolvenzphase",
+      "Insolvenzverwalter",
+      "Kosten des Insolvenzverfahrens",
+      "Regelinsolvenzverfahren",
+      "Restschuldbefreiung",
+      "Verbraucherinsolvenzverfahren",
+      "Versagung der Restschuldbefreiung",
+      "Wohlverhaltensphase"
+    ]
+  },
+  {
+    "uri": "geldundschulden-37",
+    "pref_label": "Insolvenzverwalter",
+    "link": "https://geldundschulden.de/article?id=37",
+    "guid": null,
+    "glossary_id": "37",
+    "description": null,
+    "related": [
+      "Insolvenzgericht",
+      "Insolvenzphase",
+      "Insolvenzverfahren",
+      "Wohlverhaltensphase"
+    ]
+  },
+  {
+    "uri": "geldundschulden-38",
+    "pref_label": "Kontokorrentkredit",
+    "link": "https://geldundschulden.de/article?id=38",
+    "guid": null,
+    "glossary_id": "38",
+    "description": null,
+    "related": [
+      "Darlehen",
+      "Kredit",
+      "Kreditkarte"
+    ]
+  },
+  {
+    "uri": "geldundschulden-39",
+    "pref_label": "Kontopfändung",
+    "link": "https://geldundschulden.de/article?id=39",
+    "guid": null,
+    "glossary_id": "39",
+    "description": null,
+    "related": [
+      "Beschluss Vollstreckungsgericht bei P-Konten",
+      "Dispo",
+      "P-Konto     - Tipps zum Umgang",
+      "P-Konto  (=Pfändungsschutzkonto)",
+      "P-Konto-Bescheinigung",
+      "Vorpfändung",
+      "Zwangsvollstreckungsmaßnahmen"
+    ]
+  },
+  {
+    "uri": "geldundschulden-40",
+    "pref_label": "Kosten des Insolvenzverfahrens",
+    "link": "https://geldundschulden.de/article?id=40",
+    "guid": null,
+    "glossary_id": "40",
+    "description": null,
+    "related": [
+      "Insolvenzverfahren",
+      "Regelinsolvenzverfahren",
+      "Vorzeitige Restschuldbefreiung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-41",
+    "pref_label": "Kredit",
+    "link": "https://geldundschulden.de/article?id=41",
+    "guid": null,
+    "glossary_id": "41",
+    "description": null,
+    "related": [
+      "Darlehen",
+      "Kontokorrentkredit",
+      "Laufzeitzinsdarlehen (LAUDA)",
+      "Zins",
+      "Kreditsicherheiten",
+      "Restschuldversicherungen"
+    ]
+  },
+  {
+    "uri": "geldundschulden-42",
+    "pref_label": "Kreditkarte",
+    "link": "https://geldundschulden.de/article?id=42",
+    "guid": null,
+    "glossary_id": "42",
+    "description": null,
+    "related": [
+      "girocard",
+      "Kontokorrentkredit",
+      "Prepaid-Kreditkarten"
+    ]
+  },
+  {
+    "uri": "geldundschulden-88",
+    "pref_label": "Kreditsicherheiten",
+    "link": "https://geldundschulden.de/article?id=88",
+    "guid": null,
+    "glossary_id": "88",
+    "description": null,
+    "related": [
+      "Abtretung",
+      "Darlehen",
+      "Kredit",
+      "Lohnabtretung",
+      "Bürgschaft",
+      "Sicherungsübereignung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-43",
+    "pref_label": "Kündigung",
+    "link": "https://geldundschulden.de/article?id=43",
+    "guid": null,
+    "glossary_id": "43",
+    "description": null,
+    "related": [
+      "Darlehen",
+      "Dauerschuldverhältnis",
+      "Vertrag",
+      "Widerrufsrecht",
+      "Restschuldversicherungen"
+    ]
+  },
+  {
+    "uri": "geldundschulden-44",
+    "pref_label": "Lastschrift",
+    "link": "https://geldundschulden.de/article?id=44",
+    "guid": null,
+    "glossary_id": "44",
+    "description": null,
+    "related": [
+      "Dauerschuldverhältnis",
+      "girocard"
+    ]
+  },
+  {
+    "uri": "geldundschulden-45",
+    "pref_label": "Laufzeitzinsdarlehen (LAUDA)",
+    "link": "https://geldundschulden.de/article?id=45",
+    "guid": null,
+    "glossary_id": "45",
+    "description": null,
+    "related": [
+      "Annuitätendarlehen",
+      "Darlehen",
+      "Kredit",
+      "Lohnabtretung",
+      "Tilgung",
+      "Zins",
+      "Restschuldversicherungen",
+      "Sicherungsübereignung",
+      "Autofinanzierung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-46",
+    "pref_label": "Lohnabtretung",
+    "link": "https://geldundschulden.de/article?id=46",
+    "guid": null,
+    "glossary_id": "46",
+    "description": null,
+    "related": [
+      "Abtretung",
+      "Annuitätendarlehen",
+      "Darlehen",
+      "Laufzeitzinsdarlehen (LAUDA)",
+      "Lohnpfändung",
+      "Pfändbarer Anteil am Einkommen",
+      "Pfändungstabelle",
+      "Kreditsicherheiten"
+    ]
+  },
+  {
+    "uri": "geldundschulden-47",
+    "pref_label": "Lohnpfändung",
+    "link": "https://geldundschulden.de/article?id=47",
+    "guid": null,
+    "glossary_id": "47",
+    "description": null,
+    "related": [
+      "Drittschuldner",
+      "Lohnabtretung",
+      "Pfändbarer Anteil am Einkommen",
+      "Pfändung",
+      "Pfändungstabelle",
+      "Vorpfändung",
+      "Zwangsvollstreckungsmaßnahmen"
+    ]
+  },
+  {
+    "uri": "geldundschulden-48",
+    "pref_label": "Mahnbescheid",
+    "link": "https://geldundschulden.de/article?id=48",
+    "guid": null,
+    "glossary_id": "48",
+    "description": null,
+    "related": [
+      "Forderungsprüfung",
+      "Hauptforderung",
+      "Mahnung",
+      "Vollstreckungsbescheid",
+      "Widerspruch gegen Mahnbescheid"
+    ]
+  },
+  {
+    "uri": "geldundschulden-49",
+    "pref_label": "Mahnung",
+    "link": "https://geldundschulden.de/article?id=49",
+    "guid": null,
+    "glossary_id": "49",
+    "description": null,
+    "related": [
+      "Forderung",
+      "Forderungsprüfung",
+      "Inkassobüro",
+      "Mahnbescheid",
+      "Verzug"
+    ]
+  },
+  {
+    "uri": "geldundschulden-50",
+    "pref_label": "Nebenforderung",
+    "link": "https://geldundschulden.de/article?id=50",
+    "guid": null,
+    "glossary_id": "50",
+    "description": null,
+    "related": [
+      "Forderung",
+      "Forderungsprüfung",
+      "Hauptforderung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-54",
+    "pref_label": "P-Konto     - Tipps zum Umgang",
+    "link": "https://geldundschulden.de/article?id=54",
+    "guid": null,
+    "glossary_id": "54",
+    "description": null,
+    "related": [
+      "Beschluss Vollstreckungsgericht bei P-Konten",
+      "Kontopfändung",
+      "Pfändungs- und Überweisungsbeschluss (=PfÜB)",
+      "P-Konto  (=Pfändungsschutzkonto)",
+      "P-Konto-Bescheinigung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-55",
+    "pref_label": "P-Konto  (=Pfändungsschutzkonto)",
+    "link": "https://geldundschulden.de/article?id=55",
+    "guid": null,
+    "glossary_id": "55",
+    "description": null,
+    "related": [
+      "Aufrechnung",
+      "Beschluss Vollstreckungsgericht bei P-Konten",
+      "Dispo",
+      "Kontopfändung",
+      "P-Konto     - Tipps zum Umgang",
+      "P-Konto-Bescheinigung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-57",
+    "pref_label": "P-Konto-Bescheinigung",
+    "link": "https://geldundschulden.de/article?id=57",
+    "guid": null,
+    "glossary_id": "57",
+    "description": null,
+    "related": [
+      "Beschluss Vollstreckungsgericht bei P-Konten",
+      "Kontopfändung",
+      "P-Konto     - Tipps zum Umgang",
+      "P-Konto  (=Pfändungsschutzkonto)"
+    ]
+  },
+  {
+    "uri": "geldundschulden-51",
+    "pref_label": "Pfändbarer Anteil am Einkommen",
+    "link": "https://geldundschulden.de/article?id=51",
+    "guid": null,
+    "glossary_id": "51",
+    "description": null,
+    "related": [
+      "Lohnabtretung",
+      "Lohnpfändung",
+      "Pfändungstabelle"
+    ]
+  },
+  {
+    "uri": "geldundschulden-52",
+    "pref_label": "Pfändung",
+    "link": "https://geldundschulden.de/article?id=52",
+    "guid": null,
+    "glossary_id": "52",
+    "description": null,
+    "related": [
+      "Forderung",
+      "Lohnpfändung",
+      "Pfändungs- und Überweisungsbeschluss (=PfÜB)",
+      "Sachpfändung",
+      "Taschenpfändung",
+      "Zwangsvollstreckungsmaßnahmen"
+    ]
+  },
+  {
+    "uri": "geldundschulden-53",
+    "pref_label": "Pfändungs- und Überweisungsbeschluss (=PfÜB)",
+    "link": "https://geldundschulden.de/article?id=53",
+    "guid": null,
+    "glossary_id": "53",
+    "description": null,
+    "related": [
+      "Forderung",
+      "Forderungsprüfung",
+      "Pfändung",
+      "P-Konto     - Tipps zum Umgang",
+      "Vollstreckungsgericht",
+      "Vorpfändung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-56",
+    "pref_label": "Pfändungstabelle",
+    "link": "https://geldundschulden.de/article?id=56",
+    "guid": null,
+    "glossary_id": "56",
+    "description": null,
+    "related": [
+      "Beschluss Vollstreckungsgericht bei P-Konten",
+      "Lohnabtretung",
+      "Lohnpfändung",
+      "Pfändbarer Anteil am Einkommen",
+      "Pfändung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-58",
+    "pref_label": "Prepaid-Kreditkarten",
+    "link": "https://geldundschulden.de/article?id=58",
+    "guid": null,
+    "glossary_id": "58",
+    "description": null,
+    "related": [
+      "Kreditkarte",
+      "Schufa"
+    ]
+  },
+  {
+    "uri": "geldundschulden-59",
+    "pref_label": "Regelinsolvenzverfahren",
+    "link": "https://geldundschulden.de/article?id=59",
+    "guid": null,
+    "glossary_id": "59",
+    "description": null,
+    "related": [
+      "Insolvenzphase",
+      "Insolvenzverfahren",
+      "Kosten des Insolvenzverfahrens",
+      "Restschuldbefreiung",
+      "Verbraucherinsolvenzverfahren"
+    ]
+  },
+  {
+    "uri": "geldundschulden-60",
+    "pref_label": "Restschuldbefreiung",
+    "link": "https://geldundschulden.de/article?id=60",
+    "guid": null,
+    "glossary_id": "60",
+    "description": null,
+    "related": [
+      "Insolvenzgericht",
+      "Insolvenzverfahren",
+      "Regelinsolvenzverfahren",
+      "Versagung der Restschuldbefreiung",
+      "Vorzeitige Restschuldbefreiung",
+      "Wohlverhaltensphase"
+    ]
+  },
+  {
+    "uri": "geldundschulden-91",
+    "pref_label": "Restschuldversicherungen",
+    "link": "https://geldundschulden.de/article?id=91",
+    "guid": null,
+    "glossary_id": "91",
+    "description": null,
+    "related": [
+      "Darlehen",
+      "Kündigung",
+      "Laufzeitzinsdarlehen (LAUDA)",
+      "Widerrufsrecht"
+    ]
+  },
+  {
+    "uri": "geldundschulden-61",
+    "pref_label": "Sachpfändung",
+    "link": "https://geldundschulden.de/article?id=61",
+    "guid": null,
+    "glossary_id": "61",
+    "description": null,
+    "related": [
+      "Gerichtsvollzieher",
+      "Pfändung",
+      "Zwangsvollstreckungsmaßnahmen"
+    ]
+  },
+  {
+    "uri": "geldundschulden-62",
+    "pref_label": "Säumniszuschläge",
+    "link": "https://geldundschulden.de/article?id=62",
+    "guid": null,
+    "glossary_id": "62",
+    "description": null,
+    "related": [
+      "Verzug"
+    ]
+  },
+  {
+    "uri": "geldundschulden-63",
+    "pref_label": "Schufa",
+    "link": "https://geldundschulden.de/article?id=63",
+    "guid": null,
+    "glossary_id": "63",
+    "description": null,
+    "related": [
+      "Bonität",
+      "Prepaid-Kreditkarten",
+      "Schuldnerverzeichnis"
+    ]
+  },
+  {
+    "uri": "geldundschulden-64",
+    "pref_label": "Schuldnerverzeichnis",
+    "link": "https://geldundschulden.de/article?id=64",
+    "guid": null,
+    "glossary_id": "64",
+    "description": null,
+    "related": [
+      "Bonität",
+      "Schufa"
+    ]
+  },
+  {
+    "uri": "geldundschulden-90",
+    "pref_label": "Sicherungsübereignung",
+    "link": "https://geldundschulden.de/article?id=90",
+    "guid": null,
+    "glossary_id": "90",
+    "description": null,
+    "related": [
+      "Kreditsicherheiten",
+      "Laufzeitzinsdarlehen (LAUDA)",
+      "Autofinanzierung",
+      "Willenserklärung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-65",
+    "pref_label": "Taschenpfändung",
+    "link": "https://geldundschulden.de/article?id=65",
+    "guid": null,
+    "glossary_id": "65",
+    "description": null,
+    "related": [
+      "Gerichtsvollzieher",
+      "Pfändung",
+      "Zwangsvollstreckungsmaßnahmen"
+    ]
+  },
+  {
+    "uri": "geldundschulden-66",
+    "pref_label": "Tilgung",
+    "link": "https://geldundschulden.de/article?id=66",
+    "guid": null,
+    "glossary_id": "66",
+    "description": null,
+    "related": [
+      "Annuitätendarlehen",
+      "Darlehen",
+      "Laufzeitzinsdarlehen (LAUDA)",
+      "Zins"
+    ]
+  },
+  {
+    "uri": "geldundschulden-67",
+    "pref_label": "Überweisung",
+    "link": "https://geldundschulden.de/article?id=67",
+    "guid": null,
+    "glossary_id": "67",
+    "description": null,
+    "related": [
+      "Dauerauftrag",
+      "Girokonto"
+    ]
+  },
+  {
+    "uri": "geldundschulden-68",
+    "pref_label": "Verbraucherinsolvenzverfahren",
+    "link": "https://geldundschulden.de/article?id=68",
+    "guid": null,
+    "glossary_id": "68",
+    "description": null,
+    "related": [
+      "Insolvenzphase",
+      "Insolvenzverfahren",
+      "Kosten des Insolvenzverfahrens",
+      "Regelinsolvenzverfahren"
+    ]
+  },
+  {
+    "uri": "geldundschulden-69",
+    "pref_label": "Vergleich",
+    "link": "https://geldundschulden.de/article?id=69",
+    "guid": null,
+    "glossary_id": "69",
+    "description": null,
+    "related": [
+      "Außergerichtlicher Einigungsversuch (AEV)",
+      "Forderung",
+      "Gläubiger"
+    ]
+  },
+  {
+    "uri": "geldundschulden-70",
+    "pref_label": "Verjährung",
+    "link": "https://geldundschulden.de/article?id=70",
+    "guid": null,
+    "glossary_id": "70",
+    "description": null,
+    "related": [
+      "Anerkenntnis",
+      "Forderung",
+      "Forderungsprüfung",
+      "Vollstreckungstitel"
+    ]
+  },
+  {
+    "uri": "geldundschulden-71",
+    "pref_label": "Vermögensauskunft",
+    "link": "https://geldundschulden.de/article?id=71",
+    "guid": null,
+    "glossary_id": "71",
+    "description": null,
+    "related": [
+      "Gerichtsvollzieher",
+      "Schuldnerverzeichnis",
+      "Zwangsvollstreckung",
+      "Zwangsvollstreckungsmaßnahmen"
+    ]
+  },
+  {
+    "uri": "geldundschulden-72",
+    "pref_label": "Verrechnung",
+    "link": "https://geldundschulden.de/article?id=72",
+    "guid": null,
+    "glossary_id": "72",
+    "description": null,
+    "related": [
+      "Aufrechnung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-73",
+    "pref_label": "Versagung der Restschuldbefreiung",
+    "link": "https://geldundschulden.de/article?id=73",
+    "guid": null,
+    "glossary_id": "73",
+    "description": null,
+    "related": [
+      "Insolvenzverfahren",
+      "Restschuldbefreiung",
+      "Vorzeitige Restschuldbefreiung",
+      "Wohlverhaltensphase"
+    ]
+  },
+  {
+    "uri": "geldundschulden-74",
+    "pref_label": "Vertrag",
+    "link": "https://geldundschulden.de/article?id=74",
+    "guid": null,
+    "glossary_id": "74",
+    "description": null,
+    "related": [
+      "Anfechtung",
+      "Dauerschuldverhältnis",
+      "Forderung",
+      "Kündigung",
+      "Widerrufsrecht",
+      "Willenserklärung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-75",
+    "pref_label": "Verzug",
+    "link": "https://geldundschulden.de/article?id=75",
+    "guid": null,
+    "glossary_id": "75",
+    "description": null,
+    "related": [
+      "Basiszins",
+      "Forderung",
+      "Mahnung",
+      "Säumniszuschläge"
+    ]
+  },
+  {
+    "uri": "geldundschulden-76",
+    "pref_label": "Vollstreckungsbescheid",
+    "link": "https://geldundschulden.de/article?id=76",
+    "guid": null,
+    "glossary_id": "76",
+    "description": null,
+    "related": [
+      "Einspruch gegen Vollstreckungsbescheid",
+      "Mahnbescheid",
+      "Vollstreckungstitel",
+      "Widerspruch gegen Mahnbescheid",
+      "Zwangsvollstreckung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-77",
+    "pref_label": "Vollstreckungsgericht",
+    "link": "https://geldundschulden.de/article?id=77",
+    "guid": null,
+    "glossary_id": "77",
+    "description": null,
+    "related": [
+      "Beschluss Vollstreckungsgericht bei P-Konten",
+      "Gerichtsvollzieher",
+      "Pfändungs- und Überweisungsbeschluss (=PfÜB)",
+      "Zwangsvollstreckung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-78",
+    "pref_label": "Vollstreckungstitel",
+    "link": "https://geldundschulden.de/article?id=78",
+    "guid": null,
+    "glossary_id": "78",
+    "description": null,
+    "related": [
+      "Verjährung",
+      "Vollstreckungsbescheid",
+      "Vorpfändung",
+      "Zwangsvollstreckung",
+      "Zwangsvollstreckungsmaßnahmen"
+    ]
+  },
+  {
+    "uri": "geldundschulden-79",
+    "pref_label": "Vorpfändung",
+    "link": "https://geldundschulden.de/article?id=79",
+    "guid": null,
+    "glossary_id": "79",
+    "description": null,
+    "related": [
+      "Drittschuldner",
+      "Kontopfändung",
+      "Lohnpfändung",
+      "Pfändungs- und Überweisungsbeschluss (=PfÜB)",
+      "Vollstreckungstitel"
+    ]
+  },
+  {
+    "uri": "geldundschulden-80",
+    "pref_label": "Vorzeitige Restschuldbefreiung",
+    "link": "https://geldundschulden.de/article?id=80",
+    "guid": null,
+    "glossary_id": "80",
+    "description": null,
+    "related": [
+      "Kosten des Insolvenzverfahrens",
+      "Restschuldbefreiung",
+      "Versagung der Restschuldbefreiung",
+      "Wohlverhaltensphase"
+    ]
+  },
+  {
+    "uri": "geldundschulden-81",
+    "pref_label": "Widerrufsrecht",
+    "link": "https://geldundschulden.de/article?id=81",
+    "guid": null,
+    "glossary_id": "81",
+    "description": null,
+    "related": [
+      "Anfechtung",
+      "Dauerschuldverhältnis",
+      "Kündigung",
+      "Vertrag",
+      "Restschuldversicherungen"
+    ]
+  },
+  {
+    "uri": "geldundschulden-82",
+    "pref_label": "Widerspruch gegen Mahnbescheid",
+    "link": "https://geldundschulden.de/article?id=82",
+    "guid": null,
+    "glossary_id": "82",
+    "description": null,
+    "related": [
+      "Einspruch gegen Vollstreckungsbescheid",
+      "Forderungsprüfung",
+      "Mahnbescheid",
+      "Vollstreckungsbescheid"
+    ]
+  },
+  {
+    "uri": "geldundschulden-83",
+    "pref_label": "Willenserklärung",
+    "link": "https://geldundschulden.de/article?id=83",
+    "guid": null,
+    "glossary_id": "83",
+    "description": null,
+    "related": [
+      "Vertrag"
+    ]
+  },
+  {
+    "uri": "geldundschulden-84",
+    "pref_label": "Wohlverhaltensphase",
+    "link": "https://geldundschulden.de/article?id=84",
+    "guid": null,
+    "glossary_id": "84",
+    "description": null,
+    "related": [
+      "Insolvenzphase",
+      "Insolvenzverfahren",
+      "Insolvenzverwalter",
+      "Restschuldbefreiung",
+      "Versagung der Restschuldbefreiung",
+      "Vorzeitige Restschuldbefreiung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-85",
+    "pref_label": "Zins",
+    "link": "https://geldundschulden.de/article?id=85",
+    "guid": null,
+    "glossary_id": "85",
+    "description": null,
+    "related": [
+      "Annuitätendarlehen",
+      "Bonität",
+      "Darlehen",
+      "Kredit",
+      "Laufzeitzinsdarlehen (LAUDA)",
+      "Tilgung"
+    ]
+  },
+  {
+    "uri": "geldundschulden-86",
+    "pref_label": "Zwangsvollstreckung",
+    "link": "https://geldundschulden.de/article?id=86",
+    "guid": null,
+    "glossary_id": "86",
+    "description": null,
+    "related": [
+      "Gerichtsvollzieher",
+      "Vollstreckungsbescheid",
+      "Vollstreckungsgericht",
+      "Vollstreckungstitel",
+      "Zwangsvollstreckungsmaßnahmen"
+    ]
+  },
+  {
+    "uri": "geldundschulden-87",
+    "pref_label": "Zwangsvollstreckungsmaßnahmen",
+    "link": "https://geldundschulden.de/article?id=87",
+    "guid": null,
+    "glossary_id": "87",
+    "description": null,
+    "related": [
+      "Kontopfändung",
+      "Lohnpfändung",
+      "Pfändung",
+      "Sachpfändung",
+      "Taschenpfändung",
+      "Vermögensauskunft",
+      "Vollstreckungstitel",
+      "Zwangsvollstreckung"
+    ]
+  }
+]

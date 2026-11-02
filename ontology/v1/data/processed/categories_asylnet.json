@@ -1,0 +1,1107 @@
+[
+  {
+    "link": "/themen/asylrecht",
+    "title": "Asylrecht",
+    "broader": null
+  },
+  {
+    "link": "/themen/asylrecht/schutzformen",
+    "title": "Schutzformen",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren",
+    "title": "Asylverfahren",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/themen/asylrecht/dublin-verfahren-und-schutz-im-ausland",
+    "title": "Dublin-Verfahren und Schutz im Ausland",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/themen/asylrecht/familienschutz",
+    "title": "Familienschutz",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/themen/asylrecht/unbegleitete-minderjaehrige",
+    "title": "Unbegleitete Minderjährige",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/themen/asylrecht/aufnahmeprogramme",
+    "title": "Aufnahmeprogramme",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/themen/asylrecht/schutzbeendigung",
+    "title": "Schutzbeendigung",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht",
+    "title": "Aufenthaltsrecht",
+    "broader": null
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/aufenthaltstitel",
+    "title": "Aufenthaltstitel",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/eu-staatsangehoerige",
+    "title": "EU-Staatsangehörige",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/tuerkische-staatsangehoerige",
+    "title": "Türkische Staatsangehörige",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/familienzusammenfuehrung",
+    "title": "Familienzusammenführung",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/sonstiger-aufenthalt",
+    "title": "Sonstiger Aufenthalt",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/themen/sozialrecht",
+    "title": "Sozialrecht",
+    "broader": null
+  },
+  {
+    "link": "/themen/sozialrecht/asylbewerberleistungsgesetz",
+    "title": "Asylbewerberleistungsgesetz",
+    "broader": "sozialrecht"
+  },
+  {
+    "link": "/themen/sozialrecht/sozialleistungen",
+    "title": "Sozialleistungen",
+    "broader": "sozialrecht"
+  },
+  {
+    "link": "/themen/sozialrecht/gesundheitsversorgung",
+    "title": "Gesundheitsversorgung",
+    "broader": "sozialrecht"
+  },
+  {
+    "link": "/themen/sozialrecht/kindergeld-und-elterngeld",
+    "title": "Kindergeld und Elterngeld",
+    "broader": "sozialrecht"
+  },
+  {
+    "link": "/themen/bildung-und-arbeit/ausbildungsfoerderung",
+    "title": "Ausbildungsförderung",
+    "broader": "bildung-und-arbeit"
+  },
+  {
+    "link": "/themen/bildung-und-arbeit",
+    "title": "Bildung und Arbeit",
+    "broader": null
+  },
+  {
+    "link": "/themen/bildung-und-arbeit/zugang-zu-bildung",
+    "title": "Zugang zu Bildung",
+    "broader": "bildung-und-arbeit"
+  },
+  {
+    "link": "/themen/bildung-und-arbeit/ausbildungsfoerderung",
+    "title": "Ausbildungsförderung",
+    "broader": "bildung-und-arbeit"
+  },
+  {
+    "link": "/themen/bildung-und-arbeit/ausbildungsduldung",
+    "title": "Ausbildungsduldung",
+    "broader": "bildung-und-arbeit"
+  },
+  {
+    "link": "/themen/bildung-und-arbeit/zugang-zu-arbeit",
+    "title": "Zugang zu Arbeit",
+    "broader": "bildung-und-arbeit"
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung",
+    "title": "Aufenthaltsbeendigung",
+    "broader": null
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung/erloeschen-von-aufenthaltstiteln",
+    "title": "Erlöschen von Aufenthaltstiteln",
+    "broader": "aufenthaltsbeendigung"
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung/zurueckweisung-und-zurueckschiebung",
+    "title": "Zurückweisung und Zurückschiebung",
+    "broader": "aufenthaltsbeendigung"
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung/ausweisung",
+    "title": "Ausweisung",
+    "broader": "aufenthaltsbeendigung"
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung/abschiebung-und-freiwillige-ausreise",
+    "title": "Abschiebung und freiwillige Ausreise",
+    "broader": "aufenthaltsbeendigung"
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung/abschiebungshaft-und-ingewahrsamnahme",
+    "title": "Abschiebungshaft und Ingewahrsamnahme",
+    "broader": "aufenthaltsbeendigung"
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung/auslieferung",
+    "title": "Auslieferung",
+    "broader": "aufenthaltsbeendigung"
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung/wieder-einreise-und-aufenthaltsverbote-und-deren-befristung",
+    "title": "(Wieder-) Einreise- und Aufenthaltsverbote und deren Befristung",
+    "broader": "aufenthaltsbeendigung"
+  },
+  {
+    "link": "/themen/staatsangehoerigkeit-und-einbuergerung",
+    "title": "Staatsangehörigkeit und Einbürgerung",
+    "broader": null
+  },
+  {
+    "link": "/themen/staatsangehoerigkeit-und-einbuergerung/staatsangehoerigkeit",
+    "title": "Staatsangehörigkeit",
+    "broader": "staatsangehoerigkeit-und-einbuergerung"
+  },
+  {
+    "link": "/themen/staatsangehoerigkeit-und-einbuergerung/mehrstaatigkeitdoppelte-staatsbuergerschaft",
+    "title": "Mehrstaatigkeit/Doppelte Staatsbürgerschaft",
+    "broader": "staatsangehoerigkeit-und-einbuergerung"
+  },
+  {
+    "link": "/themen/staatsangehoerigkeit-und-einbuergerung/voraussetzungen-der-einbuergerung",
+    "title": "Voraussetzungen der Einbürgerung",
+    "broader": "staatsangehoerigkeit-und-einbuergerung"
+  },
+  {
+    "link": "/themen/staatsangehoerigkeit-und-einbuergerung/verlust-der-staatsangehoerigkeit",
+    "title": "Verlust der Staatsangehörigkeit",
+    "broader": "staatsangehoerigkeit-und-einbuergerung"
+  },
+  {
+    "link": "/themen/staatsangehoerigkeit-und-einbuergerung/status-von-spaetaussiedlerinnen-und-spaetaussiedlern",
+    "title": "Status von Spätaussiedler*innen",
+    "broader": "staatsangehoerigkeit-und-einbuergerung"
+  },
+  {
+    "link": "/themen/weitere-themen",
+    "title": "Weitere Themen",
+    "broader": null
+  },
+  {
+    "link": "/themen/weitere-themen/strafrecht",
+    "title": "Strafrecht",
+    "broader": "weitere-themen"
+  },
+  {
+    "link": "/themen/weitere-themen/gebuehren-und-anwaltsrecht",
+    "title": "Gebühren und Anwaltsrecht",
+    "broader": "weitere-themen"
+  },
+  {
+    "link": "/themen/weitere-themen/rechte-und-pflichten-von-beratenden",
+    "title": "Rechte und Pflichten von Beratenden",
+    "broader": "weitere-themen"
+  },
+  {
+    "link": "/themen/weitere-themen/anti-diskriminierungsrecht",
+    "title": "Anti-Diskriminierungsrecht",
+    "broader": "weitere-themen"
+  },
+  {
+    "link": "/themen/weitere-themen/passbeschaffung-und-ersatzpapiere",
+    "title": "Passbeschaffung und Ersatzpapiere",
+    "broader": "weitere-themen"
+  },
+  {
+    "link": "/themen/weitere-themen/grenzkontrollen",
+    "title": "Grenzkontrollen",
+    "broader": "weitere-themen"
+  },
+  {
+    "link": "/themen/weitere-themen/zugang-zu-informationen",
+    "title": "Zugang zu Informationen",
+    "broader": "weitere-themen"
+  },
+  {
+    "link": "/themen/asylrecht/schutzformen/asylgrundrecht",
+    "title": "Recht auf Asyl",
+    "broader": "schutzformen"
+  },
+  {
+    "link": "/themen/asylrecht/schutzformen/fluechtlingsschutz",
+    "title": "Flüchtlingsschutz ",
+    "broader": "schutzformen"
+  },
+  {
+    "link": "/themen/asylrecht/schutzformen/subsidiaerer-schutz",
+    "title": "subsidiäre Schutz",
+    "broader": "schutzformen"
+  },
+  {
+    "link": "/themen/asylrecht/schutzformen/abschiebungsverbote",
+    "title": "nationale Abschiebungsverbote",
+    "broader": "schutzformen"
+  },
+  {
+    "link": "/themen/asylrecht/schutzformen/fluechtlingsschutz",
+    "title": "Flüchtlingsschutz",
+    "broader": "schutzformen"
+  },
+  {
+    "link": "/themen/asylrecht/schutzformen/subsidiaerer-schutz",
+    "title": "Subsidiärer Schutz",
+    "broader": "schutzformen"
+  },
+  {
+    "link": "/themen/asylrecht/schutzformen/asylgrundrecht",
+    "title": "Asylgrundrecht",
+    "broader": "schutzformen"
+  },
+  {
+    "link": "/themen/asylrecht/schutzformen/abschiebungsverbote",
+    "title": "Abschiebungsverbote",
+    "broader": "schutzformen"
+  },
+  {
+    "link": "/recht/gesetzestexte/asylrecht/asylgesetz-asylg",
+    "title": "Asylgesetz (AsylG)",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/recht/gesetzestexte/aufenthaltsrecht/aufenthaltsgesetz-aufenthg",
+    "title": "Aufenthaltsgesetz (AufenthG)",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/recht/gesetzestexte/asylrecht/grundgesetz-gg",
+    "title": "Grundgesetz (GG)",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/recht/gesetzestexte/asylrecht/genfer-fluechtlingskonvention-gfk",
+    "title": "Genfer Flüchtlingskonvention (GFK)",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/recht/gesetzestexte/asylrecht/qualifikationsrichtlinie-201195eu",
+    "title": "EU-Qualifikationsrichtlinie (Quali-RL)",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/recht/gesetzestexte/asylrecht/europaeische-menschenrechtskonvention-emrk",
+    "title": "Europäische Menschenrechtskonvention (EMRK)",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/recht/gesetzestexte",
+    "title": "weitere Gesetze",
+    "broader": null
+  },
+  {
+    "link": "/recht/rechtsprechungskategorien/fluechtlingsschutz-und-abschiebungsverbote",
+    "title": "Flüchtlingsschutz und Abschiebungsverbote",
+    "broader": "rechtsprechungskategorien"
+  },
+  {
+    "link": "/themen/asylrecht/schutzformen",
+    "title": "Schutzstatus ",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/asylantragstellung",
+    "title": "Asylantrag ",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/dublin-verfahren",
+    "title": "Dublin-Verfahrens",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/anhoerung",
+    "title": "Anhörung ",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/bamf-entscheidung",
+    "title": "Entscheidung",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/besondere-verfahren",
+    "title": "besondere Verfahren",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/rechtsschutz",
+    "title": "Rechtsmittel",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/folge-und-zweitantrag",
+    "title": "Folgeantrag ",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/folge-und-zweitantrag",
+    "title": "Zweitantrag",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/rechte-von-asylsuchenden",
+    "title": "Rechte ",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/pflichten-von-asylsuchenden",
+    "title": "Pflichten",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/besonders-schutzbeduerftige",
+    "title": "besonders schutzbedürftigen",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/asylantragstellung",
+    "title": "Asylantragstellung",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/dublin-verfahren",
+    "title": "Dublin-Verfahren",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/anhoerung",
+    "title": "Anhörung",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/bamf-entscheidung",
+    "title": "BAMF-Entscheidung",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/rechtsschutz",
+    "title": "Rechtsschutz",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/folge-und-zweitantrag",
+    "title": "Folge- und Zweitantrag",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/besondere-verfahren",
+    "title": "Besondere Verfahren",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/pflichten-von-asylsuchenden",
+    "title": "Pflichten von Asylsuchenden",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/rechte-von-asylsuchenden",
+    "title": "Rechte von Asylsuchenden",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/besonders-schutzbeduerftige",
+    "title": "Besonders Schutzbedürftige",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/recht/gesetzestexte/asylrecht/dublin-iii-verordnung",
+    "title": "Dublin-III-Verordnung (Dublin-III-VO)",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/recht/gesetzestexte/asylrecht/asylverfahrensrichtlinie-201332eu",
+    "title": "EU-Asylverfahrensrichtlinie (Verf-RL)",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/recht/gesetzestexte/eu-recht/richtlinien/aufnahmerichtlinie-201333eu",
+    "title": "EU-Aufnahmerichtlinie (Aufnahme-RL)",
+    "broader": "richtlinien"
+  },
+  {
+    "link": "/recht/rechtsprechungskategorien/asylverfahrens-und-prozessrecht",
+    "title": "Asylverfahrens- und Prozessrecht",
+    "broader": "rechtsprechungskategorien"
+  },
+  {
+    "link": "/themen/asylrecht/dublin-verfahren-und-schutz-im-ausland/dublin-verfahren",
+    "title": "Dublin-Verordnung",
+    "broader": "dublin-verfahren-und-schutz-im-ausland"
+  },
+  {
+    "link": "/themen/asylrecht/dublin-verfahren-und-schutz-im-ausland/schutz-im-ausland",
+    "title": "internationalen Schutzes in einem anderen Staat",
+    "broader": "dublin-verfahren-und-schutz-im-ausland"
+  },
+  {
+    "link": "/themen/asylrecht/dublin-verfahren-und-schutz-im-ausland/schutz-im-ausland",
+    "title": "Schutz im Ausland",
+    "broader": "dublin-verfahren-und-schutz-im-ausland"
+  },
+  {
+    "link": "/recht/dublin-entscheidungen",
+    "title": "Dublin-Entscheidungen",
+    "broader": null
+  },
+  {
+    "link": "/recht/rechtsprechungskategorien/asylverfahrens-und-prozessrecht/dublin-verordnung-drittstaatenregelung-eu-verteilungsmechanismen",
+    "title": "Drittstaatenregelung",
+    "broader": "asylverfahrens-und-prozessrecht"
+  },
+  {
+    "link": "/fileadmin/user_upload/publikationen/Basisinformationen/Basisinf_2_Dublin_2Aufl_2021_web.pdf",
+    "title": "Basisinformationen Nr. 2",
+    "broader": "Basisinformationen"
+  },
+  {
+    "link": "/themen/asylrecht/schutzformen",
+    "title": "Asylberechtigung oder internationalem Schutz",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/themen/asylrecht/schutzformen/asylgrundrecht",
+    "title": "Asylberechtigte",
+    "broader": "schutzformen"
+  },
+  {
+    "link": "/themen/asylrecht/schutzformen/fluechtlingsschutz",
+    "title": "GFK-Flüchtlinge",
+    "broader": "schutzformen"
+  },
+  {
+    "link": "/themen/asylrecht/schutzformen/subsidiaerer-schutz",
+    "title": " subsidiär Schutzberechtigte",
+    "broader": "schutzformen"
+  },
+  {
+    "link": "/themen/asylrecht/schutzbeendigung",
+    "title": "widerrufen oder zurückgenommen",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/familienzusammenfuehrung/dublin-familienzusammenfuehrung",
+    "title": "Dublin-Familienzusammenführung",
+    "broader": "familienzusammenfuehrung"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/familienzusammenfuehrung/nachzug-zu-schutzberechtigten",
+    "title": "Familiennachzug zu Schutzberechtigten",
+    "broader": "familienzusammenfuehrung"
+  },
+  {
+    "link": "http://familie.asyl.net/ausserhalb-europas/besondere-erteilungsvoraussetzungen",
+    "title": "siehe auch auf familien.asyl.net",
+    "broader": "ausserhalb-europas"
+  },
+  {
+    "link": "http://familie.asyl.net",
+    "title": " familie.asyl.net",
+    "broader": null
+  },
+  {
+    "link": "http://familie.asyl.net",
+    "title": "  ",
+    "broader": null
+  },
+  {
+    "link": "/recht/gesetzestexte/asylrecht/un-kinderrechtskonvention",
+    "title": "UN-Kinderrechtskonvention",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/themen/asylrecht/aufnahmeprogramme/humanitaere-aufnahmeprogramme",
+    "title": "Humanitäre Aufnahmeprogramme",
+    "broader": "aufnahmeprogramme"
+  },
+  {
+    "link": "/themen/asylrecht/aufnahmeprogramme/resettlement",
+    "title": "Resettlement",
+    "broader": "aufnahmeprogramme"
+  },
+  {
+    "link": "/themen/asylrecht/schutzformen/asylgrundrecht",
+    "title": "Asylberechtigung",
+    "broader": "schutzformen"
+  },
+  {
+    "link": "/themen/asylrecht/schutzformen/fluechtlingsschutz",
+    "title": "Flüchtlingsanerkennung",
+    "broader": "schutzformen"
+  },
+  {
+    "link": "/themen/asylrecht/schutzformen/asylgrundrecht",
+    "title": "Asylberechtigung",
+    "broader": "schutzformen"
+  },
+  {
+    "link": "/themen/asylrecht/schutzformen/fluechtlingsschutz",
+    "title": "Flüchtlingsanerkennung",
+    "broader": "schutzformen"
+  },
+  {
+    "link": "/themen/asylrecht/schutzformen",
+    "title": "allen Schutzstatus",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung/erloeschen-von-aufenthaltstiteln/ruecknahme-und-widerruf",
+    "title": "Aufenthaltstitel widerrufen werden kann",
+    "broader": "erloeschen-von-aufenthaltstiteln"
+  },
+  {
+    "link": "/recht/rechtsprechungskategorien/asylverfahrens-und-prozessrecht/widerruf-ruecknahme-erloeschen-der-anerkennung",
+    "title": "Widerruf, Rücknahme, Erlöschen der Anerkennung",
+    "broader": "asylverfahrens-und-prozessrecht"
+  },
+  {
+    "link": "/fileadmin/user_upload/beitraege_asylmagazin/Beitraege_AM_2018/AM18-6_beitrag_heinhold.pdf",
+    "title": "Beitrag",
+    "broader": "Beitraege_AM_2018"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/eu-staatsangehoerige",
+    "title": "EU-Staatsangehörigen",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/aufenthaltstitel",
+    "title": "Drittstaatsangehörigen",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/aufenthaltstitel/visum",
+    "title": "Visum ",
+    "broader": "aufenthaltstitel"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/aufenthaltstitel/aufenthaltserlaubnis",
+    "title": "Aufenthaltserlaubnis ",
+    "broader": "aufenthaltstitel"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/aufenthaltstitel/blaue-karte-eu",
+    "title": "Blaue Karte EU",
+    "broader": "aufenthaltstitel"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/aufenthaltstitel/niederlassungserlaubnis",
+    "title": "Niederlassungserlaubnis ",
+    "broader": "aufenthaltstitel"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/aufenthaltstitel/daueraufenthalt-eu",
+    "title": "Daueraufenthalt–EU",
+    "broader": "aufenthaltstitel"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/sonstiger-aufenthalt/aufenthaltsgestattung",
+    "title": "Aufenthaltsgestattung ",
+    "broader": "sonstiger-aufenthalt"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/sonstiger-aufenthalt/duldung",
+    "title": "Duldung",
+    "broader": "sonstiger-aufenthalt"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren",
+    "title": "Asylverfahrens ",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/aufenthaltstitel/erteilungsvoraussetzungen",
+    "title": "Erteilungsvoraussetzungen",
+    "broader": "aufenthaltstitel"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/aufenthaltstitel/visum",
+    "title": "Visum",
+    "broader": "aufenthaltstitel"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/aufenthaltstitel/aufenthaltserlaubnis",
+    "title": "Aufenthaltserlaubnis",
+    "broader": "aufenthaltstitel"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/aufenthaltstitel/blaue-karte-eu",
+    "title": "Blaue Karte EU",
+    "broader": "aufenthaltstitel"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/aufenthaltstitel/niederlassungserlaubnis",
+    "title": "Niederlassungserlaubnis",
+    "broader": "aufenthaltstitel"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/aufenthaltstitel/daueraufenthalt-eu",
+    "title": "Daueraufenthalt-EU",
+    "broader": "aufenthaltstitel"
+  },
+  {
+    "link": "/recht/gesetzestexte/aufenthaltsrecht/freizuegigkeitsrichtlinie-200438eg",
+    "title": "EU-Freizügigkeitsrichtlinie (Freizüg-RL)",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/recht/gesetzestexte/aufenthaltsrecht/freizuegigkeitsgesetzeu-freizueggeu",
+    "title": "Freizügigkeitsgesetz (FreizügG/EU)",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/recht/rechtsprechungskategorien/aufenthaltsrecht/aufenthaltsrecht-von-eu-buergern-und-deren-familien",
+    "title": "Aufenthaltsrecht von EU-Bürgern und deren Familien ",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/recht/gesetzestexte/aufenthaltsrecht/assoziationsratsbeschluss-ewg-tuerkei-nr-180-arb-180",
+    "title": "Assoziationsratsbeschluss EWG-Türkei Nr. 1/80 (ARB 1/80)",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/recht/rechtsprechungskategorien/aufenthaltsrecht/aufenthaltsrecht-fuer-tuerkische-staatsangehoerige-arb-180",
+    "title": "Aufenthaltsrecht für türkische Staatsangehörige (ARB 1/80) ",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/familienzusammenfuehrung/regulaerer-nachzug",
+    "title": "regulären Familiennachzug",
+    "broader": "familienzusammenfuehrung"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/familienzusammenfuehrung/nachzug-zu-schutzberechtigten",
+    "title": "Nachzug zu Schutzberechtigten",
+    "broader": "familienzusammenfuehrung"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/familienzusammenfuehrung/familieneinheit-in-deutschland",
+    "title": "innerhalb Deutschlands",
+    "broader": "familienzusammenfuehrung"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/tuerkische-staatsangehoerige",
+    "title": "türkischen Staatsangehörigen",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/familienzusammenfuehrung/nachzug-zu-schutzberechtigten",
+    "title": "Nachzug zu Schutzberechtigten",
+    "broader": "familienzusammenfuehrung"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/familienzusammenfuehrung/regulaerer-nachzug",
+    "title": "Regulärer Nachzug",
+    "broader": "familienzusammenfuehrung"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/familienzusammenfuehrung/familieneinheit-in-deutschland",
+    "title": "Familieneinheit in Deutschland",
+    "broader": "familienzusammenfuehrung"
+  },
+  {
+    "link": "/recht/gesetzestexte/asylrecht/familienzusammenfuehrungsrichtlinie-200386eg",
+    "title": "EU-Familienzusammenführungsrichtlinie (",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/recht/gesetzestexte/asylrecht/familienzusammenfuehrungsrichtlinie-200386eg",
+    "title": "Famz-RL)",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/recht/gesetzestexte/aufenthaltsrecht/europaeische-grundrechtecharta-2010b-8302",
+    "title": "Europäische Grundrechtecharta (GR-Charta)",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/recht/rechtsprechungskategorien/aufenthaltsrecht/aufenthalt-aus-familiaeren-gruenden-auch-visumsverfahren",
+    "title": "Aufenthalt aus familiären Gründen",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/sonstiger-aufenthalt/aufenthaltsgestattung",
+    "title": "Aufenthaltsgestattung",
+    "broader": "sonstiger-aufenthalt"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/sonstiger-aufenthalt/illegaler-aufenthalt",
+    "title": "Illegaler Aufenthalt",
+    "broader": "sonstiger-aufenthalt"
+  },
+  {
+    "link": "/recht/rechtsprechungskategorien/aufenthaltsrecht/duldung-ausreisepflicht-abschiebungsandrohung-und-abschiebung",
+    "title": "Duldung, Ausreisepflicht, Abschiebungsandrohung, Abschiebung",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/sonstiger-aufenthalt/duldung",
+    "title": "geduldeten",
+    "broader": "sonstiger-aufenthalt"
+  },
+  {
+    "link": "/recht/gesetzestexte/sozialrecht/asylbewerberleistungsgesetz-asylblg",
+    "title": "Asylbewerberleistungsgesetz (AsylbLG)",
+    "broader": "sozialrecht"
+  },
+  {
+    "link": "/recht/rechtsprechungskategorien/sozialrecht-fuer-fluechtlinge-asylsuchende-und-migranten",
+    "title": "Sozialrecht für Flüchtlinge, Asylsuchende und Migranten",
+    "broader": "rechtsprechungskategorien"
+  },
+  {
+    "link": "/themen/sozialrecht/sozialleistungen/asylsuchende-geduldete-und-ausreisepflichtige-personen",
+    "title": "Asylsuchende, geduldete und ausreisepflichtige Personen",
+    "broader": "sozialleistungen"
+  },
+  {
+    "link": "/themen/sozialrecht/sozialleistungen/anerkannte-schutzberechtigte",
+    "title": "Anerkannte Schutzberechtigte",
+    "broader": "sozialleistungen"
+  },
+  {
+    "link": "/themen/sozialrecht/sozialleistungen/eu-staatsangehoerige",
+    "title": "EU- Staatsangehörige",
+    "broader": "sozialleistungen"
+  },
+  {
+    "link": "/themen/sozialrecht/sozialleistungen/weitere-drittstaatsangehoerige",
+    "title": "Weitere Drittstaatsangehörige",
+    "broader": "sozialleistungen"
+  },
+  {
+    "link": "/recht/gesetzestexte/sozialrecht/sozialgesetzbuch-teil-1-12-sgb-i-xii",
+    "title": "Sozialgesetzbuch Teil 1-12 (SGB I-XII)",
+    "broader": "sozialrecht"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/sonstiger-aufenthalt/duldung",
+    "title": " geduldete Personen",
+    "broader": "sonstiger-aufenthalt"
+  },
+  {
+    "link": "/themen/asylrecht/unbegleitete-minderjaehrige",
+    "title": "Unbegleitete minderjährige Geflüchtete",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/themen/bildung-und-arbeit/ausbildungsfoerderung/asylsuchende",
+    "title": "Asylsuchende",
+    "broader": "ausbildungsfoerderung"
+  },
+  {
+    "link": "/themen/bildung-und-arbeit/ausbildungsfoerderung/geduldete",
+    "title": "Geduldete",
+    "broader": "ausbildungsfoerderung"
+  },
+  {
+    "link": "/themen/bildung-und-arbeit/ausbildungsfoerderung/schutzberechtigte",
+    "title": "Schutzberechtigte",
+    "broader": "ausbildungsfoerderung"
+  },
+  {
+    "link": "/recht/rechtsprechungskategorien/sozialrecht-fuer-fluechtlinge-asylsuchende-und-migranten/sozialrechtsonstiges",
+    "title": "Sozialrecht/Sonstiges",
+    "broader": "sozialrecht-fuer-fluechtlinge-asylsuchende-und-migranten"
+  },
+  {
+    "link": "/recht/rechtsprechungskategorien/arbeitserlaubnisrecht-erwerbstaetigkeit",
+    "title": "Arbeitserlaubnisrecht, Erwerbstätigkeit ",
+    "broader": "rechtsprechungskategorien"
+  },
+  {
+    "link": "/themen/bildung-und-arbeit/zugang-zu-bildung/kindertagesbetreuung",
+    "title": "Kindertagesbetreuung",
+    "broader": "zugang-zu-bildung"
+  },
+  {
+    "link": "/themen/bildung-und-arbeit/zugang-zu-bildung/schule",
+    "title": "Schule",
+    "broader": "zugang-zu-bildung"
+  },
+  {
+    "link": "/themen/bildung-und-arbeit/zugang-zu-bildung/berufsausbildung",
+    "title": "Berufsausbildung",
+    "broader": "zugang-zu-bildung"
+  },
+  {
+    "link": "/themen/bildung-und-arbeit/zugang-zu-bildung/studium",
+    "title": "Studium",
+    "broader": "zugang-zu-bildung"
+  },
+  {
+    "link": "/themen/bildung-und-arbeit/zugang-zu-bildung/sprach-und-integrationskurse",
+    "title": "Sprach- und Integrationskurse",
+    "broader": "zugang-zu-bildung"
+  },
+  {
+    "link": "/recht/rechtsprechungskategorien/arbeitserlaubnisrecht-erwerbstaetigkeit",
+    "title": "Arbeitserlaubnisrecht, Erwerbstätigkeit",
+    "broader": "rechtsprechungskategorien"
+  },
+  {
+    "link": "/themen/bildung-und-arbeit/zugang-zu-arbeit/drittstaatsangehoerige",
+    "title": "Drittstaatsangehörige",
+    "broader": "zugang-zu-arbeit"
+  },
+  {
+    "link": "/recht/gesetzestexte/eu-recht/vertragstexte/vertrag-ueber-die-arbeitsweise-der-europaeischen-union-aeuv",
+    "title": "Vertrag über die Arbeitsweise der EU (AEUV)",
+    "broader": "vertragstexte"
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung/erloeschen-von-aufenthaltstiteln/zeitablauf-und-bedingungseintritt",
+    "title": "Zeitablauf und Bedingungseintritt",
+    "broader": "erloeschen-von-aufenthaltstiteln"
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung/erloeschen-von-aufenthaltstiteln/ruecknahme-und-widerruf",
+    "title": "Rücknahme und Widerruf",
+    "broader": "erloeschen-von-aufenthaltstiteln"
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung/erloeschen-von-aufenthaltstiteln/ausreise",
+    "title": "Ausreise",
+    "broader": "erloeschen-von-aufenthaltstiteln"
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung/erloeschen-von-aufenthaltstiteln/asylantragstellung-nach-erteilung-eines-aufenthaltstitels-nach-22-23-oder-25-abs3-bis-5-aufenthg",
+    "title": "Asylantragstellung nach Erteilung eines Aufenthaltstitels nach §§ 22, 23 oder 25 Abs.3 bis 5 AufenthG",
+    "broader": "erloeschen-von-aufenthaltstiteln"
+  },
+  {
+    "link": "/recht/rechtsprechungskategorien/aufenthaltsrecht/widerruf-ruecknahme-erloeschen-von-aufenthaltstiteln",
+    "title": "Widerruf, Rücknahme und Erlöschen von Aufenthaltstiteln",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/eu-staatsangehoerige",
+    "title": "Unionsbürger*innen",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/tuerkische-staatsangehoerige",
+    "title": "Assoziationsberechtigte",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung/abschiebung-und-freiwillige-ausreise",
+    "title": "Abschiebung",
+    "broader": "aufenthaltsbeendigung"
+  },
+  {
+    "link": "/recht/rechtsprechungskategorien/aufenthaltsrecht/ausweisung-und-befristung",
+    "title": "Ausweisung und Befristung",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung/abschiebung-und-freiwillige-ausreise/abschiebungsandrohung",
+    "title": "Abschiebungsandrohung",
+    "broader": "abschiebung-und-freiwillige-ausreise"
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung/abschiebung-und-freiwillige-ausreise/abschiebungsanordnung",
+    "title": "Abschiebungsanordnung",
+    "broader": "abschiebung-und-freiwillige-ausreise"
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung/abschiebung-und-freiwillige-ausreise/voruebergehende-aussetzung-der-abschiebung-duldung",
+    "title": "Vorübergehende Aussetzung der Abschiebung (Duldung)",
+    "broader": "abschiebung-und-freiwillige-ausreise"
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung/abschiebung-und-freiwillige-ausreise/freiwillige-ausreise",
+    "title": "Freiwillige Ausreise",
+    "broader": "abschiebung-und-freiwillige-ausreise"
+  },
+  {
+    "link": "/recht/rechtsprechungskategorien/aufenthaltsrecht/duldung-ausreisepflicht-abschiebungsandrohung-und-abschiebung",
+    "title": "Duldung, Ausreisepflicht, Abschiebungsandrohung und Abschiebung",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung/abschiebungshaft-und-ingewahrsamnahme/allgemeine-voraussetzungen",
+    "title": "Allgemeine Voraussetzungen",
+    "broader": "abschiebungshaft-und-ingewahrsamnahme"
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung/abschiebungshaft-und-ingewahrsamnahme/vorbereitungshaft",
+    "title": "Vorbereitungshaft",
+    "broader": "abschiebungshaft-und-ingewahrsamnahme"
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung/abschiebungshaft-und-ingewahrsamnahme/sicherungshaft",
+    "title": "Sicherungshaft",
+    "broader": "abschiebungshaft-und-ingewahrsamnahme"
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung/abschiebungshaft-und-ingewahrsamnahme/ingewahrsamnahme",
+    "title": "Ingewahrsamnahme",
+    "broader": "abschiebungshaft-und-ingewahrsamnahme"
+  },
+  {
+    "link": "/themen/aufenthaltsbeendigung/abschiebungshaft-und-ingewahrsamnahme/ausreisegewahrsam",
+    "title": "Ausreisegewahrsam",
+    "broader": "abschiebungshaft-und-ingewahrsamnahme"
+  },
+  {
+    "link": "/recht/rechtsprechungskategorien/abschiebungshaft-ingewahrsamnahme",
+    "title": "Abschiebungshaft, Ingewahrsamnahme",
+    "broader": "rechtsprechungskategorien"
+  },
+  {
+    "link": "/fileadmin/user_upload/publikationen/Studien/Abschiebungshaft_Bericht_Juli_2013_Webversion.pdf",
+    "title": "Bericht",
+    "broader": "Studien"
+  },
+  {
+    "link": "/recht/gesetzestexte/voelkerrecht/un-antifolterkonvention",
+    "title": "UN-Antifolterkonvention",
+    "broader": "voelkerrecht"
+  },
+  {
+    "link": "/recht/rechtsprechungskategorien/sonstige-rechtsgebiete/auslieferungsrecht",
+    "title": "Auslieferungsrecht",
+    "broader": "sonstige-rechtsgebiete"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/folge-und-zweitantrag",
+    "title": "Folge- oder Zweitanträge ",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/recht/gesetzestexte/aufenthaltsrecht/rueckfuehrungsrichtlinie-2008115eg",
+    "title": "EU-Rückführungsrichtlinie (RückF-RL)",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/aufenthaltstitel/daueraufenthalt-eu",
+    "title": "Daueraufenthaltsrecht-EU",
+    "broader": "aufenthaltstitel"
+  },
+  {
+    "link": "/recht/rechtsprechungskategorien/staatsangehoerigkeitsrecht-einbuergerung",
+    "title": "Staatsangehörigkeitsrecht/Einbürgerung",
+    "broader": "rechtsprechungskategorien"
+  },
+  {
+    "link": "/themen/staatsangehoerigkeit-und-einbuergerung/voraussetzungen-der-einbuergerung",
+    "title": "Einbürgerung",
+    "broader": "staatsangehoerigkeit-und-einbuergerung"
+  },
+  {
+    "link": "/themen/staatsangehoerigkeit-und-einbuergerung/mehrstaatigkeitdoppelte-staatsbuergerschaft/doppelte-staatsbuergerschaft-durch-geburt",
+    "title": "Doppelte Staatsbürgerschaft durch Geburt",
+    "broader": "mehrstaatigkeitdoppelte-staatsbuergerschaft"
+  },
+  {
+    "link": "/themen/staatsangehoerigkeit-und-einbuergerung/mehrstaatigkeitdoppelte-staatsbuergerschaft/doppelte-staatsbuergerschaft-durch-einbuergerung",
+    "title": "Doppelte Staatsbürgerschaft durch Einbürgerung",
+    "broader": "mehrstaatigkeitdoppelte-staatsbuergerschaft"
+  },
+  {
+    "link": "/themen/staatsangehoerigkeit-und-einbuergerung/voraussetzungen-der-einbuergerung/anspruchs-und-ermessenseinbuergerung",
+    "title": "Anspruchs- und Ermessenseinbürgerung",
+    "broader": "voraussetzungen-der-einbuergerung"
+  },
+  {
+    "link": "/themen/staatsangehoerigkeit-und-einbuergerung/voraussetzungen-der-einbuergerung/erleichterte-einbuergerung",
+    "title": "Erleichterte Einbürgerung",
+    "broader": "voraussetzungen-der-einbuergerung"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/aufenthaltstitel",
+    "title": "Aufenthaltstitel ",
+    "broader": "aufenthaltsrecht"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/pflichten-von-asylsuchenden",
+    "title": " behördliche Meldepflichten oder räumliche",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/recht/rechtsprechungskategorien/sonstige-rechtsgebiete/auslaenderstrafrecht",
+    "title": "Ausländerstrafrecht",
+    "broader": "sonstige-rechtsgebiete"
+  },
+  {
+    "link": "/fileadmin/user_upload/publikationen/Basisinformationen/Basisinf_4_Neuaufl_2019fin.pdf",
+    "title": "Basisinformationen Nr. 4",
+    "broader": "Basisinformationen"
+  },
+  {
+    "link": "/recht/gesetzestexte/bildung-und-arbeit/gleichbehandlungsrichtlinien-200043eg-200078eg-200654eg",
+    "title": "EU-Gleichbehandlungsrichtlinien",
+    "broader": "bildung-und-arbeit"
+  },
+  {
+    "link": "/recht/entscheidungsdatenbank?newsearch=1&standards%5B0%5D=AGG&cHash=b9f41f9b8ff46905a83971a249512bee",
+    "title": "Entscheidungen zum \"AGG\"",
+    "broader": null
+  },
+  {
+    "link": "/fileadmin/user_upload/publikationen/Basisinformationen/Basisinf_5_fin.pdf",
+    "title": "Basisinformationen Nr. 5",
+    "broader": "Basisinformationen"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren",
+    "title": "Asylverfahrens",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/themen/asylrecht/schutzformen/asylgrundrecht",
+    "title": "anerkannte Asylberechtigte",
+    "broader": "schutzformen"
+  },
+  {
+    "link": "/themen/asylrecht/schutzformen/subsidiaerer-schutz",
+    "title": "Subsidiär Schutzberechtigte",
+    "broader": "schutzformen"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/dublin-verfahren",
+    "title": "Dublin III-Verfahren",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/themen/asylrecht/asylverfahren/dublin-verfahren",
+    "title": " Dublin III-Verfahrens",
+    "broader": "asylverfahren"
+  },
+  {
+    "link": "/themen/aufenthaltsrecht/familienzusammenfuehrung/dublin-familienzusammenfuehrung",
+    "title": "Familienzusammenführung ",
+    "broader": "familienzusammenfuehrung"
+  },
+  {
+    "link": "/recht/gesetzestexte/asylrecht/dublin-iii-verordnung",
+    "title": "Dublin III-Verordnung (Dublin-III-VO)",
+    "broader": "asylrecht"
+  },
+  {
+    "link": "/recht/entscheidungsdatenbank?newsearch=1&standards%5B0%5D=IFG&cHash=596a826a21ce414f75f280d0ab1d3877",
+    "title": "Entscheidungen zum \"IFG\"",
+    "broader": null
+  }
+]

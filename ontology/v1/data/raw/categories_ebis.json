@@ -1,0 +1,67 @@
+{
+  "Persönliche Situation": [
+    "Angst vor Verantwortung / Zukunftsangst",
+    "Alter",
+    "Nichtehelichkeit / Außerehelichkeit",
+    "Unerfüllter Kinderwunsch",
+    "Situation als Alleinerziehende/r",
+    "Rolle / Selbstverständnis als Mutter / Vater",
+    "Werte-/Sinn- und religiöse Fragen"
+  ],
+  "Einstellung zum Kind": [
+    "Kind nicht erwünscht",
+    "Kind zur Zeit nicht erwünscht",
+    "Im Kontext von Pränataldiagnostik",
+    "Behindertes Kind in der Familie"
+  ],
+  "Gesundheit": [
+    "Gesundheitliche Situation",
+    "Gewalterfahrung",
+    "Physische / psychische Belastung",
+    "Mehrlingsschwangerschaft",
+    "Probleme nach Schwangerschaftsabbruch",
+    "Probleme nach Fehl- und Totgeburt",
+    "Fragen zu Vorsorge/Schwangerschaft/Geburt"
+  ],
+  "Beziehung zum Partner": [
+    "Probleme in der Partnerbeziehung",
+    "Drängen zum Abbruch durch Partner",
+    "Familienplanung/Empfängnisregel./Verhütung",
+    "Sexualität",
+    "Trennung / Verlassen werden",
+    "Übergang zur Elternschaft"
+  ],
+  "Beziehung zu Eltern / Familie / Kindern": [
+    "Probleme in der Beziehung zu den Eltern",
+    "Drängen zum Abbruch durch die Familie",
+    "Erziehungssituation"
+  ],
+  "Beziehung zum sozialen Netz": [
+    "Fehlende Unterstützung durch soziales Umfeld"
+  ],
+  "Berufliche Situation": [
+    "Berufs- und Ausbildungssituation",
+    "Arbeitslosigkeit",
+    "Vereinbarkeit von Familie und Beruf",
+    "Sorge um Kinderbetreuung"
+  ],
+  "Finanzielle Situation": [
+    "Finanzielle Situation (allgemein)",
+    "Überschuldung",
+    "Fragen zu sozialrechtlichen Ansprüchen usw."
+  ],
+  "Wohnsituation": [
+    "Wohnsituation (allgemein)",
+    "Wohnungssuche"
+  ],
+  "Rechtliche Situation": [
+    "Fehlende Krankenversicherung",
+    "Rechtliche Situation (allgemein)",
+    "Adoption"
+  ],
+  "Situation als Migrant/in": [
+    "Probleme als Migrant/in, Asylbewerber/in",
+    "Illegaler Aufenthalt",
+    "fehlende Sprachkenntnisse"
+  ]
+}

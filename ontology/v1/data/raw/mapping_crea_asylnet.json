@@ -1,0 +1,377 @@
+{
+  "sub_topics": {
+    "Arbeit": [
+      {
+        "title": "Anerkennung von im Ausland erworbener Abschlüsse",
+        "mapping": [
+        ]
+      },
+      {
+        "title": "Arbeitsaufnahme",
+        "mapping": []
+      },
+      {
+        "title": "Arbeitserlaubnis",
+        "mapping": [
+          "bildung-und-arbeit",
+          "zugang-zu-arbeit"
+        ]
+      },
+      {
+        "title": "Arbeitslosigkeit / Arbeitssuche",
+        "mapping": []
+      },
+      {
+        "title": "Berufliche Fort-und Weiterbildung",
+        "mapping": [
+          "ausbildungsfoerderung"
+        ]
+      },
+      {
+        "title": "Probleme mit der Arbeitsstelle",
+        "mapping": []
+      },
+      {
+        "title": "Selbstständigkeit",
+        "mapping": []
+      }
+    ],
+    "Asylverfahren": [
+      {
+        "title": "Asylrecht / Asylverfahren",
+        "mapping": [
+          "asylverfahren",
+          "asylrecht",
+          "aufnahmeprogramme",
+          "schutzbeendigung"
+        ]
+      },
+      {
+        "title": "Dublin-Fälle",
+        "mapping": [
+          "dublin-verfahren-und-schutz-im-ausland"
+        ]
+      },
+      {
+        "title": "Kirchenasyl",
+        "mapping": []
+      },
+      {
+        "title": "Rücknahme und Widerrufsverfahren",
+        "mapping": []
+      },
+      {
+        "title": "Umverteilung",
+        "mapping": [
+        ]
+      }
+    ],
+    "Aufenthaltsrecht": [
+      {
+        "title": "Aufenthaltsrecht / rechtl.Status",
+        "mapping": [
+          "aufenthaltsrecht",
+          "aufenthaltstitel",
+          "eu-staatsangehoerige",
+          "tuerkische-staatsangehoerige",
+          "sonstiger-aufenthalt"
+        ]
+      },
+      {
+        "title": "Duldung",
+        "mapping": [
+          "duldung"
+        ]
+      },
+      {
+        "title": "Familiennachzug /-zusammenführung",
+        "mapping": [
+          "familienschutz",
+          "familienzusammenfuehrung"
+        ]
+      },
+      {
+        "title": "Härtefallkommission",
+        "mapping": []
+      },
+      {
+        "title": "Identitätsklärung",
+        "mapping": [
+        ]
+      }
+    ],
+    "Ausreise": [
+      {
+        "title": "Aus-,Weiter- und Rückwanderung",
+        "mapping": [
+          "aufenthaltsbeendigung",
+          "wieder-einreise-und-aufenthaltsverbote-und-deren-befristung"
+        ]
+      },
+      {
+        "title": "Ausreise freiwillig",
+        "mapping": [
+          "abschiebung-und-freiwillige-ausreise"
+        ]
+      },
+      {
+        "title": "Ausreise, unfreiwillig",
+        "mapping": [
+          "erloeschen-von-aufenthaltstiteln",
+          "zurueckweisung-und-zurueckschiebung",
+          "ausweisung",
+          "abschiebung-und-freiwillige-ausreise",
+          "abschiebungshaft-und-ingewahrsamnahme",
+          "auslieferung"
+        ]
+      }
+    ],
+    "Bildung": [
+      {
+        "title": "Ausbildung / Studium",
+        "mapping": [
+          "zugang-zu-bildung",
+          "ausbildungsfoerderung",
+          "ausbildungsduldung"
+        ]
+      },
+      {
+        "title": "Deutschkenntnisse",
+        "mapping": []
+      },
+      {
+        "title": "Kindertageseinrichtungen",
+        "mapping": [
+        ]
+      },
+      {
+        "title": "Schule",
+        "mapping": []
+      }
+    ],
+    "Dokumente und Anträge": [
+      {
+        "title": "Ausfüllen von Anträgen",
+        "mapping": []
+      },
+      {
+        "title": "Beschaffung / Ausstellung von Dokumenten",
+        "mapping": []
+      }
+    ],
+    "Erwerb der dt. Staatsbürgerschaft": [
+      {
+        "title": "Dt. Staatsbürgerschaft durch Geburt",
+        "mapping": [
+          "staatsangehoerigkeit",
+          "voraussetzungen-der-einbuergerung",
+          "status-von-spaetaussiedlerinnen-und-spaetaussiedlern"
+        ]
+      },
+      {
+        "title": "Einbürgerung (Aufgabe bisherige Staatsbürgerschaft)",
+        "mapping": [
+          "staatsangehoerigkeit-und-einbuergerung",
+          "staatsangehoerigkeit",
+          "voraussetzungen-der-einbuergerung",
+          "verlust-der-staatsangehoerigkeit"
+        ]
+      },
+      {
+        "title": "Einbürgerung (Behaltung bisherige Staatsbürgerschaft)",
+        "mapping": [
+          "staatsangehoerigkeit-und-einbuergerung",
+          "staatsangehoerigkeit",
+          "mehrstaatigkeitdoppelte-staatsbuergerschaft",
+          "voraussetzungen-der-einbuergerung"
+        ]
+      }
+    ],
+    "Familie/Kinder/Partnerschaft": [
+      {
+        "title": "Ehe / Partnerschaft",
+        "mapping": [
+        ]
+      },
+      {
+        "title": "Erziehung / Generationskonflikte",
+        "mapping": [
+        ]
+      },
+      {
+        "title": "Familienprobleme",
+        "mapping": [
+        ]
+      },
+      {
+        "title": "Trennung / Unterhalt / Sorgerecht",
+        "mapping": [
+        ]
+      }
+    ],
+    "Gesundheit": [
+      {
+        "title": "Behinderung",
+        "mapping": [
+        ]
+      },
+      {
+        "title": "Gesundheit / Gesundheitliche Probleme",
+        "mapping": [
+          "gesundheitsversorgung"
+        ]
+      },
+      {
+        "title": "Psychische Probleme / Traumatisierung",
+        "mapping": [
+        ]
+      },
+      {
+        "title": "Schwangerschaft / Geburt",
+        "mapping": [
+        ]
+      },
+      {
+        "title": "Suchtkrankheiten",
+        "mapping": [
+        ]
+      }
+    ],
+    "Persönliche Lebensumstände/Krisen": [
+      {
+        "title": "Fluchtschicksal",
+        "mapping": []
+      },
+      {
+        "title": "Freizeitmöglichkeiten",
+        "mapping": [
+        ]
+      },
+      {
+        "title": "Häusliche Gewalt",
+        "mapping": [
+        ]
+      },
+      {
+        "title": "Isolation / Vereinsamung",
+        "mapping": []
+      },
+      {
+        "title": "Kulturelle Identität",
+        "mapping": []
+      },
+      {
+        "title": "Religiöse Fragen",
+        "mapping": []
+      },
+      {
+        "title": "Sterbefälle",
+        "mapping": [
+        ]
+      },
+      {
+        "title": "Straffälligkeit / Ordnungswidrigkeiten",
+        "mapping": [
+        ]
+      }
+    ],
+    "Unbegleitete Minderjährige": [
+      {
+        "title": "Unbegleitete Minderjährige",
+        "mapping": [
+          "unbegleitete-minderjaehrige"
+        ]
+      }
+    ],
+    "Ungleichbehandlung und Ausgrenzung": [
+      {
+        "title": "Ausgrenzung",
+        "mapping": []
+      },
+      {
+        "title": "Diskriminierung (Allg. GleichbehandlungsG, Art. 18 AEUV)",
+        "mapping": [
+        ]
+      },
+      {
+        "title": "Generelle Anfeindungen",
+        "mapping": []
+      },
+      {
+        "title": "Individuelle Abwertung/Bedrohung",
+        "mapping": []
+      }
+    ],
+    "Unterstützungsleistungen": [
+      {
+        "title": "ALG I",
+        "mapping": [
+        ]
+      },
+      {
+        "title": "ALG II",
+        "mapping": [
+        ]
+      },
+      {
+        "title": "AsylbLG",
+        "mapping": [
+          "asylbewerberleistungsgesetz"
+        ]
+      },
+      {
+        "title": "Bildungs- und Teilhabepaket",
+        "mapping": [
+        ]
+      },
+      {
+        "title": "SGB IX",
+        "mapping": []
+      },
+      {
+        "title": "SGB XII",
+        "mapping": [
+        ]
+      },
+      {
+        "title": "SGBXI",
+        "mapping": [
+        ]
+      },
+      {
+        "title": "Soziale Unterstützungsleistungen",
+        "mapping": [
+          "sozialleistungen",
+          "kindergeld-und-elterngeld"
+        ]
+      }
+    ],
+    "Verbraucherfragen": [
+      {
+        "title": "Rundfunkgebühren",
+        "mapping": [
+        ]
+      },
+      {
+        "title": "Sonstige Verbraucherfragen",
+        "mapping": [
+        ]
+      }
+    ],
+    "Versicherungen": [
+      {
+        "title": "Kranken- / Pflegeversicherung",
+        "mapping": [
+        ]
+      },
+      {
+        "title": "Private Versicherungen",
+        "mapping": []
+      },
+      {
+        "title": "Rentenangelegenheiten",
+        "mapping": []
+      }
+    ]
+  }
+}

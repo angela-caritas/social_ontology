@@ -1,0 +1,591 @@
+{
+  "sub_topics": {
+    "Arbeit": [
+      {
+        "title": "Anerkennung von im Ausland erworbener Abschlüsse",
+        "mapping": [
+          "anerkennungsgesetz",
+          "anerkennung-auslaendischer-qualifikation"
+        ]
+      },
+      {
+        "title": "Arbeitsaufnahme",
+        "mapping": []
+      },
+      {
+        "title": "Arbeitserlaubnis",
+        "mapping": []
+      },
+      {
+        "title": "Arbeitslosigkeit / Arbeitssuche",
+        "mapping": []
+      },
+      {
+        "title": "Berufliche Fort-und Weiterbildung",
+        "mapping": [
+          "berufsbildungswerk"
+        ]
+      },
+      {
+        "title": "Probleme mit der Arbeitsstelle",
+        "mapping": []
+      },
+      {
+        "title": "Selbstständigkeit",
+        "mapping": []
+      }
+    ],
+    "Asylverfahren": [
+      {
+        "title": "Asylrecht / Asylverfahren",
+        "mapping": [
+          "sichere-herkunftsstaaten",
+          "genfer-fluechtlingskonvention",
+          "asylverfahren",
+          "asyl",
+          "asylbewerber",
+          "aufenthaltsgestattung"
+        ]
+      },
+      {
+        "title": "Dublin-Fälle",
+        "mapping": []
+      },
+      {
+        "title": "Kirchenasyl",
+        "mapping": []
+      },
+      {
+        "title": "Rücknahme und Widerrufsverfahren",
+        "mapping": []
+      },
+      {
+        "title": "Umverteilung",
+        "mapping": [
+          "anker-zentren"
+        ]
+      }
+    ],
+    "Aufenthaltsrecht": [
+      {
+        "title": "Aufenthaltsrecht / rechtl.Status",
+        "mapping": [
+          "aufenthaltserlaubnis",
+          "niederlassungserlaubnis",
+          "nationales-visum",
+          "visum",
+          "schengenvisum",
+          "einreise-und-aufenthalt"
+        ]
+      },
+      {
+        "title": "Duldung",
+        "mapping": [
+          "duldung"
+        ]
+      },
+      {
+        "title": "Familiennachzug /-zusammenführung",
+        "mapping": [
+          "familiennachzug"
+        ]
+      },
+      {
+        "title": "Härtefallkommission",
+        "mapping": []
+      },
+      {
+        "title": "Identitätsklärung",
+        "mapping": [
+          "altersbestimmung"
+        ]
+      }
+    ],
+    "Ausreise": [
+      {
+        "title": "Aus-,Weiter- und Rückwanderung",
+        "mapping": []
+      },
+      {
+        "title": "Ausreise freiwillig",
+        "mapping": []
+      },
+      {
+        "title": "Ausreise, unfreiwillig",
+        "mapping": [
+          "abschiebung",
+          "abschiebebeobachtung",
+          "abschiebehaft"
+        ]
+      }
+    ],
+    "Bildung": [
+      {
+        "title": "Ausbildung / Studium",
+        "mapping": [
+          "ausbildung"
+        ]
+      },
+      {
+        "title": "Deutschkenntnisse",
+        "mapping": []
+      },
+      {
+        "title": "Kindertageseinrichtungen",
+        "mapping": [
+          "kindertageseinrichtungen"
+        ]
+      },
+      {
+        "title": "Schule",
+        "mapping": []
+      }
+    ],
+    "Dokumente und Anträge": [
+      {
+        "title": "Ausfüllen von Anträgen",
+        "mapping": []
+      },
+      {
+        "title": "Beschaffung / Ausstellung von Dokumenten",
+        "mapping": []
+      }
+    ],
+    "Erwerb der dt. Staatsbürgerschaft": [
+      {
+        "title": "Dt. Staatsbürgerschaft durch Geburt",
+        "mapping": []
+      },
+      {
+        "title": "Einbürgerung (Aufgabe bisherige Staatsbürgerschaft)",
+        "mapping": []
+      },
+      {
+        "title": "Einbürgerung (Behaltung bisherige Staatsbürgerschaft)",
+        "mapping": []
+      }
+    ],
+    "Familie/Kinder/Partnerschaft": [
+      {
+        "title": "Ehe / Partnerschaft",
+        "mapping": [
+          "elternzeit"
+        ]
+      },
+      {
+        "title": "Erziehung / Generationskonflikte",
+        "mapping": [
+          "familienzentrum",
+          "hilfen-zur-erziehung",
+          "erlebnispaedagogik",
+          "kinder-und-jugendliche-mit-migrationshin",
+          "junge-volljaehrige",
+          "un-kinderrechtskonvention",
+          "erziehungsbeistand",
+          "erziehungsberatung-erziehungsberatungsst"
+        ]
+      },
+      {
+        "title": "Familienprobleme",
+        "mapping": [
+          "hot-haushaltsorganisationstraining",
+          "familienunterstuetzende-dienste",
+          "elternbildung",
+          "kindeswohl",
+          "kindeswohlgefaehrdung",
+          "jugendschutz",
+          "mediation",
+          "kinderschutz",
+          "familiengericht",
+          "familienrecht",
+          "muettergenesung-kuren-fuer-muetter-und-v"
+        ]
+      },
+      {
+        "title": "Trennung / Unterhalt / Sorgerecht",
+        "mapping": [
+          "begleiteter-umgang",
+          "unterhalt",
+          "trennungs-und-scheidungsberatung",
+          "unterhaltsvorschuss",
+          "beistandschaft"
+        ]
+      }
+    ],
+    "Gesundheit": [
+      {
+        "title": "Behinderung",
+        "mapping": [
+          "seelische-behinderung",
+          "kinder-und-jugendliche-mit-behinderung",
+          "betreuungsrecht",
+          "betreuungsverfuegung",
+          "hausnotruf",
+          "assistenz",
+          "assistenz-persoenliche",
+          "hilfsmittel",
+          "dyskalkulie-rechenschwaeche",
+          "grad-der-behinderung-gdb",
+          "assistenz-finanzierung",
+          "eingliederungshilfe",
+          "adhs",
+          "barrierefreiheit",
+          "lese-rechtschreibschwaeche-lrs",
+          "down-syndrom-trisomie",
+          "unterstuetzte-kommunikation",
+          "nachteilsausgleich",
+          "legasthenie-lese-und-rechtschreibstoerun",
+          "frueherkennung",
+          "un-behindertenrechtskonvention"
+        ]
+      },
+      {
+        "title": "Gesundheit / Gesundheitliche Probleme",
+        "mapping": [
+          "sozialpaediatrisches-zentrum",
+          "kinderkuren",
+          "familienpflege",
+          "parkinsonsche-krankheit",
+          "demenz",
+          "technische-unterstuetzung",
+          "kurzzeitpflege",
+          "verhinderungspflege",
+          "uebergangspflege",
+          "epilepsie"
+        ]
+      },
+      {
+        "title": "Psychische Probleme / Traumatisierung",
+        "mapping": [
+          "soziale-gruppenarbeit",
+          "depression-im-alter",
+          "ess-stoerungen",
+          "persoenlichkeitsstoerungen",
+          "borderline-persoenlichkeitsstoerung",
+          "psychose",
+          "depression",
+          "burnout",
+          "schizophrenie",
+          "psychiatrie"
+        ]
+      },
+      {
+        "title": "Schwangerschaft / Geburt",
+        "mapping": [
+          "vertrauliche-geburt-babyfenster-babyklap",
+          "schwangerschaftsberatung",
+          "fruehe-hilfen",
+          "praenataldiagnostik",
+          "fruehfoerderung",
+          "alkohol-embryopathie",
+          "schwangerschaftskonfliktberatung"
+        ]
+      },
+      {
+        "title": "Suchtkrankheiten",
+        "mapping": [
+          "fachklinik-rehaklinik",
+          "fixerstube-konsumraum",
+          "fuehrerscheinverlust",
+          "kontrollverlust",
+          "mpu-medizinisch-psychologische-untersuch",
+          "dosissteigerung",
+          "rehabilitation-sucht",
+          "harm-reduction--niedrigschwellige-hilfen",
+          "drogen",
+          "adaption",
+          "entgiftung",
+          "nachsorge",
+          "entwoehnungsbehandlung",
+          "mehrfachabhaengigkeit",
+          "substanzbezogene-abhaengigkeit",
+          "komorbiditaet",
+          "safer-use",
+          "substitution",
+          "btmg--betaeubungsmittelgesetz",
+          "verhaltensbezogene-abhaengigkeit",
+          "co-abhaengigkeit",
+          "abhaengigkeit",
+          "suchtmittel",
+          "sucht-definition"
+        ]
+      }
+    ],
+    "Persönliche Lebensumstände/Krisen": [
+      {
+        "title": "Fluchtschicksal",
+        "mapping": []
+      },
+      {
+        "title": "Freizeitmöglichkeiten",
+        "mapping": [
+          "freiwilligendienste"
+        ]
+      },
+      {
+        "title": "Häusliche Gewalt",
+        "mapping": [
+          "zwangsverheiratung"
+        ]
+      },
+      {
+        "title": "Isolation / Vereinsamung",
+        "mapping": []
+      },
+      {
+        "title": "Kulturelle Identität",
+        "mapping": []
+      },
+      {
+        "title": "Religiöse Fragen",
+        "mapping": []
+      },
+      {
+        "title": "Sterbefälle",
+        "mapping": [
+          "direkte-oder-aktive-sterbehilfe",
+          "indirekte-sterbehilfe",
+          "patientenverfuegung",
+          "passive-sterbehilfe",
+          "selbsttoetung-beihilfe",
+          "palliative-care",
+          "hospiz",
+          "hospizbewegung"
+        ]
+      },
+      {
+        "title": "Straffälligkeit / Ordnungswidrigkeiten",
+        "mapping": [
+          "untersuchungshaft",
+          "ueberbrueckungsgeld",
+          "vollzug--offen-oder-geschlossen",
+          "taschengeld-in-u-haft",
+          "arbeitsentgelt-in-haft",
+          "gefaengnisseelsorger",
+          "besuchsregelung",
+          "gemeinnuetzige-arbeit-statt-strafe",
+          "bewaehrung",
+          "elektronische-fussfessel",
+          "hafturlaub",
+          "arrest-dauer-freizeit",
+          "hausgeld",
+          "vorzeitige-entlassung",
+          "straftat",
+          "entlassungsvorbereitung",
+          "sicherungsverwahrung",
+          "erziehungsmassregeln",
+          "therapie-statt-strafe",
+          "resozialisierungsfonds",
+          "ausgang",
+          "fuehrungsaufsicht",
+          "lebenslaenglich",
+          "freizeitarrest",
+          "sozialtherapeutische-anstalt",
+          "massregelvollzug",
+          "menschenhandel",
+          "disziplinarmassnahmen"
+        ]
+      }
+    ],
+    "Unbegleitete Minderjährige": [
+      {
+        "title": "Unbegleitete Minderjährige",
+        "mapping": [
+          "clearingverfahren",
+          "vormundschaft",
+          "fluechtlinge-unbegleitet-minderjaehrig"
+        ]
+      }
+    ],
+    "Ungleichbehandlung und Ausgrenzung": [
+      {
+        "title": "Ausgrenzung",
+        "mapping": []
+      },
+      {
+        "title": "Diskriminierung (Allg. GleichbehandlungsG, Art. 18 AEUV)",
+        "mapping": [
+          "gender-mainstreaming-kinder-und-jugendhi",
+          "geschlechtsspezifische-arbeit",
+          "inklusion",
+          "quartiersmanagement",
+          "teilhabe",
+          "selbstbestimmung",
+          "staerkenperspektive"
+        ]
+      },
+      {
+        "title": "Generelle Anfeindungen",
+        "mapping": []
+      },
+      {
+        "title": "Individuelle Abwertung/Bedrohung",
+        "mapping": []
+      }
+    ],
+    "Unterstützungsleistungen": [
+      {
+        "title": "ALG I",
+        "mapping": [
+          "arbeitslosengeld-alg-i"
+        ]
+      },
+      {
+        "title": "ALG II",
+        "mapping": [
+          "arbeitslosengeld-ii-alg-ii-hartz-iv",
+          "sgb-ii-grundsicherung-fuer-arbeitsuchend",
+          "einmalige-leistungen",
+          "haertefallregelung-sozialrecht",
+          "mehrbedarf",
+          "darlehen-arbeitslosengeld-ii",
+          "sanktionen",
+          "freibetraege",
+          "ergaenzendes-arbeitslosengeld-ii-aufstoc",
+          "transferleistung"
+        ]
+      },
+      {
+        "title": "AsylbLG",
+        "mapping": [
+          "asylbewerberleistungsgesetz"
+        ]
+      },
+      {
+        "title": "Bildungs- und Teilhabepaket",
+        "mapping": [
+          "bildungs-und-teilhabepaket"
+        ]
+      },
+      {
+        "title": "SGB IX",
+        "mapping": []
+      },
+      {
+        "title": "SGB XII",
+        "mapping": [
+          "sgb-xii-sozialhilfe-grundsicherung-im-al",
+          "hilfe-zum-lebensunterhalt-sgb-xii"
+        ]
+      },
+      {
+        "title": "SGBXI",
+        "mapping": [
+          "pflegekassen",
+          "sgb-xi"
+        ]
+      },
+      {
+        "title": "Soziale Unterstützungsleistungen",
+        "mapping": [
+          "persoenliches-budget"
+        ]
+      }
+    ],
+    "Verbraucherfragen": [
+      {
+        "title": "Rundfunkgebühren",
+        "mapping": [
+          "rundfunkbeitrag-befreiung-ermaessigung"
+        ]
+      },
+      {
+        "title": "Sonstige Verbraucherfragen",
+        "mapping": []
+      }
+    ],
+    "Versicherungen": [
+      {
+        "title": "Kranken- / Pflegeversicherung",
+        "mapping": [
+          "pflegeversicherung",
+          "pflegestufen",
+          "pflegeberatung",
+          "beratungsbesuch",
+          "pflegekurse",
+          "pflegebeduerftigkeit",
+          "medizinischer-dienst-der-krankenversiche",
+          "leistungskomplexe",
+          "neues-begutachtungsassessment-pflegebegu",
+          "sgb-v",
+          "pflegeversicherung",
+          "geldleistung"
+        ]
+      },
+      {
+        "title": "Private Versicherungen",
+        "mapping": []
+      },
+      {
+        "title": "Rentenangelegenheiten",
+        "mapping": []
+      }
+    ],
+    "Wirtschaftliche Situation": [
+      {
+        "title": "Existenzsicherung / wirtschaftliche Sit.",
+        "mapping": [
+        ]
+      },
+      {
+        "title": "Verschuldung / Überschuldung",
+        "mapping": [
+          "prepaid-tarif",
+          "inkasso",
+          "dauerschuldverhaeltnis",
+          "vermoegensauskunft",
+          "mahnbescheid",
+          "dispo",
+          "gerichtsvollzieher",
+          "aussergerichtlicher-vergleich",
+          "glaeubiger",
+          "kontopfaendung",
+          "ratenkauf",
+          "schuldnerberatung",
+          "zwangsvollstreckung",
+          "privatinsolvenz-verbraucherinsolvenz",
+          "ueberschuldung",
+          "umschuldung",
+          "lohnpfaendung",
+          "budgetberatung"
+        ]
+      }
+    ],
+    "Wohnen": [
+      {
+        "title": "Barrierefreiheit",
+        "mapping": [
+          "wohnberatung",
+          "wohngemeinschaft",
+          "betreutes-wohnen-behinderte-menschen",
+          "wohn-und-betreuungsvertragsgesetz-wbvg",
+          "betreutes-wohnen-sucht",
+          "mehrgenerationenhaus",
+          "wohnumfeld-verbessernde-massnahmen"
+        ]
+      },
+      {
+        "title": "Finanzierung",
+        "mapping": [
+          "kosten-der-unterkunft-und-heizung",
+          "wohngeld"
+        ]
+      },
+      {
+        "title": "Mietschulden",
+        "mapping": []
+      },
+      {
+        "title": "Wohnungmängel",
+        "mapping": []
+      },
+      {
+        "title": "Wohnungssuche",
+        "mapping": [
+          "wohnformen",
+          "wohnberatungsstellen"
+        ]
+      }
+    ]
+  }
+}

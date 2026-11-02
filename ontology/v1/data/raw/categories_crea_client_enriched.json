@@ -1,0 +1,4721 @@
+[
+  {
+      "title": "Herkunftsland",
+      "dimension": "Lebenslage",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "ohne Eintragung",
+              "frauen": 1295,
+              "maenner": 1073,
+              "divers": 4,
+              "gesamt": 2387
+          },
+          {
+              "name": "Afghanistan",
+              "frauen": 1524,
+              "maenner": 3283,
+              "divers": 1,
+              "gesamt": 4811
+          },
+          {
+              "name": "Ägypten",
+              "frauen": 96,
+              "maenner": 172,
+              "divers": 0,
+              "gesamt": 268
+          },
+          {
+              "name": "Albanien",
+              "frauen": 226,
+              "maenner": 146,
+              "divers": 0,
+              "gesamt": 372
+          },
+          {
+              "name": "Algerien",
+              "frauen": 77,
+              "maenner": 138,
+              "divers": 0,
+              "gesamt": 215
+          },
+          {
+              "name": "Angola",
+              "frauen": 32,
+              "maenner": 22,
+              "divers": 0,
+              "gesamt": 54
+          },
+          {
+              "name": "Äquatorial-Guinea",
+              "frauen": 3,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 4
+          },
+          {
+              "name": "Argentinien",
+              "frauen": 20,
+              "maenner": 14,
+              "divers": 0,
+              "gesamt": 34
+          },
+          {
+              "name": "Armenien",
+              "frauen": 151,
+              "maenner": 122,
+              "divers": 1,
+              "gesamt": 274
+          },
+          {
+              "name": "Aserbaidschan",
+              "frauen": 131,
+              "maenner": 152,
+              "divers": 0,
+              "gesamt": 283
+          },
+          {
+              "name": "Äthiopien",
+              "frauen": 214,
+              "maenner": 311,
+              "divers": 0,
+              "gesamt": 526
+          },
+          {
+              "name": "Australien",
+              "frauen": 2,
+              "maenner": 2,
+              "divers": 0,
+              "gesamt": 4
+          },
+          {
+              "name": "Bahrain",
+              "frauen": 0,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Bangladesch",
+              "frauen": 23,
+              "maenner": 121,
+              "divers": 0,
+              "gesamt": 144
+          },
+          {
+              "name": "Belgien",
+              "frauen": 2,
+              "maenner": 2,
+              "divers": 0,
+              "gesamt": 4
+          },
+          {
+              "name": "Benin",
+              "frauen": 24,
+              "maenner": 42,
+              "divers": 0,
+              "gesamt": 66
+          },
+          {
+              "name": "Bolivien",
+              "frauen": 11,
+              "maenner": 3,
+              "divers": 0,
+              "gesamt": 14
+          },
+          {
+              "name": "Bosnien-Herzegowina",
+              "frauen": 227,
+              "maenner": 202,
+              "divers": 0,
+              "gesamt": 429
+          },
+          {
+              "name": "Botsuana",
+              "frauen": 1,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 2
+          },
+          {
+              "name": "Brasilien",
+              "frauen": 115,
+              "maenner": 38,
+              "divers": 0,
+              "gesamt": 153
+          },
+          {
+              "name": "Bulgarien",
+              "frauen": 1014,
+              "maenner": 751,
+              "divers": 0,
+              "gesamt": 1765
+          },
+          {
+              "name": "Burkina Faso",
+              "frauen": 22,
+              "maenner": 37,
+              "divers": 0,
+              "gesamt": 59
+          },
+          {
+              "name": "Burundi",
+              "frauen": 2,
+              "maenner": 6,
+              "divers": 0,
+              "gesamt": 8
+          },
+          {
+              "name": "Chile",
+              "frauen": 31,
+              "maenner": 27,
+              "divers": 0,
+              "gesamt": 58
+          },
+          {
+              "name": "China, Republik",
+              "frauen": 68,
+              "maenner": 36,
+              "divers": 0,
+              "gesamt": 104
+          },
+          {
+              "name": "Costa Rica",
+              "frauen": 3,
+              "maenner": 2,
+              "divers": 0,
+              "gesamt": 5
+          },
+          {
+              "name": "Côte d'Ivoire",
+              "frauen": 64,
+              "maenner": 60,
+              "divers": 0,
+              "gesamt": 124
+          },
+          {
+              "name": "Dänemark",
+              "frauen": 0,
+              "maenner": 4,
+              "divers": 0,
+              "gesamt": 4
+          },
+          {
+              "name": "Deutschland",
+              "frauen": 1070,
+              "maenner": 574,
+              "divers": 0,
+              "gesamt": 1644
+          },
+          {
+              "name": "Dominica",
+              "frauen": 3,
+              "maenner": 2,
+              "divers": 0,
+              "gesamt": 5
+          },
+          {
+              "name": "Dominikanische Republik",
+              "frauen": 56,
+              "maenner": 19,
+              "divers": 0,
+              "gesamt": 75
+          },
+          {
+              "name": "Dschibuti",
+              "frauen": 5,
+              "maenner": 3,
+              "divers": 0,
+              "gesamt": 8
+          },
+          {
+              "name": "Ecuador",
+              "frauen": 46,
+              "maenner": 22,
+              "divers": 0,
+              "gesamt": 68
+          },
+          {
+              "name": "El Salvador",
+              "frauen": 11,
+              "maenner": 9,
+              "divers": 0,
+              "gesamt": 20
+          },
+          {
+              "name": "Eritrea",
+              "frauen": 892,
+              "maenner": 1807,
+              "divers": 0,
+              "gesamt": 2700
+          },
+          {
+              "name": "Estland",
+              "frauen": 10,
+              "maenner": 6,
+              "divers": 0,
+              "gesamt": 16
+          },
+          {
+              "name": "Finnland",
+              "frauen": 3,
+              "maenner": 2,
+              "divers": 0,
+              "gesamt": 5
+          },
+          {
+              "name": "Frankreich",
+              "frauen": 21,
+              "maenner": 14,
+              "divers": 0,
+              "gesamt": 35
+          },
+          {
+              "name": "Gabun",
+              "frauen": 4,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 5
+          },
+          {
+              "name": "Gambia",
+              "frauen": 54,
+              "maenner": 409,
+              "divers": 0,
+              "gesamt": 464
+          },
+          {
+              "name": "Georgien",
+              "frauen": 138,
+              "maenner": 153,
+              "divers": 0,
+              "gesamt": 292
+          },
+          {
+              "name": "Ghana",
+              "frauen": 405,
+              "maenner": 214,
+              "divers": 0,
+              "gesamt": 619
+          },
+          {
+              "name": "Griechenland",
+              "frauen": 154,
+              "maenner": 144,
+              "divers": 0,
+              "gesamt": 298
+          },
+          {
+              "name": "Guatemala",
+              "frauen": 2,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 3
+          },
+          {
+              "name": "Guinea",
+              "frauen": 135,
+              "maenner": 255,
+              "divers": 0,
+              "gesamt": 390
+          },
+          {
+              "name": "Guinea-Bissau",
+              "frauen": 64,
+              "maenner": 132,
+              "divers": 0,
+              "gesamt": 196
+          },
+          {
+              "name": "Haiti",
+              "frauen": 9,
+              "maenner": 3,
+              "divers": 0,
+              "gesamt": 12
+          },
+          {
+              "name": "Honduras",
+              "frauen": 7,
+              "maenner": 5,
+              "divers": 0,
+              "gesamt": 12
+          },
+          {
+              "name": "Indien",
+              "frauen": 143,
+              "maenner": 233,
+              "divers": 0,
+              "gesamt": 376
+          },
+          {
+              "name": "Indonesien",
+              "frauen": 15,
+              "maenner": 7,
+              "divers": 0,
+              "gesamt": 22
+          },
+          {
+              "name": "Irak",
+              "frauen": 1279,
+              "maenner": 2730,
+              "divers": 0,
+              "gesamt": 4012
+          },
+          {
+              "name": "Iran, Islamische Republik",
+              "frauen": 747,
+              "maenner": 1114,
+              "divers": 2,
+              "gesamt": 1864
+          },
+          {
+              "name": "Irland",
+              "frauen": 2,
+              "maenner": 3,
+              "divers": 0,
+              "gesamt": 5
+          },
+          {
+              "name": "Island",
+              "frauen": 0,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Israel",
+              "frauen": 5,
+              "maenner": 10,
+              "divers": 0,
+              "gesamt": 15
+          },
+          {
+              "name": "Italien",
+              "frauen": 728,
+              "maenner": 791,
+              "divers": 0,
+              "gesamt": 1519
+          },
+          {
+              "name": "Jamaika",
+              "frauen": 1,
+              "maenner": 5,
+              "divers": 1,
+              "gesamt": 7
+          },
+          {
+              "name": "Japan",
+              "frauen": 5,
+              "maenner": 4,
+              "divers": 0,
+              "gesamt": 9
+          },
+          {
+              "name": "Jemen",
+              "frauen": 29,
+              "maenner": 55,
+              "divers": 0,
+              "gesamt": 84
+          },
+          {
+              "name": "Jordanien",
+              "frauen": 27,
+              "maenner": 14,
+              "divers": 0,
+              "gesamt": 41
+          },
+          {
+              "name": "Jugoslawien (Serb./Montenegro)",
+              "frauen": 23,
+              "maenner": 20,
+              "divers": 0,
+              "gesamt": 43
+          },
+          {
+              "name": "Kambodscha",
+              "frauen": 2,
+              "maenner": 3,
+              "divers": 0,
+              "gesamt": 5
+          },
+          {
+              "name": "Kamerun",
+              "frauen": 183,
+              "maenner": 128,
+              "divers": 0,
+              "gesamt": 311
+          },
+          {
+              "name": "Kanada",
+              "frauen": 6,
+              "maenner": 0,
+              "divers": 0,
+              "gesamt": 6
+          },
+          {
+              "name": "Kap Verde",
+              "frauen": 3,
+              "maenner": 3,
+              "divers": 0,
+              "gesamt": 6
+          },
+          {
+              "name": "Kasachstan",
+              "frauen": 491,
+              "maenner": 240,
+              "divers": 0,
+              "gesamt": 731
+          },
+          {
+              "name": "Kenia",
+              "frauen": 69,
+              "maenner": 20,
+              "divers": 0,
+              "gesamt": 89
+          },
+          {
+              "name": "Kirgisistan",
+              "frauen": 50,
+              "maenner": 22,
+              "divers": 0,
+              "gesamt": 72
+          },
+          {
+              "name": "Kolumbien",
+              "frauen": 109,
+              "maenner": 66,
+              "divers": 0,
+              "gesamt": 175
+          },
+          {
+              "name": "Kongo (Zaire)",
+              "frauen": 1,
+              "maenner": 0,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Kongo, Demokratische Republik",
+              "frauen": 69,
+              "maenner": 70,
+              "divers": 0,
+              "gesamt": 139
+          },
+          {
+              "name": "Kongo, Republik",
+              "frauen": 11,
+              "maenner": 6,
+              "divers": 0,
+              "gesamt": 17
+          },
+          {
+              "name": "Korea, Demokratische Republik",
+              "frauen": 5,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 6
+          },
+          {
+              "name": "Korea, Republik (Südkorea)",
+              "frauen": 7,
+              "maenner": 2,
+              "divers": 0,
+              "gesamt": 9
+          },
+          {
+              "name": "Kosovo",
+              "frauen": 314,
+              "maenner": 292,
+              "divers": 0,
+              "gesamt": 606
+          },
+          {
+              "name": "Kroatien",
+              "frauen": 309,
+              "maenner": 196,
+              "divers": 0,
+              "gesamt": 505
+          },
+          {
+              "name": "Kuba",
+              "frauen": 26,
+              "maenner": 24,
+              "divers": 0,
+              "gesamt": 50
+          },
+          {
+              "name": "Kuwait",
+              "frauen": 4,
+              "maenner": 4,
+              "divers": 0,
+              "gesamt": 8
+          },
+          {
+              "name": "Laos, Demokratische Volksrepub",
+              "frauen": 1,
+              "maenner": 0,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Lettland",
+              "frauen": 59,
+              "maenner": 26,
+              "divers": 0,
+              "gesamt": 85
+          },
+          {
+              "name": "Libanon",
+              "frauen": 136,
+              "maenner": 184,
+              "divers": 0,
+              "gesamt": 320
+          },
+          {
+              "name": "Liberia",
+              "frauen": 8,
+              "maenner": 9,
+              "divers": 0,
+              "gesamt": 17
+          },
+          {
+              "name": "Libyen",
+              "frauen": 31,
+              "maenner": 113,
+              "divers": 0,
+              "gesamt": 144
+          },
+          {
+              "name": "Litauen",
+              "frauen": 78,
+              "maenner": 27,
+              "divers": 1,
+              "gesamt": 106
+          },
+          {
+              "name": "Madagaskar",
+              "frauen": 10,
+              "maenner": 3,
+              "divers": 0,
+              "gesamt": 13
+          },
+          {
+              "name": "Malawi",
+              "frauen": 1,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 2
+          },
+          {
+              "name": "Malaysia",
+              "frauen": 2,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 3
+          },
+          {
+              "name": "Malediven",
+              "frauen": 1,
+              "maenner": 0,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Mali",
+              "frauen": 25,
+              "maenner": 107,
+              "divers": 0,
+              "gesamt": 132
+          },
+          {
+              "name": "Malta",
+              "frauen": 2,
+              "maenner": 0,
+              "divers": 0,
+              "gesamt": 2
+          },
+          {
+              "name": "Marokko",
+              "frauen": 389,
+              "maenner": 306,
+              "divers": 0,
+              "gesamt": 695
+          },
+          {
+              "name": "Mauretanien",
+              "frauen": 2,
+              "maenner": 6,
+              "divers": 0,
+              "gesamt": 8
+          },
+          {
+              "name": "Mauritius",
+              "frauen": 1,
+              "maenner": 2,
+              "divers": 0,
+              "gesamt": 3
+          },
+          {
+              "name": "Mazedonien",
+              "frauen": 205,
+              "maenner": 194,
+              "divers": 0,
+              "gesamt": 399
+          },
+          {
+              "name": "Mexiko",
+              "frauen": 40,
+              "maenner": 23,
+              "divers": 0,
+              "gesamt": 63
+          },
+          {
+              "name": "Mikronesien, Förderisierte Sta",
+              "frauen": 0,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Moldau, Republik",
+              "frauen": 283,
+              "maenner": 167,
+              "divers": 0,
+              "gesamt": 450
+          },
+          {
+              "name": "Mongolei",
+              "frauen": 17,
+              "maenner": 7,
+              "divers": 0,
+              "gesamt": 24
+          },
+          {
+              "name": "Montenegro",
+              "frauen": 26,
+              "maenner": 20,
+              "divers": 0,
+              "gesamt": 46
+          },
+          {
+              "name": "Mosambik",
+              "frauen": 8,
+              "maenner": 5,
+              "divers": 0,
+              "gesamt": 13
+          },
+          {
+              "name": "Myanmar",
+              "frauen": 17,
+              "maenner": 26,
+              "divers": 0,
+              "gesamt": 43
+          },
+          {
+              "name": "Namibia",
+              "frauen": 6,
+              "maenner": 5,
+              "divers": 0,
+              "gesamt": 11
+          },
+          {
+              "name": "Nepal",
+              "frauen": 10,
+              "maenner": 10,
+              "divers": 0,
+              "gesamt": 20
+          },
+          {
+              "name": "Neuseeland",
+              "frauen": 1,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 2
+          },
+          {
+              "name": "Nicaragua",
+              "frauen": 6,
+              "maenner": 5,
+              "divers": 0,
+              "gesamt": 11
+          },
+          {
+              "name": "Niederlande",
+              "frauen": 20,
+              "maenner": 13,
+              "divers": 0,
+              "gesamt": 33
+          },
+          {
+              "name": "Niger",
+              "frauen": 10,
+              "maenner": 44,
+              "divers": 0,
+              "gesamt": 54
+          },
+          {
+              "name": "Nigeria",
+              "frauen": 1167,
+              "maenner": 929,
+              "divers": 3,
+              "gesamt": 2102
+          },
+          {
+              "name": "Norwegen",
+              "frauen": 3,
+              "maenner": 5,
+              "divers": 1,
+              "gesamt": 9
+          },
+          {
+              "name": "Oman",
+              "frauen": 1,
+              "maenner": 0,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Österreich",
+              "frauen": 11,
+              "maenner": 8,
+              "divers": 0,
+              "gesamt": 19
+          },
+          {
+              "name": "Pakistan",
+              "frauen": 154,
+              "maenner": 621,
+              "divers": 0,
+              "gesamt": 775
+          },
+          {
+              "name": "Palästina",
+              "frauen": 49,
+              "maenner": 121,
+              "divers": 0,
+              "gesamt": 170
+          },
+          {
+              "name": "Panama",
+              "frauen": 1,
+              "maenner": 0,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Paraguay",
+              "frauen": 10,
+              "maenner": 4,
+              "divers": 0,
+              "gesamt": 14
+          },
+          {
+              "name": "Peru",
+              "frauen": 62,
+              "maenner": 35,
+              "divers": 0,
+              "gesamt": 97
+          },
+          {
+              "name": "Philippinen",
+              "frauen": 40,
+              "maenner": 5,
+              "divers": 0,
+              "gesamt": 45
+          },
+          {
+              "name": "Polen",
+              "frauen": 931,
+              "maenner": 612,
+              "divers": 1,
+              "gesamt": 1544
+          },
+          {
+              "name": "Portugal",
+              "frauen": 160,
+              "maenner": 110,
+              "divers": 0,
+              "gesamt": 270
+          },
+          {
+              "name": "Ruanda",
+              "frauen": 4,
+              "maenner": 12,
+              "divers": 0,
+              "gesamt": 16
+          },
+          {
+              "name": "Rumänien",
+              "frauen": 796,
+              "maenner": 499,
+              "divers": 0,
+              "gesamt": 1295
+          },
+          {
+              "name": "Russische Föderation",
+              "frauen": 1188,
+              "maenner": 685,
+              "divers": 0,
+              "gesamt": 1874
+          },
+          {
+              "name": "Salamonen",
+              "frauen": 0,
+              "maenner": 2,
+              "divers": 0,
+              "gesamt": 2
+          },
+          {
+              "name": "Sambia",
+              "frauen": 3,
+              "maenner": 3,
+              "divers": 0,
+              "gesamt": 6
+          },
+          {
+              "name": "Saudi-Arabien",
+              "frauen": 15,
+              "maenner": 10,
+              "divers": 0,
+              "gesamt": 25
+          },
+          {
+              "name": "Schweden",
+              "frauen": 3,
+              "maenner": 10,
+              "divers": 0,
+              "gesamt": 13
+          },
+          {
+              "name": "Schweiz",
+              "frauen": 6,
+              "maenner": 5,
+              "divers": 0,
+              "gesamt": 11
+          },
+          {
+              "name": "Senegal",
+              "frauen": 25,
+              "maenner": 76,
+              "divers": 0,
+              "gesamt": 101
+          },
+          {
+              "name": "Serbien",
+              "frauen": 417,
+              "maenner": 269,
+              "divers": 0,
+              "gesamt": 686
+          },
+          {
+              "name": "Sierra Leone",
+              "frauen": 49,
+              "maenner": 144,
+              "divers": 0,
+              "gesamt": 194
+          },
+          {
+              "name": "Simbabwe",
+              "frauen": 8,
+              "maenner": 5,
+              "divers": 0,
+              "gesamt": 13
+          },
+          {
+              "name": "Singapur",
+              "frauen": 2,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 3
+          },
+          {
+              "name": "Slowakei",
+              "frauen": 45,
+              "maenner": 43,
+              "divers": 0,
+              "gesamt": 88
+          },
+          {
+              "name": "Slowenien",
+              "frauen": 15,
+              "maenner": 11,
+              "divers": 1,
+              "gesamt": 27
+          },
+          {
+              "name": "Somalia",
+              "frauen": 776,
+              "maenner": 977,
+              "divers": 0,
+              "gesamt": 1754
+          },
+          {
+              "name": "Sonstige - Afrika",
+              "frauen": 2,
+              "maenner": 8,
+              "divers": 0,
+              "gesamt": 10
+          },
+          {
+              "name": "Sonstige - Amerika",
+              "frauen": 1,
+              "maenner": 0,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Sonstige - Asien",
+              "frauen": 8,
+              "maenner": 10,
+              "divers": 0,
+              "gesamt": 18
+          },
+          {
+              "name": "Sonstige - Europa",
+              "frauen": 3,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 4
+          },
+          {
+              "name": "Sonstige - Heimatloser Ausländ",
+              "frauen": 0,
+              "maenner": 3,
+              "divers": 0,
+              "gesamt": 3
+          },
+          {
+              "name": "Sonstige - Ohne Angabe",
+              "frauen": 12,
+              "maenner": 38,
+              "divers": 0,
+              "gesamt": 50
+          },
+          {
+              "name": "Sonstige - Staatenlos",
+              "frauen": 10,
+              "maenner": 23,
+              "divers": 0,
+              "gesamt": 33
+          },
+          {
+              "name": "Sonstige -Staatsangehörigkeit",
+              "frauen": 2,
+              "maenner": 8,
+              "divers": 0,
+              "gesamt": 10
+          },
+          {
+              "name": "Sowjetunion",
+              "frauen": 6,
+              "maenner": 6,
+              "divers": 0,
+              "gesamt": 12
+          },
+          {
+              "name": "Spanien",
+              "frauen": 259,
+              "maenner": 193,
+              "divers": 0,
+              "gesamt": 452
+          },
+          {
+              "name": "Sri Lanka",
+              "frauen": 61,
+              "maenner": 118,
+              "divers": 0,
+              "gesamt": 179
+          },
+          {
+              "name": "Südafrika",
+              "frauen": 13,
+              "maenner": 11,
+              "divers": 0,
+              "gesamt": 24
+          },
+          {
+              "name": "Sudan",
+              "frauen": 43,
+              "maenner": 123,
+              "divers": 0,
+              "gesamt": 166
+          },
+          {
+              "name": "Syrien, Arabische Republik",
+              "frauen": 4378,
+              "maenner": 10268,
+              "divers": 4,
+              "gesamt": 14651
+          },
+          {
+              "name": "Tadschikistan",
+              "frauen": 40,
+              "maenner": 69,
+              "divers": 0,
+              "gesamt": 109
+          },
+          {
+              "name": "Taiwan",
+              "frauen": 1,
+              "maenner": 0,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Tansania, Vereinigte Republik",
+              "frauen": 11,
+              "maenner": 15,
+              "divers": 0,
+              "gesamt": 26
+          },
+          {
+              "name": "Thailand",
+              "frauen": 49,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 50
+          },
+          {
+              "name": "Togo",
+              "frauen": 65,
+              "maenner": 71,
+              "divers": 0,
+              "gesamt": 136
+          },
+          {
+              "name": "Trinidad und Tobago",
+              "frauen": 2,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 3
+          },
+          {
+              "name": "Tschad",
+              "frauen": 2,
+              "maenner": 6,
+              "divers": 0,
+              "gesamt": 8
+          },
+          {
+              "name": "Tschechien",
+              "frauen": 46,
+              "maenner": 24,
+              "divers": 0,
+              "gesamt": 70
+          },
+          {
+              "name": "Tunesien",
+              "frauen": 85,
+              "maenner": 110,
+              "divers": 0,
+              "gesamt": 195
+          },
+          {
+              "name": "Türkei",
+              "frauen": 887,
+              "maenner": 1236,
+              "divers": 0,
+              "gesamt": 2123
+          },
+          {
+              "name": "Turkmenistan",
+              "frauen": 11,
+              "maenner": 6,
+              "divers": 0,
+              "gesamt": 17
+          },
+          {
+              "name": "Uganda",
+              "frauen": 29,
+              "maenner": 29,
+              "divers": 0,
+              "gesamt": 58
+          },
+          {
+              "name": "Ukraine",
+              "frauen": 411,
+              "maenner": 214,
+              "divers": 0,
+              "gesamt": 625
+          },
+          {
+              "name": "Ungarn",
+              "frauen": 79,
+              "maenner": 52,
+              "divers": 0,
+              "gesamt": 131
+          },
+          {
+              "name": "Uruguay",
+              "frauen": 5,
+              "maenner": 5,
+              "divers": 0,
+              "gesamt": 10
+          },
+          {
+              "name": "Usbekistan",
+              "frauen": 20,
+              "maenner": 9,
+              "divers": 0,
+              "gesamt": 29
+          },
+          {
+              "name": "Venezuela",
+              "frauen": 91,
+              "maenner": 67,
+              "divers": 0,
+              "gesamt": 158
+          },
+          {
+              "name": "Vereinigte Arabische Emriate",
+              "frauen": 3,
+              "maenner": 3,
+              "divers": 0,
+              "gesamt": 6
+          },
+          {
+              "name": "Vereinigte Staaten",
+              "frauen": 15,
+              "maenner": 31,
+              "divers": 0,
+              "gesamt": 46
+          },
+          {
+              "name": "Vereinigtes Königreich",
+              "frauen": 24,
+              "maenner": 33,
+              "divers": 0,
+              "gesamt": 57
+          },
+          {
+              "name": "Vietnam",
+              "frauen": 113,
+              "maenner": 47,
+              "divers": 0,
+              "gesamt": 161
+          },
+          {
+              "name": "Weißrussland (Belarus)",
+              "frauen": 65,
+              "maenner": 18,
+              "divers": 0,
+              "gesamt": 83
+          },
+          {
+              "name": "Zentralafrikanische Republik",
+              "frauen": 1,
+              "maenner": 9,
+              "divers": 0,
+              "gesamt": 10
+          },
+          {
+              "name": "Zypern",
+              "frauen": 1,
+              "maenner": 3,
+              "divers": 0,
+              "gesamt": 4
+          }
+      ]
+  },
+  {
+      "title": "Staatsangehörigkeit",
+      "dimension": "Lebenslage",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Afghanistan",
+              "frauen": 1495,
+              "maenner": 3223,
+              "divers": 1,
+              "gesamt": 4721
+          },
+          {
+              "name": "Ägypten",
+              "frauen": 93,
+              "maenner": 157,
+              "divers": 0,
+              "gesamt": 250
+          },
+          {
+              "name": "Albanien",
+              "frauen": 217,
+              "maenner": 137,
+              "divers": 0,
+              "gesamt": 354
+          },
+          {
+              "name": "Algerien",
+              "frauen": 73,
+              "maenner": 123,
+              "divers": 0,
+              "gesamt": 196
+          },
+          {
+              "name": "Angola",
+              "frauen": 25,
+              "maenner": 18,
+              "divers": 0,
+              "gesamt": 43
+          },
+          {
+              "name": "Äquatorial-Guinea",
+              "frauen": 2,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 3
+          },
+          {
+              "name": "Argentinien",
+              "frauen": 22,
+              "maenner": 13,
+              "divers": 0,
+              "gesamt": 35
+          },
+          {
+              "name": "Armenien",
+              "frauen": 136,
+              "maenner": 115,
+              "divers": 1,
+              "gesamt": 252
+          },
+          {
+              "name": "Aserbaidschan",
+              "frauen": 123,
+              "maenner": 142,
+              "divers": 0,
+              "gesamt": 265
+          },
+          {
+              "name": "Äthiopien",
+              "frauen": 194,
+              "maenner": 297,
+              "divers": 0,
+              "gesamt": 492
+          },
+          {
+              "name": "Australien",
+              "frauen": 4,
+              "maenner": 2,
+              "divers": 0,
+              "gesamt": 6
+          },
+          {
+              "name": "Bahrain",
+              "frauen": 0,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Bangladesch",
+              "frauen": 21,
+              "maenner": 112,
+              "divers": 0,
+              "gesamt": 133
+          },
+          {
+              "name": "Belgien",
+              "frauen": 4,
+              "maenner": 4,
+              "divers": 0,
+              "gesamt": 8
+          },
+          {
+              "name": "Benin",
+              "frauen": 21,
+              "maenner": 38,
+              "divers": 0,
+              "gesamt": 59
+          },
+          {
+              "name": "Bolivien",
+              "frauen": 12,
+              "maenner": 2,
+              "divers": 0,
+              "gesamt": 14
+          },
+          {
+              "name": "Bosnien-Herzegowina",
+              "frauen": 138,
+              "maenner": 115,
+              "divers": 0,
+              "gesamt": 253
+          },
+          {
+              "name": "Botsuana",
+              "frauen": 0,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Brasilien",
+              "frauen": 102,
+              "maenner": 30,
+              "divers": 0,
+              "gesamt": 132
+          },
+          {
+              "name": "Brit. abhg. Geb. in Afrika",
+              "frauen": 0,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Brit. abhg. Geb. in Europa",
+              "frauen": 2,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 3
+          },
+          {
+              "name": "Bulgarien",
+              "frauen": 1022,
+              "maenner": 799,
+              "divers": 0,
+              "gesamt": 1821
+          },
+          {
+              "name": "Burkina Faso",
+              "frauen": 21,
+              "maenner": 38,
+              "divers": 0,
+              "gesamt": 59
+          },
+          {
+              "name": "Burundi",
+              "frauen": 2,
+              "maenner": 4,
+              "divers": 0,
+              "gesamt": 6
+          },
+          {
+              "name": "Chile",
+              "frauen": 29,
+              "maenner": 24,
+              "divers": 0,
+              "gesamt": 53
+          },
+          {
+              "name": "China, Republik",
+              "frauen": 70,
+              "maenner": 30,
+              "divers": 0,
+              "gesamt": 100
+          },
+          {
+              "name": "Cookinseln",
+              "frauen": 0,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Costa Rica",
+              "frauen": 2,
+              "maenner": 2,
+              "divers": 0,
+              "gesamt": 4
+          },
+          {
+              "name": "Côte d'Ivoire",
+              "frauen": 55,
+              "maenner": 60,
+              "divers": 0,
+              "gesamt": 115
+          },
+          {
+              "name": "Dänemark",
+              "frauen": 0,
+              "maenner": 4,
+              "divers": 0,
+              "gesamt": 4
+          },
+          {
+              "name": "Deutschland",
+              "frauen": 2348,
+              "maenner": 1499,
+              "divers": 2,
+              "gesamt": 3849
+          },
+          {
+              "name": "Dominica",
+              "frauen": 2,
+              "maenner": 2,
+              "divers": 0,
+              "gesamt": 4
+          },
+          {
+              "name": "Dominikanische Republik",
+              "frauen": 46,
+              "maenner": 15,
+              "divers": 0,
+              "gesamt": 61
+          },
+          {
+              "name": "Dschibuti",
+              "frauen": 5,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 6
+          },
+          {
+              "name": "Ecuador",
+              "frauen": 39,
+              "maenner": 13,
+              "divers": 0,
+              "gesamt": 52
+          },
+          {
+              "name": "El Salvador",
+              "frauen": 11,
+              "maenner": 10,
+              "divers": 0,
+              "gesamt": 21
+          },
+          {
+              "name": "Eritrea",
+              "frauen": 851,
+              "maenner": 1756,
+              "divers": 0,
+              "gesamt": 2608
+          },
+          {
+              "name": "Estland",
+              "frauen": 8,
+              "maenner": 5,
+              "divers": 0,
+              "gesamt": 13
+          },
+          {
+              "name": "Fidschi",
+              "frauen": 0,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Finnland",
+              "frauen": 3,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 4
+          },
+          {
+              "name": "Frankreich",
+              "frauen": 24,
+              "maenner": 20,
+              "divers": 0,
+              "gesamt": 44
+          },
+          {
+              "name": "Gabun",
+              "frauen": 4,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 5
+          },
+          {
+              "name": "Gambia",
+              "frauen": 49,
+              "maenner": 400,
+              "divers": 0,
+              "gesamt": 450
+          },
+          {
+              "name": "Georgien",
+              "frauen": 133,
+              "maenner": 153,
+              "divers": 0,
+              "gesamt": 287
+          },
+          {
+              "name": "Ghana",
+              "frauen": 400,
+              "maenner": 190,
+              "divers": 0,
+              "gesamt": 590
+          },
+          {
+              "name": "Grenada",
+              "frauen": 0,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Griechenland",
+              "frauen": 154,
+              "maenner": 137,
+              "divers": 0,
+              "gesamt": 291
+          },
+          {
+              "name": "Guatemala",
+              "frauen": 1,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 2
+          },
+          {
+              "name": "Guinea",
+              "frauen": 131,
+              "maenner": 242,
+              "divers": 0,
+              "gesamt": 373
+          },
+          {
+              "name": "Guinea-Bissau",
+              "frauen": 41,
+              "maenner": 85,
+              "divers": 0,
+              "gesamt": 126
+          },
+          {
+              "name": "Guyana",
+              "frauen": 1,
+              "maenner": 0,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Haiti",
+              "frauen": 7,
+              "maenner": 3,
+              "divers": 0,
+              "gesamt": 10
+          },
+          {
+              "name": "Honduras",
+              "frauen": 5,
+              "maenner": 5,
+              "divers": 0,
+              "gesamt": 10
+          },
+          {
+              "name": "Indien",
+              "frauen": 129,
+              "maenner": 209,
+              "divers": 0,
+              "gesamt": 338
+          },
+          {
+              "name": "Indonesien",
+              "frauen": 13,
+              "maenner": 7,
+              "divers": 0,
+              "gesamt": 20
+          },
+          {
+              "name": "Irak",
+              "frauen": 1244,
+              "maenner": 2647,
+              "divers": 0,
+              "gesamt": 3892
+          },
+          {
+              "name": "Iran, Islamische Republik",
+              "frauen": 689,
+              "maenner": 1035,
+              "divers": 2,
+              "gesamt": 1727
+          },
+          {
+              "name": "Irland",
+              "frauen": 1,
+              "maenner": 2,
+              "divers": 0,
+              "gesamt": 3
+          },
+          {
+              "name": "Island",
+              "frauen": 0,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Israel",
+              "frauen": 4,
+              "maenner": 9,
+              "divers": 0,
+              "gesamt": 13
+          },
+          {
+              "name": "Italien",
+              "frauen": 732,
+              "maenner": 844,
+              "divers": 0,
+              "gesamt": 1576
+          },
+          {
+              "name": "Jamaika",
+              "frauen": 1,
+              "maenner": 5,
+              "divers": 1,
+              "gesamt": 7
+          },
+          {
+              "name": "Japan",
+              "frauen": 5,
+              "maenner": 4,
+              "divers": 0,
+              "gesamt": 9
+          },
+          {
+              "name": "Jemen",
+              "frauen": 26,
+              "maenner": 53,
+              "divers": 0,
+              "gesamt": 79
+          },
+          {
+              "name": "Jordanien",
+              "frauen": 27,
+              "maenner": 14,
+              "divers": 0,
+              "gesamt": 41
+          },
+          {
+              "name": "Jugoslawien (Serb./Montenegro)",
+              "frauen": 16,
+              "maenner": 16,
+              "divers": 0,
+              "gesamt": 32
+          },
+          {
+              "name": "Kambodscha",
+              "frauen": 3,
+              "maenner": 2,
+              "divers": 0,
+              "gesamt": 5
+          },
+          {
+              "name": "Kamerun",
+              "frauen": 178,
+              "maenner": 124,
+              "divers": 0,
+              "gesamt": 302
+          },
+          {
+              "name": "Kanada",
+              "frauen": 10,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 11
+          },
+          {
+              "name": "Kap Verde",
+              "frauen": 1,
+              "maenner": 0,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Kasachstan",
+              "frauen": 160,
+              "maenner": 100,
+              "divers": 0,
+              "gesamt": 260
+          },
+          {
+              "name": "Kenia",
+              "frauen": 66,
+              "maenner": 17,
+              "divers": 0,
+              "gesamt": 83
+          },
+          {
+              "name": "Kirgisistan",
+              "frauen": 30,
+              "maenner": 16,
+              "divers": 0,
+              "gesamt": 46
+          },
+          {
+              "name": "Kolumbien",
+              "frauen": 100,
+              "maenner": 57,
+              "divers": 0,
+              "gesamt": 157
+          },
+          {
+              "name": "Kongo (Zaire)",
+              "frauen": 1,
+              "maenner": 0,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Kongo, Demokratische Republik",
+              "frauen": 65,
+              "maenner": 63,
+              "divers": 0,
+              "gesamt": 128
+          },
+          {
+              "name": "Kongo, Republik",
+              "frauen": 6,
+              "maenner": 5,
+              "divers": 0,
+              "gesamt": 11
+          },
+          {
+              "name": "Korea, Demokratische Republik",
+              "frauen": 5,
+              "maenner": 2,
+              "divers": 0,
+              "gesamt": 7
+          },
+          {
+              "name": "Korea, Republik (Südkorea)",
+              "frauen": 7,
+              "maenner": 2,
+              "divers": 0,
+              "gesamt": 9
+          },
+          {
+              "name": "Kosovo",
+              "frauen": 283,
+              "maenner": 244,
+              "divers": 0,
+              "gesamt": 527
+          },
+          {
+              "name": "Kroatien",
+              "frauen": 409,
+              "maenner": 270,
+              "divers": 0,
+              "gesamt": 679
+          },
+          {
+              "name": "Kuba",
+              "frauen": 22,
+              "maenner": 23,
+              "divers": 0,
+              "gesamt": 45
+          },
+          {
+              "name": "Kuwait",
+              "frauen": 2,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 3
+          },
+          {
+              "name": "Laos, Demokratische Volksrepub",
+              "frauen": 1,
+              "maenner": 0,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Lettland",
+              "frauen": 57,
+              "maenner": 26,
+              "divers": 0,
+              "gesamt": 83
+          },
+          {
+              "name": "Libanon",
+              "frauen": 109,
+              "maenner": 142,
+              "divers": 0,
+              "gesamt": 251
+          },
+          {
+              "name": "Liberia",
+              "frauen": 8,
+              "maenner": 9,
+              "divers": 0,
+              "gesamt": 17
+          },
+          {
+              "name": "Libyen",
+              "frauen": 29,
+              "maenner": 107,
+              "divers": 0,
+              "gesamt": 136
+          },
+          {
+              "name": "Litauen",
+              "frauen": 78,
+              "maenner": 27,
+              "divers": 1,
+              "gesamt": 106
+          },
+          {
+              "name": "Madagaskar",
+              "frauen": 10,
+              "maenner": 3,
+              "divers": 0,
+              "gesamt": 13
+          },
+          {
+              "name": "Malawi",
+              "frauen": 1,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 2
+          },
+          {
+              "name": "Malaysia",
+              "frauen": 3,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 4
+          },
+          {
+              "name": "Malediven",
+              "frauen": 1,
+              "maenner": 0,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Mali",
+              "frauen": 22,
+              "maenner": 105,
+              "divers": 0,
+              "gesamt": 127
+          },
+          {
+              "name": "Marokko",
+              "frauen": 320,
+              "maenner": 230,
+              "divers": 0,
+              "gesamt": 550
+          },
+          {
+              "name": "Mauretanien",
+              "frauen": 2,
+              "maenner": 6,
+              "divers": 0,
+              "gesamt": 8
+          },
+          {
+              "name": "Mauritius",
+              "frauen": 1,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 2
+          },
+          {
+              "name": "Mazedonien",
+              "frauen": 191,
+              "maenner": 160,
+              "divers": 0,
+              "gesamt": 351
+          },
+          {
+              "name": "Mexiko",
+              "frauen": 37,
+              "maenner": 23,
+              "divers": 0,
+              "gesamt": 60
+          },
+          {
+              "name": "Mikronesien, Förderisierte Sta",
+              "frauen": 0,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Moldau, Republik",
+              "frauen": 182,
+              "maenner": 98,
+              "divers": 0,
+              "gesamt": 280
+          },
+          {
+              "name": "Mongolei",
+              "frauen": 17,
+              "maenner": 6,
+              "divers": 0,
+              "gesamt": 23
+          },
+          {
+              "name": "Montenegro",
+              "frauen": 23,
+              "maenner": 22,
+              "divers": 0,
+              "gesamt": 45
+          },
+          {
+              "name": "Mosambik",
+              "frauen": 4,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 5
+          },
+          {
+              "name": "Myanmar",
+              "frauen": 17,
+              "maenner": 27,
+              "divers": 0,
+              "gesamt": 44
+          },
+          {
+              "name": "Namibia",
+              "frauen": 6,
+              "maenner": 5,
+              "divers": 0,
+              "gesamt": 11
+          },
+          {
+              "name": "Nepal",
+              "frauen": 11,
+              "maenner": 11,
+              "divers": 0,
+              "gesamt": 22
+          },
+          {
+              "name": "Neuseeland",
+              "frauen": 1,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 2
+          },
+          {
+              "name": "Nicaragua",
+              "frauen": 5,
+              "maenner": 6,
+              "divers": 0,
+              "gesamt": 11
+          },
+          {
+              "name": "Niederlande",
+              "frauen": 30,
+              "maenner": 39,
+              "divers": 0,
+              "gesamt": 69
+          },
+          {
+              "name": "Niger",
+              "frauen": 12,
+              "maenner": 44,
+              "divers": 0,
+              "gesamt": 56
+          },
+          {
+              "name": "Nigeria",
+              "frauen": 1110,
+              "maenner": 875,
+              "divers": 2,
+              "gesamt": 1989
+          },
+          {
+              "name": "Norwegen",
+              "frauen": 7,
+              "maenner": 3,
+              "divers": 0,
+              "gesamt": 10
+          },
+          {
+              "name": "Oman",
+              "frauen": 1,
+              "maenner": 0,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Österreich",
+              "frauen": 11,
+              "maenner": 9,
+              "divers": 0,
+              "gesamt": 20
+          },
+          {
+              "name": "Pakistan",
+              "frauen": 148,
+              "maenner": 579,
+              "divers": 0,
+              "gesamt": 727
+          },
+          {
+              "name": "Palästina",
+              "frauen": 95,
+              "maenner": 211,
+              "divers": 0,
+              "gesamt": 306
+          },
+          {
+              "name": "Panama",
+              "frauen": 1,
+              "maenner": 0,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Paraguay",
+              "frauen": 5,
+              "maenner": 3,
+              "divers": 0,
+              "gesamt": 8
+          },
+          {
+              "name": "Peru",
+              "frauen": 50,
+              "maenner": 28,
+              "divers": 0,
+              "gesamt": 78
+          },
+          {
+              "name": "Philippinen",
+              "frauen": 42,
+              "maenner": 5,
+              "divers": 0,
+              "gesamt": 47
+          },
+          {
+              "name": "Polen",
+              "frauen": 891,
+              "maenner": 573,
+              "divers": 1,
+              "gesamt": 1465
+          },
+          {
+              "name": "Portugal",
+              "frauen": 219,
+              "maenner": 181,
+              "divers": 0,
+              "gesamt": 400
+          },
+          {
+              "name": "Ruanda",
+              "frauen": 3,
+              "maenner": 10,
+              "divers": 0,
+              "gesamt": 13
+          },
+          {
+              "name": "Rumänien",
+              "frauen": 960,
+              "maenner": 616,
+              "divers": 0,
+              "gesamt": 1576
+          },
+          {
+              "name": "Russische Föderation",
+              "frauen": 870,
+              "maenner": 505,
+              "divers": 0,
+              "gesamt": 1376
+          },
+          {
+              "name": "Salamonen",
+              "frauen": 3,
+              "maenner": 0,
+              "divers": 0,
+              "gesamt": 3
+          },
+          {
+              "name": "Sambia",
+              "frauen": 4,
+              "maenner": 3,
+              "divers": 0,
+              "gesamt": 7
+          },
+          {
+              "name": "Saudi-Arabien",
+              "frauen": 11,
+              "maenner": 7,
+              "divers": 0,
+              "gesamt": 18
+          },
+          {
+              "name": "Schweden",
+              "frauen": 7,
+              "maenner": 12,
+              "divers": 0,
+              "gesamt": 19
+          },
+          {
+              "name": "Schweiz",
+              "frauen": 3,
+              "maenner": 4,
+              "divers": 0,
+              "gesamt": 7
+          },
+          {
+              "name": "Senegal",
+              "frauen": 23,
+              "maenner": 63,
+              "divers": 0,
+              "gesamt": 86
+          },
+          {
+              "name": "Serbien",
+              "frauen": 410,
+              "maenner": 260,
+              "divers": 0,
+              "gesamt": 670
+          },
+          {
+              "name": "Sierra Leone",
+              "frauen": 38,
+              "maenner": 104,
+              "divers": 0,
+              "gesamt": 142
+          },
+          {
+              "name": "Simbabwe",
+              "frauen": 8,
+              "maenner": 5,
+              "divers": 0,
+              "gesamt": 13
+          },
+          {
+              "name": "Singapur",
+              "frauen": 1,
+              "maenner": 0,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Slowakei",
+              "frauen": 44,
+              "maenner": 44,
+              "divers": 0,
+              "gesamt": 88
+          },
+          {
+              "name": "Slowenien",
+              "frauen": 18,
+              "maenner": 10,
+              "divers": 1,
+              "gesamt": 29
+          },
+          {
+              "name": "Somalia",
+              "frauen": 740,
+              "maenner": 953,
+              "divers": 0,
+              "gesamt": 1694
+          },
+          {
+              "name": "Sonstige - Afrika",
+              "frauen": 3,
+              "maenner": 7,
+              "divers": 0,
+              "gesamt": 10
+          },
+          {
+              "name": "Sonstige - Asien",
+              "frauen": 8,
+              "maenner": 16,
+              "divers": 0,
+              "gesamt": 24
+          },
+          {
+              "name": "Sonstige - Europa",
+              "frauen": 2,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 3
+          },
+          {
+              "name": "Sonstige - Heimatloser Ausländ",
+              "frauen": 2,
+              "maenner": 3,
+              "divers": 0,
+              "gesamt": 5
+          },
+          {
+              "name": "Sonstige - Ohne Angabe",
+              "frauen": 19,
+              "maenner": 51,
+              "divers": 0,
+              "gesamt": 70
+          },
+          {
+              "name": "Sonstige - Staatenlos",
+              "frauen": 61,
+              "maenner": 109,
+              "divers": 0,
+              "gesamt": 170
+          },
+          {
+              "name": "Sonstige -Staatsangehörigkeit",
+              "frauen": 3,
+              "maenner": 12,
+              "divers": 0,
+              "gesamt": 15
+          },
+          {
+              "name": "Sowjetunion",
+              "frauen": 3,
+              "maenner": 6,
+              "divers": 0,
+              "gesamt": 9
+          },
+          {
+              "name": "Spanien",
+              "frauen": 338,
+              "maenner": 258,
+              "divers": 0,
+              "gesamt": 596
+          },
+          {
+              "name": "Sri Lanka",
+              "frauen": 52,
+              "maenner": 99,
+              "divers": 0,
+              "gesamt": 151
+          },
+          {
+              "name": "Südafrika",
+              "frauen": 11,
+              "maenner": 11,
+              "divers": 0,
+              "gesamt": 22
+          },
+          {
+              "name": "Sudan",
+              "frauen": 44,
+              "maenner": 124,
+              "divers": 0,
+              "gesamt": 168
+          },
+          {
+              "name": "Syrien, Arabische Republik",
+              "frauen": 4253,
+              "maenner": 10094,
+              "divers": 3,
+              "gesamt": 14351
+          },
+          {
+              "name": "Tadschikistan",
+              "frauen": 35,
+              "maenner": 68,
+              "divers": 0,
+              "gesamt": 103
+          },
+          {
+              "name": "Taiwan",
+              "frauen": 1,
+              "maenner": 0,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Tansania, Vereinigte Republik",
+              "frauen": 11,
+              "maenner": 10,
+              "divers": 0,
+              "gesamt": 21
+          },
+          {
+              "name": "Thailand",
+              "frauen": 48,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 49
+          },
+          {
+              "name": "Togo",
+              "frauen": 58,
+              "maenner": 61,
+              "divers": 0,
+              "gesamt": 119
+          },
+          {
+              "name": "Trinidad und Tobago",
+              "frauen": 2,
+              "maenner": 1,
+              "divers": 0,
+              "gesamt": 3
+          },
+          {
+              "name": "Tschad",
+              "frauen": 2,
+              "maenner": 6,
+              "divers": 0,
+              "gesamt": 8
+          },
+          {
+              "name": "Tschechien",
+              "frauen": 41,
+              "maenner": 25,
+              "divers": 0,
+              "gesamt": 66
+          },
+          {
+              "name": "Tunesien",
+              "frauen": 80,
+              "maenner": 96,
+              "divers": 0,
+              "gesamt": 176
+          },
+          {
+              "name": "Türkei",
+              "frauen": 779,
+              "maenner": 1145,
+              "divers": 0,
+              "gesamt": 1924
+          },
+          {
+              "name": "Turkmenistan",
+              "frauen": 9,
+              "maenner": 2,
+              "divers": 0,
+              "gesamt": 11
+          },
+          {
+              "name": "Uganda",
+              "frauen": 25,
+              "maenner": 26,
+              "divers": 0,
+              "gesamt": 51
+          },
+          {
+              "name": "Ukraine",
+              "frauen": 332,
+              "maenner": 173,
+              "divers": 0,
+              "gesamt": 505
+          },
+          {
+              "name": "Ungarn",
+              "frauen": 93,
+              "maenner": 58,
+              "divers": 0,
+              "gesamt": 151
+          },
+          {
+              "name": "Uruguay",
+              "frauen": 7,
+              "maenner": 6,
+              "divers": 0,
+              "gesamt": 13
+          },
+          {
+              "name": "Usbekistan",
+              "frauen": 9,
+              "maenner": 5,
+              "divers": 0,
+              "gesamt": 14
+          },
+          {
+              "name": "Venezuela",
+              "frauen": 84,
+              "maenner": 48,
+              "divers": 0,
+              "gesamt": 132
+          },
+          {
+              "name": "Vereinigte Arabische Emriate",
+              "frauen": 2,
+              "maenner": 0,
+              "divers": 0,
+              "gesamt": 2
+          },
+          {
+              "name": "Vereinigte Staaten",
+              "frauen": 24,
+              "maenner": 30,
+              "divers": 0,
+              "gesamt": 54
+          },
+          {
+              "name": "Vereinigtes Königreich",
+              "frauen": 17,
+              "maenner": 32,
+              "divers": 0,
+              "gesamt": 49
+          },
+          {
+              "name": "Vietnam",
+              "frauen": 113,
+              "maenner": 40,
+              "divers": 0,
+              "gesamt": 154
+          },
+          {
+              "name": "Weißrussland (Belarus)",
+              "frauen": 58,
+              "maenner": 11,
+              "divers": 0,
+              "gesamt": 69
+          },
+          {
+              "name": "Zentralafrikanische Republik",
+              "frauen": 1,
+              "maenner": 9,
+              "divers": 0,
+              "gesamt": 10
+          },
+          {
+              "name": "Zypern",
+              "frauen": 3,
+              "maenner": 2,
+              "divers": 0,
+              "gesamt": 5
+          }
+      ]
+  },
+  {
+      "title": "Aufenthaltsstatus",
+      "dimension": "Lebenslage",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Ohne Eintragung",
+              "frauen": 579,
+              "maenner": 700,
+              "divers": 3,
+              "gesamt": 1287
+          },
+          {
+              "name": "Aufenthaltsgestattung (§ 55 AsylG)",
+              "frauen": 2021,
+              "maenner": 4407,
+              "divers": 0,
+              "gesamt": 6430
+          },
+          {
+              "name": "Ankunftsnachweis/Bescheinigung über die Meldung als Asylsuchender (BüMA) (§ 63a AsylG)",
+              "frauen": 34,
+              "maenner": 59,
+              "divers": 0,
+              "gesamt": 93
+          },
+          {
+              "name": "Abschiebungsverbot (§ 25 Abs.3 AufenthG)",
+              "frauen": 710,
+              "maenner": 850,
+              "divers": 0,
+              "gesamt": 1560
+          },
+          {
+              "name": "Asylanerkennung (§ 25 Abs.1 AufenthG)",
+              "frauen": 421,
+              "maenner": 838,
+              "divers": 0,
+              "gesamt": 1259
+          },
+          {
+              "name": "Aufenthaltsgewährung durch Landesbehörden (§ 23 Abs. 1 AufenthG)",
+              "frauen": 46,
+              "maenner": 55,
+              "divers": 0,
+              "gesamt": 101
+          },
+          {
+              "name": "Aufnahme aus dem Ausland (§ 22 AufenthG)",
+              "frauen": 34,
+              "maenner": 40,
+              "divers": 0,
+              "gesamt": 74
+          },
+          {
+              "name": "Ausbildung / Studium (§ 16 ff AufenthG)",
+              "frauen": 176,
+              "maenner": 190,
+              "divers": 1,
+              "gesamt": 367
+          },
+          {
+              "name": "Ausreisehindernisse (§ 25 Abs. 5 AufenthG)",
+              "frauen": 229,
+              "maenner": 283,
+              "divers": 0,
+              "gesamt": 512
+          },
+          {
+              "name": "Ausreisepflicht (§ 50 AufenthG)",
+              "frauen": 25,
+              "maenner": 97,
+              "divers": 0,
+              "gesamt": 122
+          },
+          {
+              "name": "Besonders gelagerte politischen Interessen (§ 23 Abs. 2 AufenthG)",
+              "frauen": 133,
+              "maenner": 195,
+              "divers": 0,
+              "gesamt": 328
+          },
+          {
+              "name": "Bleiberecht (§ 104a i.V.m. § 23 Abs.1 AufenthG)",
+              "frauen": 24,
+              "maenner": 20,
+              "divers": 0,
+              "gesamt": 44
+          },
+          {
+              "name": "Daueraufenthalt-EU (Langfristig Aufenthaltsberechtigte) (§ 9a AufenthG)",
+              "frauen": 511,
+              "maenner": 406,
+              "divers": 1,
+              "gesamt": 918
+          },
+          {
+              "name": "Duldung -  Ausbildungsduldung  (§ 60c AufenthG)",
+              "frauen": 24,
+              "maenner": 74,
+              "divers": 0,
+              "gesamt": 98
+          },
+          {
+              "name": "Duldung -  Beschäftigungsduldung  (§ 60d AufenthG)",
+              "frauen": 3,
+              "maenner": 16,
+              "divers": 0,
+              "gesamt": 19
+          },
+          {
+              "name": "Duldung für Personen mit ungeklärter Identität  (§ 60b AufenthG)",
+              "frauen": 29,
+              "maenner": 108,
+              "divers": 0,
+              "gesamt": 137
+          },
+          {
+              "name": "Duldung - Vorübergehende Aussetzung der Abschiebung  (§ 60a AufenthG)",
+              "frauen": 671,
+              "maenner": 1649,
+              "divers": 1,
+              "gesamt": 2322
+          },
+          {
+              "name": "Ehemalige Deutsche (§ 38 AufenthG)",
+              "frauen": 8,
+              "maenner": 6,
+              "divers": 0,
+              "gesamt": 14
+          },
+          {
+              "name": "Familiäre Gründe (§§ 27 ff AufenthG)",
+              "frauen": 2645,
+              "maenner": 902,
+              "divers": 1,
+              "gesamt": 3548
+          },
+          {
+              "name": "Fiktionsbescheinigung (§ 81 Abs.3 AufenhG)",
+              "frauen": 208,
+              "maenner": 303,
+              "divers": 0,
+              "gesamt": 511
+          },
+          {
+              "name": "Gut integrierter Jugendlicher (§ 25a AufenthG)",
+              "frauen": 15,
+              "maenner": 30,
+              "divers": 0,
+              "gesamt": 45
+          },
+          {
+              "name": "Härtefälle (§ 23a AufenthG)",
+              "frauen": 49,
+              "maenner": 61,
+              "divers": 0,
+              "gesamt": 110
+          },
+          {
+              "name": "Langfristig Aufenthaltsberechtigt (§ 38 a AufenthG)",
+              "frauen": 80,
+              "maenner": 160,
+              "divers": 0,
+              "gesamt": 240
+          },
+          {
+              "name": "Nachhaltige Integration (§ 25b AufenthG)",
+              "frauen": 25,
+              "maenner": 44,
+              "divers": 0,
+              "gesamt": 69
+          },
+          {
+              "name": "National Schutzberechtigte (§ 25 Abs.3 AufenthG)",
+              "frauen": 310,
+              "maenner": 363,
+              "divers": 0,
+              "gesamt": 673
+          },
+          {
+              "name": "Niederlassungserlaubnis (§ 9 AufenthG)",
+              "frauen": 715,
+              "maenner": 856,
+              "divers": 0,
+              "gesamt": 1571
+          },
+          {
+              "name": "Opfer von Menschenhandel (§ 25 Abs. 4a, 4b AufenthG)",
+              "frauen": 7,
+              "maenner": 2,
+              "divers": 0,
+              "gesamt": 9
+          },
+          {
+              "name": "Resettlementflüchtling (§ 23 Abs. 4 AufenthG)",
+              "frauen": 45,
+              "maenner": 74,
+              "divers": 0,
+              "gesamt": 119
+          },
+          {
+              "name": "Selbständige Erwerbstätigkeit (§ 21 AufenthG)",
+              "frauen": 16,
+              "maenner": 27,
+              "divers": 0,
+              "gesamt": 43
+          },
+          {
+              "name": "Subsidiärer Schutz (§ 25 Abs. 2 Satz 1, 2. Alt. AufenthG)",
+              "frauen": 1937,
+              "maenner": 3947,
+              "divers": 2,
+              "gesamt": 5886
+          },
+          {
+              "name": "Unselbständige Erwerbstätigkeit (§§ 18 ff AufenthG)",
+              "frauen": 175,
+              "maenner": 247,
+              "divers": 1,
+              "gesamt": 423
+          },
+          {
+              "name": "Vorübergehender Aufenthalt aus humanitären Gründen, Aufgrund besonderer Umstände (§ 25 Abs. 4 AufenthG)",
+              "frauen": 59,
+              "maenner": 44,
+              "divers": 0,
+              "gesamt": 103
+          },
+          {
+              "name": "Vorübergehender Schutz (§ 24 AufenthG)",
+              "frauen": 13,
+              "maenner": 42,
+              "divers": 0,
+              "gesamt": 55
+          },
+          {
+              "name": "Zuerkennung  Flüchtlingseigenschaft-GFK  (§ 25 Abs. 2 Satz 1, 1. Alt. AufenthG)",
+              "frauen": 2905,
+              "maenner": 7385,
+              "divers": 1,
+              "gesamt": 10291
+          },
+          {
+              "name": "-  BUNDESVERTRIEBENENGESETZ  -",
+              "frauen": 1,
+              "maenner": 0,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Ehegatten/Angehörige nach § 7 Abs.2  BVFG",
+              "frauen": 366,
+              "maenner": 206,
+              "divers": 0,
+              "gesamt": 572
+          },
+          {
+              "name": "Einbezogene nach § 8 Abs.2 BVFG",
+              "frauen": 80,
+              "maenner": 52,
+              "divers": 0,
+              "gesamt": 132
+          },
+          {
+              "name": "Spätaussiedler nach § 4 BVFG",
+              "frauen": 493,
+              "maenner": 257,
+              "divers": 0,
+              "gesamt": 751
+          },
+          {
+              "name": "Daueraufenthaltsrecht  (§ 4a FreizügigG/EU)",
+              "frauen": 1102,
+              "maenner": 1031,
+              "divers": 0,
+              "gesamt": 2133
+          },
+          {
+              "name": "Familienangehörige von freizügigskeitsberechtigten EU-Bürgern (§ 3 FreizügG)",
+              "frauen": 726,
+              "maenner": 183,
+              "divers": 0,
+              "gesamt": 909
+          },
+          {
+              "name": "Freizügigkeitsberechtigte EU-Bürger (§ 2 FreizügigG)",
+              "frauen": 2157,
+              "maenner": 1830,
+              "divers": 2,
+              "gesamt": 3989
+          },
+          {
+              "name": "Nichterwerbstätiger EU-Bürger (§ 4 FreizügG)",
+              "frauen": 315,
+              "maenner": 193,
+              "divers": 0,
+              "gesamt": 508
+          },
+          {
+              "name": "-  SONSTIGES -",
+              "frauen": 1,
+              "maenner": 0,
+              "divers": 0,
+              "gesamt": 1
+          },
+          {
+              "name": "Aufenthalt ohne rechtliche Grundlage",
+              "frauen": 63,
+              "maenner": 54,
+              "divers": 0,
+              "gesamt": 117
+          },
+          {
+              "name": "Aufenthaltsrecht nach Art. 10 Verordnung 492/2011",
+              "frauen": 3,
+              "maenner": 2,
+              "divers": 0,
+              "gesamt": 5
+          },
+          {
+              "name": "deutsche Staatsangehörigkeit",
+              "frauen": 614,
+              "maenner": 586,
+              "divers": 1,
+              "gesamt": 1201
+          },
+          {
+              "name": "Tourist",
+              "frauen": 144,
+              "maenner": 103,
+              "divers": 0,
+              "gesamt": 247
+          },
+          {
+              "name": "Unbekannt",
+              "frauen": 153,
+              "maenner": 176,
+              "divers": 2,
+              "gesamt": 331
+          },
+          {
+              "name": "Weitere / Andere / Sonstige",
+              "frauen": 293,
+              "maenner": 262,
+              "divers": 0,
+              "gesamt": 555
+          },
+          {
+              "name": "Aufenthaltsbefugnis (§ 30 ff AuslG)",
+              "frauen": 39,
+              "maenner": 19,
+              "divers": 0,
+              "gesamt": 58
+          },
+          {
+              "name": "Aufenthaltsberechtigung (§ 27 AuslG)",
+              "frauen": 13,
+              "maenner": 15,
+              "divers": 0,
+              "gesamt": 28
+          },
+          {
+              "name": "Aufenthaltsbewilligung (§ 28, 29 AuslG)",
+              "frauen": 112,
+              "maenner": 34,
+              "divers": 0,
+              "gesamt": 146
+          },
+          {
+              "name": "Aufenthaltserlaubnis aus humanitären Gründen (s.u. Flüchtlingsspezifische Kriterien)",
+              "frauen": 132,
+              "maenner": 258,
+              "divers": 0,
+              "gesamt": 390
+          },
+          {
+              "name": "Aufenthaltserlaubnis befristet (§ 15, 17 AuslG)",
+              "frauen": 46,
+              "maenner": 37,
+              "divers": 0,
+              "gesamt": 83
+          },
+          {
+              "name": "Aufenthaltserlaubnis unbefristet (§ 24 ff AuslG)",
+              "frauen": 98,
+              "maenner": 57,
+              "divers": 0,
+              "gesamt": 155
+          },
+          {
+              "name": "Fam.-Angehörig. V. Freizügigkeitsberecht. EU-Bürger (§ 1(2) AufenthG/EWG)",
+              "frauen": 19,
+              "maenner": 5,
+              "divers": 0,
+              "gesamt": 24
+          },
+          {
+              "name": "Fam.-Angehörig. V. Freizügigkeitsberecht. EU-Bürger (§ 1(2) FreizügV/EG)",
+              "frauen": 11,
+              "maenner": 5,
+              "divers": 0,
+              "gesamt": 16
+          },
+          {
+              "name": "Freizügigkeitsberecht. EU-Bürger (§ 1(1) AufenthG/EWG)",
+              "frauen": 78,
+              "maenner": 73,
+              "divers": 0,
+              "gesamt": 151
+          },
+          {
+              "name": "Freizügigkeitsberecht. EU-Bürger (§ 1(1) FreizügV/EG)",
+              "frauen": 39,
+              "maenner": 55,
+              "divers": 0,
+              "gesamt": 94
+          },
+          {
+              "name": "Grenzübertrittsbescheinigung",
+              "frauen": 10,
+              "maenner": 14,
+              "divers": 0,
+              "gesamt": 24
+          },
+          {
+              "name": "Kontingentflüchtling (§ 23 AufenthG)",
+              "frauen": 18,
+              "maenner": 25,
+              "divers": 0,
+              "gesamt": 43
+          },
+          {
+              "name": "Verlängertes Bleiberecht auf Probe (§ 23 Abs.1 AufenthG)",
+              "frauen": 0,
+              "maenner": 5,
+              "divers": 0,
+              "gesamt": 5
+          },
+          {
+              "name": "Vertriebene gemäß § 1 und 2 BVFG",
+              "frauen": 3,
+              "maenner": 6,
+              "divers": 0,
+              "gesamt": 9
+          }
+      ]
+  },
+  {
+      "title": "Lebenssituation",
+      "dimension": "Lebenslage",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "ohne Eintragung",
+              "frauen": 5164,
+              "maenner": 6344,
+              "divers": 7,
+              "gesamt": 11540
+          },
+          {
+              "name": "Alleinleben",
+              "frauen": 3821,
+              "maenner": 11607,
+              "divers": 6,
+              "gesamt": 15436
+          },
+          {
+              "name": "mit Eltern",
+              "frauen": 869,
+              "maenner": 991,
+              "divers": 0,
+              "gesamt": 1861
+          },
+          {
+              "name": "mit Eltern und Kind(ern)",
+              "frauen": 239,
+              "maenner": 169,
+              "divers": 0,
+              "gesamt": 408
+          },
+          {
+              "name": "mit Freunden /  Bekannten",
+              "frauen": 127,
+              "maenner": 229,
+              "divers": 1,
+              "gesamt": 357
+          },
+          {
+              "name": "mit Kind(ern)",
+              "frauen": 5595,
+              "maenner": 697,
+              "divers": 1,
+              "gesamt": 6297
+          },
+          {
+              "name": "mit Partner/in",
+              "frauen": 2516,
+              "maenner": 2387,
+              "divers": 1,
+              "gesamt": 4904
+          },
+          {
+              "name": "mit Partner/in und Eltern",
+              "frauen": 141,
+              "maenner": 183,
+              "divers": 1,
+              "gesamt": 325
+          },
+          {
+              "name": "mit Partner/in und Kind(ern)",
+              "frauen": 7823,
+              "maenner": 11051,
+              "divers": 0,
+              "gesamt": 18875
+          },
+          {
+              "name": "mit Partner/in, Eltern und Kind(ern)",
+              "frauen": 104,
+              "maenner": 140,
+              "divers": 0,
+              "gesamt": 244
+          },
+          {
+              "name": "mit sonstigen Personen",
+              "frauen": 242,
+              "maenner": 1015,
+              "divers": 0,
+              "gesamt": 1258
+          },
+          {
+              "name": "mit Verwandten",
+              "frauen": 382,
+              "maenner": 616,
+              "divers": 1,
+              "gesamt": 999
+          },
+          {
+              "name": "unbekannt",
+              "frauen": 297,
+              "maenner": 556,
+              "divers": 2,
+              "gesamt": 855
+          }
+      ]
+  },
+  {
+      "title": "Wohnsituation",
+      "dimension": "Lebenslage",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "ohne Eintragung",
+              "frauen": 6065,
+              "maenner": 7271,
+              "divers": 7,
+              "gesamt": 13370
+          },
+          {
+              "name": "(eigene) Wohnung",
+              "frauen": 14999,
+              "maenner": 17394,
+              "divers": 4,
+              "gesamt": 32399
+          },
+          {
+              "name": "bei Bekannten",
+              "frauen": 409,
+              "maenner": 527,
+              "divers": 1,
+              "gesamt": 937
+          },
+          {
+              "name": "bei Familie / PartnerIn",
+              "frauen": 1061,
+              "maenner": 840,
+              "divers": 0,
+              "gesamt": 1901
+          },
+          {
+              "name": "Einr. für Senioren / Jugendliche",
+              "frauen": 34,
+              "maenner": 86,
+              "divers": 0,
+              "gesamt": 120
+          },
+          {
+              "name": "in Haft",
+              "frauen": 1,
+              "maenner": 15,
+              "divers": 0,
+              "gesamt": 16
+          },
+          {
+              "name": "Sonstiges",
+              "frauen": 163,
+              "maenner": 167,
+              "divers": 1,
+              "gesamt": 331
+          },
+          {
+              "name": "unbekannt",
+              "frauen": 159,
+              "maenner": 226,
+              "divers": 2,
+              "gesamt": 387
+          },
+          {
+              "name": "Unterbr.-Einr. der Kommune",
+              "frauen": 2644,
+              "maenner": 5593,
+              "divers": 3,
+              "gesamt": 8241
+          },
+          {
+              "name": "Unterbr.-Einr. des Landes / Bundes",
+              "frauen": 1493,
+              "maenner": 3073,
+              "divers": 2,
+              "gesamt": 4572
+          },
+          {
+              "name": "Wohngemeinschaft (WG)",
+              "frauen": 171,
+              "maenner": 510,
+              "divers": 0,
+              "gesamt": 681
+          },
+          {
+              "name": "Wohnungslos",
+              "frauen": 121,
+              "maenner": 283,
+              "divers": 0,
+              "gesamt": 404
+          }
+      ]
+  },
+  {
+      "title": "Familienstand",
+      "dimension": "Lebenslage",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "ohne Eintragung",
+              "frauen": 3671,
+              "maenner": 4395,
+              "divers": 6,
+              "gesamt": 8095
+          },
+          {
+              "name": "eingetragene Lebensgemeinschaft",
+              "frauen": 142,
+              "maenner": 136,
+              "divers": 0,
+              "gesamt": 278
+          },
+          {
+              "name": "geschieden",
+              "frauen": 1940,
+              "maenner": 960,
+              "divers": 0,
+              "gesamt": 2901
+          },
+          {
+              "name": "getrennt lebend",
+              "frauen": 1850,
+              "maenner": 724,
+              "divers": 0,
+              "gesamt": 2575
+          },
+          {
+              "name": "ledig",
+              "frauen": 6192,
+              "maenner": 11676,
+              "divers": 12,
+              "gesamt": 17884
+          },
+          {
+              "name": "Sonstiges",
+              "frauen": 172,
+              "maenner": 176,
+              "divers": 0,
+              "gesamt": 348
+          },
+          {
+              "name": "unbekannt",
+              "frauen": 754,
+              "maenner": 953,
+              "divers": 2,
+              "gesamt": 1709
+          },
+          {
+              "name": "verheiratet",
+              "frauen": 11554,
+              "maenner": 16767,
+              "divers": 0,
+              "gesamt": 28326
+          },
+          {
+              "name": "verwitwet",
+              "frauen": 1045,
+              "maenner": 198,
+              "divers": 0,
+              "gesamt": 1243
+          }
+      ]
+  },
+  {
+      "title": "Einkommen",
+      "dimension": "Lebenslage",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Erwerbseinkommen (Lohn/Gehalt)",
+              "frauen": 943,
+              "maenner": 1372,
+              "divers": 0,
+              "gesamt": 2315
+          },
+          {
+              "name": "450 Euro Job",
+              "frauen": 302,
+              "maenner": 202,
+              "divers": 0,
+              "gesamt": 504
+          },
+          {
+              "name": "unregelmässiges Einkommen",
+              "frauen": 98,
+              "maenner": 118,
+              "divers": 0,
+              "gesamt": 216
+          },
+          {
+              "name": "Ausbildungsbeihilfe BAFöG",
+              "frauen": 24,
+              "maenner": 45,
+              "divers": 0,
+              "gesamt": 69
+          },
+          {
+              "name": "Asylbewerberleistungsgesetz",
+              "frauen": 603,
+              "maenner": 1270,
+              "divers": 0,
+              "gesamt": 1873
+          },
+          {
+              "name": "ALG I",
+              "frauen": 137,
+              "maenner": 254,
+              "divers": 0,
+              "gesamt": 391
+          },
+          {
+              "name": "ALG II",
+              "frauen": 2878,
+              "maenner": 3113,
+              "divers": 0,
+              "gesamt": 5991
+          },
+          {
+              "name": "Hilfe zum Lebensunterhalt SGB XII",
+              "frauen": 85,
+              "maenner": 62,
+              "divers": 0,
+              "gesamt": 147
+          },
+          {
+              "name": "Grundsicherung Erwerbsminderung SGB XII",
+              "frauen": 74,
+              "maenner": 59,
+              "divers": 0,
+              "gesamt": 133
+          },
+          {
+              "name": "Grundsicherung im Alter SGB XII",
+              "frauen": 109,
+              "maenner": 80,
+              "divers": 0,
+              "gesamt": 189
+          },
+          {
+              "name": "Sozialgeld",
+              "frauen": 47,
+              "maenner": 39,
+              "divers": 0,
+              "gesamt": 86
+          },
+          {
+              "name": "Altersrente / Pension",
+              "frauen": 187,
+              "maenner": 152,
+              "divers": 0,
+              "gesamt": 339
+          },
+          {
+              "name": "Berufsunfähigkeitsrente",
+              "frauen": 10,
+              "maenner": 9,
+              "divers": 0,
+              "gesamt": 19
+          },
+          {
+              "name": "Erwerbsminderungsrente",
+              "frauen": 29,
+              "maenner": 18,
+              "divers": 0,
+              "gesamt": 47
+          },
+          {
+              "name": "Krankengeld",
+              "frauen": 27,
+              "maenner": 31,
+              "divers": 0,
+              "gesamt": 58
+          },
+          {
+              "name": "Übergangsgeld",
+              "frauen": 12,
+              "maenner": 9,
+              "divers": 0,
+              "gesamt": 21
+          },
+          {
+              "name": "Leistung aus Pflegeversicherung",
+              "frauen": 18,
+              "maenner": 13,
+              "divers": 0,
+              "gesamt": 31
+          },
+          {
+              "name": "Elterngeld",
+              "frauen": 79,
+              "maenner": 42,
+              "divers": 0,
+              "gesamt": 121
+          },
+          {
+              "name": "Mutterschaftsgeld",
+              "frauen": 22,
+              "maenner": 3,
+              "divers": 0,
+              "gesamt": 25
+          },
+          {
+              "name": "Kindergeld",
+              "frauen": 733,
+              "maenner": 449,
+              "divers": 0,
+              "gesamt": 1182
+          },
+          {
+              "name": "Kindergeldzuschlag",
+              "frauen": 106,
+              "maenner": 78,
+              "divers": 0,
+              "gesamt": 184
+          },
+          {
+              "name": "Wohngeld",
+              "frauen": 112,
+              "maenner": 95,
+              "divers": 0,
+              "gesamt": 207
+          },
+          {
+              "name": "Unterhalt von Angehörigen",
+              "frauen": 362,
+              "maenner": 62,
+              "divers": 0,
+              "gesamt": 424
+          },
+          {
+              "name": "Leistungen aus Vermögen",
+              "frauen": 7,
+              "maenner": 11,
+              "divers": 0,
+              "gesamt": 18
+          },
+          {
+              "name": "Einkünfte aus Fonds",
+              "frauen": 0,
+              "maenner": 2,
+              "divers": 0,
+              "gesamt": 2
+          },
+          {
+              "name": "Sonstiges",
+              "frauen": 514,
+              "maenner": 267,
+              "divers": 0,
+              "gesamt": 781
+          }
+      ]
+  },
+  {
+      "title": "Sprachförderbedarf",
+      "dimension": "Lebenslage",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Mit Sprachförderbedarf",
+              "frauen": 32120,
+              "maenner": 40040,
+              "divers": 0,
+              "gesamt": 72160
+          },
+          {
+              "name": "bei Beratungsbeginn bereits in IK od. anderem Sprachkurs",
+              "frauen": 7854,
+              "maenner": 9275,
+              "divers": 0,
+              "gesamt": 17129
+          },
+          {
+              "name": "Vor Beratungsbeginn IK abgeschlossen",
+              "frauen": 6049,
+              "maenner": 8475,
+              "divers": 0,
+              "gesamt": 14524
+          },
+          {
+              "name": "Integrationskurs Teilnahme Berechtigung",
+              "frauen": 10275,
+              "maenner": 13145,
+              "divers": 0,
+              "gesamt": 23420
+          },
+          {
+              "name": "Integrationskurs Teilnahmeverpflichtung",
+              "frauen": 9463,
+              "maenner": 11480,
+              "divers": 0,
+              "gesamt": 20943
+          },
+          {
+              "name": "Integrationskurs keine Teilnahmeberechtigung",
+              "frauen": 2936,
+              "maenner": 3856,
+              "divers": 0,
+              "gesamt": 6792
+          },
+          {
+              "name": "Weiterleitung an Integrationskurs",
+              "frauen": 10761,
+              "maenner": 13371,
+              "divers": 0,
+              "gesamt": 24132
+          },
+          {
+              "name": "Weiterleitung an anderen Sprachkurs",
+              "frauen": 2957,
+              "maenner": 3980,
+              "divers": 0,
+              "gesamt": 6937
+          },
+          {
+              "name": "Am Integrationskurs wird/wurde teilgenommen",
+              "frauen": 11920,
+              "maenner": 15203,
+              "divers": 0,
+              "gesamt": 27123
+          },
+          {
+              "name": "Am sonstigen Sprachkurs wird/wurde teilgenommen",
+              "frauen": 2326,
+              "maenner": 3829,
+              "divers": 0,
+              "gesamt": 6155
+          },
+          {
+              "name": "Abschluss Niveau A1",
+              "frauen": 1682,
+              "maenner": 2218,
+              "divers": 0,
+              "gesamt": 3900
+          },
+          {
+              "name": "Abschluss Niveau A2",
+              "frauen": 4201,
+              "maenner": 5020,
+              "divers": 0,
+              "gesamt": 9221
+          },
+          {
+              "name": "Abschluss Niveau B1",
+              "frauen": 4157,
+              "maenner": 5835,
+              "divers": 0,
+              "gesamt": 9992
+          },
+          {
+              "name": "Abschluss Höher als B1",
+              "frauen": 1688,
+              "maenner": 2389,
+              "divers": 0,
+              "gesamt": 4077
+          }
+      ]
+  },
+  {
+      "title": "berufliche Situation",
+      "dimension": "Lebenslage",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "ohne Eintragung",
+              "frauen": 9944,
+              "maenner": 12215,
+              "divers": 11,
+              "gesamt": 22202
+          },
+          {
+              "name": "Arbeitslos",
+              "frauen": 7898,
+              "maenner": 11975,
+              "divers": 4,
+              "gesamt": 19879
+          },
+          {
+              "name": "Auszubildende/r",
+              "frauen": 206,
+              "maenner": 528,
+              "divers": 0,
+              "gesamt": 734
+          },
+          {
+              "name": "Berufl. Vorbereitungsmaßnahme",
+              "frauen": 90,
+              "maenner": 185,
+              "divers": 0,
+              "gesamt": 275
+          },
+          {
+              "name": "Berufstätig (Teilzeit)",
+              "frauen": 1695,
+              "maenner": 1536,
+              "divers": 1,
+              "gesamt": 3232
+          },
+          {
+              "name": "Berufstätig (Vollzeit)",
+              "frauen": 955,
+              "maenner": 4568,
+              "divers": 0,
+              "gesamt": 5523
+          },
+          {
+              "name": "Erwerbsminderung teilweise",
+              "frauen": 37,
+              "maenner": 38,
+              "divers": 0,
+              "gesamt": 75
+          },
+          {
+              "name": "Erwerbsminderung voll",
+              "frauen": 118,
+              "maenner": 108,
+              "divers": 0,
+              "gesamt": 226
+          },
+          {
+              "name": "Hausfrau/Hausman/Elternzeit",
+              "frauen": 2975,
+              "maenner": 170,
+              "divers": 0,
+              "gesamt": 3145
+          },
+          {
+              "name": "Praktikant/in",
+              "frauen": 26,
+              "maenner": 44,
+              "divers": 0,
+              "gesamt": 70
+          },
+          {
+              "name": "Rentner/in  /  Pensionär/in",
+              "frauen": 659,
+              "maenner": 554,
+              "divers": 0,
+              "gesamt": 1213
+          },
+          {
+              "name": "Schüler/in",
+              "frauen": 300,
+              "maenner": 490,
+              "divers": 1,
+              "gesamt": 791
+          },
+          {
+              "name": "Selbständig",
+              "frauen": 75,
+              "maenner": 175,
+              "divers": 0,
+              "gesamt": 250
+          },
+          {
+              "name": "Sonstiges",
+              "frauen": 419,
+              "maenner": 523,
+              "divers": 0,
+              "gesamt": 942
+          },
+          {
+              "name": "Sprachkursus",
+              "frauen": 1301,
+              "maenner": 1856,
+              "divers": 0,
+              "gesamt": 3157
+          },
+          {
+              "name": "Student/in",
+              "frauen": 103,
+              "maenner": 175,
+              "divers": 1,
+              "gesamt": 279
+          },
+          {
+              "name": "unbekannt",
+              "frauen": 508,
+              "maenner": 833,
+              "divers": 2,
+              "gesamt": 1343
+          },
+          {
+              "name": "Wehr-Zivildienst,soz.Jahr,etc.",
+              "frauen": 11,
+              "maenner": 12,
+              "divers": 0,
+              "gesamt": 23
+          }
+      ]
+  },
+  {
+      "title": "berufliche Ausbildung",
+      "dimension": "Lebenslage",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "ohne Eintragung",
+              "frauen": 13557,
+              "maenner": 17087,
+              "divers": 13,
+              "gesamt": 30690
+          },
+          {
+              "name": "Abgeschl. akademische Berufsausbildung",
+              "frauen": 1903,
+              "maenner": 1913,
+              "divers": 0,
+              "gesamt": 3816
+          },
+          {
+              "name": "Abgeschl. Berufsausbildung",
+              "frauen": 2426,
+              "maenner": 2655,
+              "divers": 0,
+              "gesamt": 5081
+          },
+          {
+              "name": "Derzeit in 1. Berufsausbildung",
+              "frauen": 227,
+              "maenner": 478,
+              "divers": 0,
+              "gesamt": 705
+          },
+          {
+              "name": "Keine Berufsausbildung abgeschlossen",
+              "frauen": 2149,
+              "maenner": 3257,
+              "divers": 1,
+              "gesamt": 5407
+          },
+          {
+              "name": "Keine Berufsausbildung begonnen",
+              "frauen": 3209,
+              "maenner": 3636,
+              "divers": 2,
+              "gesamt": 6847
+          },
+          {
+              "name": "Meister / Techniker",
+              "frauen": 23,
+              "maenner": 113,
+              "divers": 0,
+              "gesamt": 136
+          },
+          {
+              "name": "unbekannt",
+              "frauen": 3826,
+              "maenner": 6846,
+              "divers": 4,
+              "gesamt": 10677
+          }
+      ]
+  },
+  {
+      "title": "Arbeitsgenehmigung",
+      "dimension": "Lebenslage",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Arbeitsberechtigung",
+              "frauen": 127,
+              "maenner": 151,
+              "divers": 0,
+              "gesamt": 278
+          },
+          {
+              "name": "Arbeitserlaubnis",
+              "frauen": 479,
+              "maenner": 692,
+              "divers": 0,
+              "gesamt": 1171
+          },
+          {
+              "name": "Erwerbstätigkeit gestattet",
+              "frauen": 8168,
+              "maenner": 12595,
+              "divers": 4,
+              "gesamt": 20767
+          },
+          {
+              "name": "Erwerbstätigkeit nicht gestattet",
+              "frauen": 1002,
+              "maenner": 2426,
+              "divers": 2,
+              "gesamt": 3431
+          },
+          {
+              "name": "Keine Genehmigung erforderlich",
+              "frauen": 2858,
+              "maenner": 2537,
+              "divers": 1,
+              "gesamt": 5396
+          },
+          {
+              "name": "nachrangiger Arbeitsmarktzugang",
+              "frauen": 523,
+              "maenner": 1183,
+              "divers": 0,
+              "gesamt": 1706
+          },
+          {
+              "name": "Wartefrist läuft",
+              "frauen": 152,
+              "maenner": 338,
+              "divers": 0,
+              "gesamt": 490
+          }
+      ]
+  },
+  {
+      "title": "Altersgruppen",
+      "dimension": "Lebenslage",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Bis unter 16 J.",
+              "frauen": 235,
+              "maenner": 297,
+              "divers": 0,
+              "gesamt": 533
+          },
+          {
+              "name": "16 J. bis unter 18 J.",
+              "frauen": 88,
+              "maenner": 108,
+              "divers": 1,
+              "gesamt": 197
+          },
+          {
+              "name": "18 J. bis unter 20 J.",
+              "frauen": 286,
+              "maenner": 431,
+              "divers": 0,
+              "gesamt": 718
+          },
+          {
+              "name": "20 J. bis unter 25 J.",
+              "frauen": 1767,
+              "maenner": 3210,
+              "divers": 2,
+              "gesamt": 4980
+          },
+          {
+              "name": "25 J. bis unter 28 J.",
+              "frauen": 1770,
+              "maenner": 2623,
+              "divers": 2,
+              "gesamt": 4397
+          },
+          {
+              "name": "28 J. bis unter30 J.",
+              "frauen": 1451,
+              "maenner": 2121,
+              "divers": 0,
+              "gesamt": 3572
+          },
+          {
+              "name": "30 J. bis unter 45 J.",
+              "frauen": 11388,
+              "maenner": 14154,
+              "divers": 6,
+              "gesamt": 25553
+          },
+          {
+              "name": "45 J. bis unter 60 J.",
+              "frauen": 4406,
+              "maenner": 5658,
+              "divers": 1,
+              "gesamt": 10067
+          },
+          {
+              "name": "60 J. bis unter 65 J.",
+              "frauen": 739,
+              "maenner": 775,
+              "divers": 0,
+              "gesamt": 1514
+          },
+          {
+              "name": "65 J. und älter",
+              "frauen": 1043,
+              "maenner": 914,
+              "divers": 3,
+              "gesamt": 1960
+          },
+          {
+              "name": "unbekannt",
+              "frauen": 4118,
+              "maenner": 5671,
+              "divers": 5,
+              "gesamt": 9816
+          }
+      ]
+  },
+  {
+      "title": "Methode",
+      "dimension": "Kenntnisse",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Aufsuchende Beratung",
+              "frauen": 365,
+              "maenner": 563,
+              "divers": 2,
+              "gesamt": 930
+          },
+          {
+              "name": "Begleitung",
+              "frauen": 3,
+              "maenner": 5,
+              "divers": 0,
+              "gesamt": 8
+          },
+          {
+              "name": "Case Management",
+              "frauen": 29380,
+              "maenner": 34026,
+              "divers": 0,
+              "gesamt": 63406
+          },
+          {
+              "name": "Fallmanagement",
+              "frauen": 1734,
+              "maenner": 653,
+              "divers": 0,
+              "gesamt": 2387
+          },
+          {
+              "name": "Kurz-/Verweisberatung",
+              "frauen": 933,
+              "maenner": 1291,
+              "divers": 0,
+              "gesamt": 2224
+          },
+          {
+              "name": "Kurzkontakt",
+              "frauen": 71056,
+              "maenner": 96526,
+              "divers": 55,
+              "gesamt": 167775
+          },
+          {
+              "name": "Lernberatung",
+              "frauen": 61,
+              "maenner": 26,
+              "divers": 0,
+              "gesamt": 87
+          },
+          {
+              "name": "Prozess",
+              "frauen": 26530,
+              "maenner": 37538,
+              "divers": 0,
+              "gesamt": 64068
+          },
+          {
+              "name": "Qualifizierte Lotsenberatung / Kurzberatung",
+              "frauen": 1879,
+              "maenner": 991,
+              "divers": 0,
+              "gesamt": 2870
+          },
+          {
+              "name": "Sozialpädagogische Begleitung ohne Integrationskurs",
+              "frauen": 34,
+              "maenner": 33,
+              "divers": 0,
+              "gesamt": 67
+          },
+          {
+              "name": "Sozialpädagogische Begleitungen Integrationskurs",
+              "frauen": 284,
+              "maenner": 121,
+              "divers": 0,
+              "gesamt": 405
+          },
+          {
+              "name": "Themen(-komplex)",
+              "frauen": 1804,
+              "maenner": 2709,
+              "divers": 0,
+              "gesamt": 4513
+          }
+      ]
+  },
+  {
+      "title": "Erbrachte Leistungen",
+      "dimension": "Kenntnisse",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Sondierungsgespräch, Analyse",
+              "frauen": 29979,
+              "maenner": 37606,
+              "divers": 55,
+              "gesamt": 67640
+          },
+          {
+              "name": "Kompetenzanalyse",
+              "frauen": 9252,
+              "maenner": 10269,
+              "divers": 0,
+              "gesamt": 19521
+          },
+          {
+              "name": "Beratung im Integrationsprozeß",
+              "frauen": 38343,
+              "maenner": 50555,
+              "divers": 2,
+              "gesamt": 88900
+          },
+          {
+              "name": "Abschluß einer Integrationsvereinbarung",
+              "frauen": 428,
+              "maenner": 492,
+              "divers": 0,
+              "gesamt": 920
+          },
+          {
+              "name": "Erstellen eines Förderplans",
+              "frauen": 5559,
+              "maenner": 6032,
+              "divers": 0,
+              "gesamt": 11591
+          },
+          {
+              "name": "Arbeiten mit dem Förderplan",
+              "frauen": 23118,
+              "maenner": 25667,
+              "divers": 0,
+              "gesamt": 48785
+          },
+          {
+              "name": "Sozialpädagogische Begleitung",
+              "frauen": 3859,
+              "maenner": 4541,
+              "divers": 0,
+              "gesamt": 8400
+          },
+          {
+              "name": "Krisenintervention",
+              "frauen": 5554,
+              "maenner": 6928,
+              "divers": 0,
+              "gesamt": 12482
+          },
+          {
+              "name": "Anwaltschaft im Einzelnen",
+              "frauen": 38711,
+              "maenner": 52703,
+              "divers": 3,
+              "gesamt": 91417
+          },
+          {
+              "name": "Vermittlung zu anderen Diensten/Regelversorgung",
+              "frauen": 11098,
+              "maenner": 15148,
+              "divers": 1,
+              "gesamt": 26247
+          },
+          {
+              "name": "Vermittlung in Integrationskurs",
+              "frauen": 837,
+              "maenner": 997,
+              "divers": 0,
+              "gesamt": 1834
+          },
+          {
+              "name": "Vermittlung in anderen Sprachkurs",
+              "frauen": 327,
+              "maenner": 409,
+              "divers": 0,
+              "gesamt": 736
+          },
+          {
+              "name": "Beratung hinsichtlich Weiterwanderung",
+              "frauen": 127,
+              "maenner": 150,
+              "divers": 0,
+              "gesamt": 277
+          }
+      ]
+  },
+  {
+      "title": "Arbeit",
+      "dimension": "Beratungsthema",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Anerkennung von im Ausland erworbener Abschlüsse",
+              "frauen": 1533,
+              "maenner": 1801,
+              "divers": 0,
+              "gesamt": 3336
+          },
+          {
+              "name": "Arbeitsaufnahme",
+              "frauen": 1776,
+              "maenner": 2636,
+              "divers": 0,
+              "gesamt": 4413
+          },
+          {
+              "name": "Arbeitserlaubnis",
+              "frauen": 631,
+              "maenner": 1068,
+              "divers": 0,
+              "gesamt": 1700
+          },
+          {
+              "name": "Arbeitslosigkeit / Arbeitssuche",
+              "frauen": 4469,
+              "maenner": 5939,
+              "divers": 1,
+              "gesamt": 10410
+          },
+          {
+              "name": "Berufliche Fort-und Weiterbildung",
+              "frauen": 1033,
+              "maenner": 1196,
+              "divers": 0,
+              "gesamt": 2229
+          },
+          {
+              "name": "Probleme mit der Arbeitsstelle",
+              "frauen": 1153,
+              "maenner": 1505,
+              "divers": 0,
+              "gesamt": 2658
+          },
+          {
+              "name": "Selbstständigkeit",
+              "frauen": 86,
+              "maenner": 131,
+              "divers": 0,
+              "gesamt": 217
+          }
+      ]
+  },
+  {
+      "title": "Asylverfahren",
+      "dimension": "Beratungsthema",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Asylrecht / Asylverfahren",
+              "frauen": 6308,
+              "maenner": 9839,
+              "divers": 15,
+              "gesamt": 16195
+          },
+          {
+              "name": "Dublin-Fälle",
+              "frauen": 253,
+              "maenner": 538,
+              "divers": 4,
+              "gesamt": 796
+          },
+          {
+              "name": "Kirchenasyl",
+              "frauen": 12,
+              "maenner": 18,
+              "divers": 0,
+              "gesamt": 30
+          },
+          {
+              "name": "Umverteilung",
+              "frauen": 1487,
+              "maenner": 1890,
+              "divers": 0,
+              "gesamt": 3382
+          }
+      ]
+  },
+  {
+      "title": "Aufenthaltsrecht",
+      "dimension": "Beratungsthema",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Aufenthaltsrecht / rechtl.Status",
+              "frauen": 11260,
+              "maenner": 14761,
+              "divers": 9,
+              "gesamt": 26045
+          },
+          {
+              "name": "Duldung",
+              "frauen": 133,
+              "maenner": 164,
+              "divers": 0,
+              "gesamt": 297
+          },
+          {
+              "name": "Familiennachzug /-zusammenführung",
+              "frauen": 5033,
+              "maenner": 7007,
+              "divers": 0,
+              "gesamt": 12042
+          },
+          {
+              "name": "Härtefallkommission",
+              "frauen": 265,
+              "maenner": 406,
+              "divers": 0,
+              "gesamt": 671
+          }
+      ]
+  },
+  {
+      "title": "Ausreise",
+      "dimension": "Beratungsthema",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Ausreise freiwillig",
+              "frauen": 742,
+              "maenner": 1150,
+              "divers": 0,
+              "gesamt": 1894
+          },
+          {
+              "name": "Ausreise, unfreiwillig",
+              "frauen": 389,
+              "maenner": 795,
+              "divers": 0,
+              "gesamt": 1186
+          }
+      ]
+  },
+  {
+      "title": "Bildung",
+      "dimension": "Beratungsthema",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Ausbildung / Studium",
+              "frauen": 2452,
+              "maenner": 2875,
+              "divers": 0,
+              "gesamt": 5329
+          },
+          {
+              "name": "Deutschkenntnisse",
+              "frauen": 7311,
+              "maenner": 7749,
+              "divers": 2,
+              "gesamt": 15071
+          },
+          {
+              "name": "Kindertageseinrichtungen",
+              "frauen": 3111,
+              "maenner": 3737,
+              "divers": 9,
+              "gesamt": 6863
+          },
+          {
+              "name": "Schule",
+              "frauen": 3736,
+              "maenner": 4944,
+              "divers": 0,
+              "gesamt": 8682
+          }
+      ]
+  },
+  {
+      "title": "Dokumente und Anträge",
+      "dimension": "Beratungsthema",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Ausfüllen von Anträgen",
+              "frauen": 9668,
+              "maenner": 13253,
+              "divers": 3,
+              "gesamt": 22929
+          },
+          {
+              "name": "Beschaffung / Ausstellung von Dokumenten",
+              "frauen": 6214,
+              "maenner": 8046,
+              "divers": 4,
+              "gesamt": 14271
+          }
+      ]
+  },
+  {
+      "title": "Erwerb der dt. Staatsbürgerschaft",
+      "dimension": "Beratungsthema",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": []
+  },
+  {
+      "title": "Familie/Kinder/Partnerschaft",
+      "dimension": "Beratungsthema",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Ehe / Partnerschaft",
+              "frauen": 1125,
+              "maenner": 1277,
+              "divers": 0,
+              "gesamt": 2404
+          },
+          {
+              "name": "Erziehung / Generationskonflikte",
+              "frauen": 671,
+              "maenner": 734,
+              "divers": 0,
+              "gesamt": 1405
+          },
+          {
+              "name": "Familienprobleme",
+              "frauen": 1798,
+              "maenner": 1727,
+              "divers": 0,
+              "gesamt": 3529
+          },
+          {
+              "name": "Trennung / Unterhalt / Sorgerecht",
+              "frauen": 1916,
+              "maenner": 1950,
+              "divers": 0,
+              "gesamt": 3866
+          }
+      ]
+  },
+  {
+      "title": "Gesundheit",
+      "dimension": "Beratungsthema",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Behinderung",
+              "frauen": 1163,
+              "maenner": 1764,
+              "divers": 0,
+              "gesamt": 2927
+          },
+          {
+              "name": "Gesundheit / Gesundheitliche Probleme",
+              "frauen": 7193,
+              "maenner": 9493,
+              "divers": 3,
+              "gesamt": 16715
+          },
+          {
+              "name": "Psychische Probleme / Traumatisierung",
+              "frauen": 1637,
+              "maenner": 1819,
+              "divers": 0,
+              "gesamt": 3456
+          },
+          {
+              "name": "Schwangerschaft / Geburt",
+              "frauen": 2138,
+              "maenner": 2001,
+              "divers": 2,
+              "gesamt": 4142
+          },
+          {
+              "name": "Suchtkrankheiten",
+              "frauen": 115,
+              "maenner": 110,
+              "divers": 0,
+              "gesamt": 225
+          }
+      ]
+  },
+  {
+      "title": "Persönliche Lebensumstände/Krisen",
+      "dimension": "Beratungsthema",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Fluchtschicksal",
+              "frauen": 184,
+              "maenner": 247,
+              "divers": 0,
+              "gesamt": 431
+          },
+          {
+              "name": "Freizeitmöglichkeiten",
+              "frauen": 488,
+              "maenner": 613,
+              "divers": 0,
+              "gesamt": 1101
+          },
+          {
+              "name": "Häusliche Gewalt",
+              "frauen": 444,
+              "maenner": 334,
+              "divers": 0,
+              "gesamt": 780
+          },
+          {
+              "name": "Isolation / Vereinsamung",
+              "frauen": 213,
+              "maenner": 275,
+              "divers": 0,
+              "gesamt": 488
+          },
+          {
+              "name": "Kulturelle Identität",
+              "frauen": 128,
+              "maenner": 146,
+              "divers": 0,
+              "gesamt": 274
+          },
+          {
+              "name": "Religiöse Fragen",
+              "frauen": 44,
+              "maenner": 61,
+              "divers": 0,
+              "gesamt": 105
+          },
+          {
+              "name": "Sterbefälle",
+              "frauen": 221,
+              "maenner": 179,
+              "divers": 0,
+              "gesamt": 400
+          },
+          {
+              "name": "Straffälligkeit / Ordnungswidrigkeiten",
+              "frauen": 1733,
+              "maenner": 2846,
+              "divers": 1,
+              "gesamt": 4584
+          }
+      ]
+  },
+  {
+      "title": "Unbegleitete Minderjährige",
+      "dimension": "Beratungsthema",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": []
+  },
+  {
+      "title": "Ungleichbehandlung und Ausgrenzung",
+      "dimension": "Beratungsthema",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": []
+  },
+  {
+      "title": "Unterstützungsleistungen",
+      "dimension": "Beratungsthema",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "ALG I",
+              "frauen": 1560,
+              "maenner": 2107,
+              "divers": 0,
+              "gesamt": 3667
+          },
+          {
+              "name": "ALG II",
+              "frauen": 11609,
+              "maenner": 14223,
+              "divers": 2,
+              "gesamt": 25841
+          },
+          {
+              "name": "AsylbLG",
+              "frauen": 1599,
+              "maenner": 2399,
+              "divers": 4,
+              "gesamt": 4002
+          },
+          {
+              "name": "Bildungs- und Teilhabepaket",
+              "frauen": 1662,
+              "maenner": 2132,
+              "divers": 2,
+              "gesamt": 3796
+          },
+          {
+              "name": "SGB IX",
+              "frauen": 13,
+              "maenner": 15,
+              "divers": 0,
+              "gesamt": 28
+          },
+          {
+              "name": "SGB XII",
+              "frauen": 256,
+              "maenner": 382,
+              "divers": 1,
+              "gesamt": 639
+          },
+          {
+              "name": "SGBXI",
+              "frauen": 10,
+              "maenner": 10,
+              "divers": 0,
+              "gesamt": 20
+          },
+          {
+              "name": "Soziale Unterstützungsleistungen",
+              "frauen": 14860,
+              "maenner": 18882,
+              "divers": 5,
+              "gesamt": 33761
+          }
+      ]
+  },
+  {
+      "title": "Verbraucherfragen",
+      "dimension": "Beratungsthema",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Rundfunkgebühren",
+              "frauen": 1484,
+              "maenner": 1805,
+              "divers": 0,
+              "gesamt": 3289
+          },
+          {
+              "name": "Sonstige Verbraucherfragen",
+              "frauen": 5944,
+              "maenner": 7974,
+              "divers": 3,
+              "gesamt": 13924
+          }
+      ]
+  },
+  {
+      "title": "Versicherungen",
+      "dimension": "Beratungsthema",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Kranken- / Pflegeversicherung",
+              "frauen": 4110,
+              "maenner": 5197,
+              "divers": 0,
+              "gesamt": 9309
+          },
+          {
+              "name": "Private Versicherungen",
+              "frauen": 201,
+              "maenner": 262,
+              "divers": 0,
+              "gesamt": 463
+          },
+          {
+              "name": "Rentenangelegenheiten",
+              "frauen": 996,
+              "maenner": 1135,
+              "divers": 1,
+              "gesamt": 2132
+          }
+      ]
+  },
+  {
+      "title": "Wirtschaftliche Situation",
+      "dimension": "Beratungsthema",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Existenzsicherung / wirtschaftliche Sit.",
+              "frauen": 8508,
+              "maenner": 10856,
+              "divers": 1,
+              "gesamt": 19369
+          },
+          {
+              "name": "Verschuldung / Überschuldung",
+              "frauen": 4152,
+              "maenner": 5812,
+              "divers": 7,
+              "gesamt": 9971
+          }
+      ]
+  },
+  {
+      "title": "Wohnen",
+      "dimension": "Beratungsthema",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": []
+  },
+  {
+      "title": "Behörde",
+      "dimension": "Partner_Organisationen",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Allgemeiner Sozialdienst (ASD)"
+          },
+          {
+              "name": "Arbeitsamt / Arbeitsagentur"
+          },
+          {
+              "name": "Ausländeramt"
+          },
+          {
+              "name": "BAMF"
+          },
+          {
+              "name": "Gesetzliche Betreuung"
+          },
+          {
+              "name": "Gesundheitsamt"
+          },
+          {
+              "name": "Integrations-, AussiedlerInnen-, AusländerInnenbeauftragte/r"
+          },
+          {
+              "name": "Integrationskursträger"
+          },
+          {
+              "name": "Jobcenter"
+          },
+          {
+              "name": "Jugendamt"
+          },
+          {
+              "name": "Jugendmigrationsdienste"
+          },
+          {
+              "name": "Justizvollzugsanstalt / Jugendstrafanstalt"
+          },
+          {
+              "name": "Kommunale Migrationsdienste"
+          },
+          {
+              "name": "Kommunale Referate für Integrationsfragen"
+          },
+          {
+              "name": "Migrationserstberatung (MBE)"
+          },
+          {
+              "name": "Polizei / Justiz"
+          },
+          {
+              "name": "Sozialamt"
+          },
+          {
+              "name": "Stadtverwaltung / Gemeindeverwaltung"
+          }
+      ]
+  },
+  {
+      "title": "Bildungseinrichtung",
+      "dimension": "Partner_Organisationen",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Allgemeinbildende Schulen"
+          },
+          {
+              "name": "Berufliche Schulen / Berufsschulen"
+          },
+          {
+              "name": "Bildungsträger für Aus- und Weiterbildung"
+          },
+          {
+              "name": "Einrichtungen der schulbezogenen Jugendsozialarbeit"
+          },
+          {
+              "name": "Einrichtungen für berufsvorbereitende Maßnahmen"
+          },
+          {
+              "name": "Erziehungsberatung"
+          },
+          {
+              "name": "Kindertagesstätten"
+          }
+      ]
+  },
+  {
+      "title": "Medizinische / Pflegeeinrichtung",
+      "dimension": "Partner_Organisationen",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Ambulante / Stationäre Altenhilfeeinrichtungen"
+          },
+          {
+              "name": "Krankenhäuser"
+          },
+          {
+              "name": "Psychologen/innen"
+          },
+          {
+              "name": "Schwangerschaftsberatung"
+          },
+          {
+              "name": "Therapeuten / Psychotherapeuten"
+          }
+      ]
+  },
+  {
+      "title": "Wohlfahrtsverband",
+      "dimension": "Partner_Organisationen",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Andere Caritasorganisationen"
+          },
+          {
+              "name": "Andere Wohlfahrtsverbände"
+          },
+          {
+              "name": "Ehrenamtliche"
+          },
+          {
+              "name": "Selbsthilfevereine"
+          },
+          {
+              "name": "Übergangswohnheime / Gemeinschaftsunterkünfte / Aufnahmeeinrichtungen"
+          }
+      ]
+  },
+  {
+      "title": "Migrantenorganisation",
+      "dimension": "Partner_Organisationen",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Vereine von MigrantInnen"
+          },
+          {
+              "name": "Flüchtlingsorganisationen"
+          },
+          {
+              "name": "Anderweitig geförderte Erwachsenenmigrationsdienste"
+          }
+      ]
+  },
+  {
+      "title": "Betriebe",
+      "dimension": "Partner_Organisationen",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "ArbeitgeberInnen / Betriebe"
+          },
+          {
+              "name": "Gewerkschaft / Betriebsrat"
+          }
+      ]
+  },
+  {
+      "title": "Kulturzentren",
+      "dimension": "Partner_Organisationen",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Begegnungsstätten / Kulturzentren"
+          },
+          {
+              "name": "Interkulturelle Zentren / Vereine"
+          }
+      ]
+  },
+  {
+      "title": "Kinder- und Jugendhilfeeinrichtung",
+      "dimension": "Partner_Organisationen",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Jugendzentren / offene Jugendarbeit"
+          },
+          {
+              "name": "Einrichtungen der Heimerziehung"
+          },
+          {
+              "name": "Beratungsstellen der Jugendhilfe"
+          }
+      ]
+  },
+  {
+      "title": "Frauenorganisationen",
+      "dimension": "Partner_Organisationen",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Frauenhaus"
+          }
+      ]
+  },
+  {
+      "title": "Kirchliche Organisationen",
+      "dimension": "Partner_Organisationen",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Kirchengemeinden"
+          },
+          {
+              "name": "Kirchliche Institutionen"
+          }
+      ]
+  },
+  {
+      "title": "Spezielle Dienste",
+      "dimension": "Partner_Organisationen",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": [
+          {
+              "name": "Sprachmittler"
+          },
+          {
+              "name": "Schuldnerberatung"
+          },
+          {
+              "name": "Rechtsanwalt/wältin"
+          }
+      ]
+  },
+  {
+      "title": "Sonstige",
+      "dimension": "Partner_Organisationen",
+      "fachgebiet": "Migrationsberatung",
+      "auspraegungen": []
+  }
+]
