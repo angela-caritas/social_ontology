@@ -121,17 +121,17 @@ class CariGraph:
             "edges": [el.to_dict() for el in self.edges],
         }
 
-        with open(path, "w") as file:
+        with open(path, "w", encoding="utf-8") as file:
             json.dump(out_file, file, ensure_ascii=False)
 
     def load_from_file(self, path: str) -> None:
-        with open(path, "r") as file:
+        with open(path, "r", encoding="utf-8") as file:
             graph = json.load(file)
             self.nodes = graph["nodes"]
             self.edges = graph["edges"]
 
     def add_crea_categories(self, path: str) -> None:
-        with open(path, "r") as file:
+        with open(path, "r", encoding="utf-8") as file:
             crea_file = json.load(file)
             crea_categories = crea_file["sub_topics"]
 
@@ -190,7 +190,7 @@ class CariGraph:
                 self.edges.append(edge)
 
     def add_vivendi_categories(self, path: str) -> None:
-        with open(path, "r") as file:
+        with open(path, "r", encoding="utf-8") as file:
             vivendi_file = json.load(file)
             vivendi_categories = vivendi_file["categories"]
 
@@ -241,7 +241,7 @@ class CariGraph:
             self.nodes.append(cat_concept)
 
         # Add all labels
-        with open(path, "r") as file:
+        with open(path, "r", encoding="utf-8") as file:
             glossary_file = json.load(file)
             glossary_categories = [el for el in glossary_file if el["broader"] in main_cats]
 
@@ -277,7 +277,7 @@ class CariGraph:
                 self.edges.append(edge)
 
         # Add Base Label - Glossary Mapping
-        with open(path_mapping, "r") as file:
+        with open(path_mapping, "r", encoding="utf-8") as file:
             mapping_file = json.load(file)["sub_topics"]
             mapping_categories = [
                 item for sublist in list(mapping_file.values()) for item in sublist
@@ -296,7 +296,7 @@ class CariGraph:
                         self.edges.append(edge)
 
     def add_asyl_net_categories(self, path: str, path_mapping: str) -> None:
-        with open(path, "r") as file:
+        with open(path, "r", encoding="utf-8") as file:
             asyl_net_file = json.load(file)
             asyl_net_categories = [
                 el for el in asyl_net_file if el["link"].split("/")[1] == "themen"
@@ -324,7 +324,7 @@ class CariGraph:
             self.edges.append(edge)
 
         # manual mappings
-        with open(path_mapping, "r") as file:
+        with open(path_mapping, "r", encoding="utf-8") as file:
             mapping_file = json.load(file)["sub_topics"]
             mapping_categories = [
                 item for sublist in list(mapping_file.values()) for item in sublist
@@ -344,7 +344,7 @@ class CariGraph:
                         self.edges.append(edge)
 
     def add_geldundschulden_categories(self, path: str) -> None:
-        with open(path, "r") as file:
+        with open(path, "r", encoding="utf-8") as file:
             gus_categories = json.load(file)
 
         seen_cat = []
@@ -378,7 +378,7 @@ class CariGraph:
             self.edges.append(edge)
 
     def add_ebis_categories(self, path: str, path_mapping: str) -> None:
-        with open(path, "r") as file:
+        with open(path, "r", encoding="utf-8") as file:
             ebis_categories = json.load(file)
 
         # create root nodes
@@ -407,7 +407,7 @@ class CariGraph:
                 self.edges.append(edge)
 
         # manual mappings
-        with open(path_mapping, "r") as file:
+        with open(path_mapping, "r", encoding="utf-8") as file:
             mapping_file = json.load(file)["sub_topics"]
             mapping_categories = [
                 item for sublist in list(mapping_file.values()) for item in sublist
@@ -427,7 +427,7 @@ class CariGraph:
                         self.edges.append(edge)
 
     def add_thesaurus_synonyms(self, path: str) -> None:
-        with open(path, "r") as file:
+        with open(path, "r", encoding="utf-8") as file:
             synonym_categories = json.load(file)
 
         # create root nodes
@@ -462,7 +462,7 @@ class CariGraph:
                         self.edges.append(edge)
 
     def add_crea_dimensions(self, path: str) -> None:
-        with open(path, "r") as file:
+        with open(path, "r", encoding="utf-8") as file:
             categories = json.load(file)
 
         dimensions_ = list(set([cat["dimension"] for cat in categories]))
