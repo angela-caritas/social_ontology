@@ -99,3 +99,9 @@ Weitere Informationen zum abgeschlossenen Projekt: https://www.caritas-digital.d
 <img src="./logos/Caritas-Logo.png" width="175"> <img src="./logos/BMFSFJ gefördert vom.jpg" width="250"> <img src="./logos/Logo_bunt-e1662710104640.jpg" width="300">
 
 Kontakt: digitale-transformation@caritas.de
+
+
+## KI-Transparenz
+
+Bei der Analyse des ursprünglichen CariFIX-Backends und der Dokumentation dieses Repositories wurde ChatGPT (OpenAI) als unterstützendes Werkzeug verwendet. Dies umfasste die Untersuchung der Projektstruktur und der vorhandenen Funktionen, den Vergleich mit dem ursprünglichen CariFIX-Backend sowie die Erarbeitung und sprachliche Überarbeitung der Dokumentation. 
+Die fachlichen Inhalte und die ursprüngliche Implementierung der Ontologie wurden nicht im Rahmen dieser KI-Unterstützung erstellt oder geprüft. Diese gehen auf das ursprüngliche Projekt zurück.
