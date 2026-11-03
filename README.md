@@ -96,6 +96,6 @@ Das Projekt wurde 2020-2022 vom Bundesministerium für Familie, Senioren, Frauen
 
 Weitere Informationen zum abgeschlossenen Projekt: https://www.caritas-digital.de/projekte/lernende-systeme-in-der-beratung/
 
-<img src="./logos/Caritas-Logo.jpg" width="130"> <img src="./logos/BMFSFJ gefördert vom.jpg" width="250"> <img src="./logos/Logo_bunt-e1662710104640.jpg" width="300">
+<img src="./logos/Caritas-Logo.png" width="175"> <img src="./logos/BMFSFJ gefördert vom.jpg" width="250"> <img src="./logos/Logo_bunt-e1662710104640.jpg" width="300">
 
 Kontakt: digitale-transformation@caritas.de
